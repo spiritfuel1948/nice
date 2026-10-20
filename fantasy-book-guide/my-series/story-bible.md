@@ -24,8 +24,19 @@ enemy peace-hostages sent to a summit together. An assassin attacks them, and
 a desperate spell saves them by linking their lives: if one dies, both die.
 See [brainstorm-the-chain.md](brainstorm-the-chain.md#the-pick-treaty-wards--heart-thread).
 
-**Thread rules (draft, to finalize together):** distance limit ______ ·
-shared pain/injury? ______ · what makes it fray ______ · how it can be undone ______
+**Heart-Thread rules:**
+- If one dies, both die.
+- **Every spell the wizard casts frays the thread**, shortening the time they
+  have left. So the wizard has to rely on the knight's sword.
+- How it can be undone: ______ *(open)*
+- Not used: shared emotions, shared injuries, distance sickness. They can be
+  apart, but the cost of magic keeps them needing each other.
+
+**Romance:** A **hint of slow-burn**: sparks and tension, nothing official in
+Part 1. It stays a classic adventure.
+
+**Point of view:** **Alternating chapters**, knight and wizard, in third person
+limited (Lesson 11).
 
 | | The Knight | The Wizard |
 |---|---|---|
