@@ -132,7 +132,7 @@ sworn over it.
 | **Cost:** what does each spell take? | Hours of life for small spells, **years** for great ones. Wizards look young but die early. Since the Heart-Thread, Emrys and Maren share **one** life, so every spell he casts spends her time too. |
 | **Limits:** what can it **never** do? | **It can't break oath-steel.** |
 | **Weakness / counter:** what stops it? | **Oath-forged steel:** a blade forged while a knight speaks their oath can cut a spell in half, and armor forged the same way turns magic aside. That's why knights were the only thing wizards feared in the old war, and why Maren's sword can do what Emrys's magic can't. |
-| **Society:** how is it treated (respected, licensed, feared, hunted)? | |
+| **Society:** how is it treated (respected, licensed, feared, hunted)? | **The tower owns its wizards through the Life-Ledger.** The tower trains you, so it owns your life. Every spell you cast in its service is recorded in the great Ledger. Only when the debt is paid do you earn a **Master's star**, and your remaining years become your own. *That's what Emrys wants.* **The tower's offer to him:** steal the Dragon's Heart, and his debt is wiped clean. **Ideas to add emotional weight:** (1) the tower made Emrys cast big spells as a child prodigy, so he has **fewer years left than he admits**; (2) the Ledger can't tell whose life he's spending since the Heart-Thread, so it may be recording *Maren's* years as tower debt. |
 | **Signature:** what does casting look, sound, and feel like? | |
 | **Hard or soft?** What does the reader learn, and when? | |
 
