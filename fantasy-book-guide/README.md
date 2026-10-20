@@ -1,9 +1,10 @@
 # Wizards & Knights: Your Fantasy Book Guide (Start Here)
 
 > ## ▶ Next up
-> **Step 5a-2:** Pick what *really* started the war, the truth readers learn in
-> Part 4. *(About 1 minute: choose from 4 options.)*
-> **After that:** 5b, the road and the summit city. Then 5c, the knights' oath.
+> **Step 5b:** Pick where the summit is held, which also decides the road the
+> 4 parts travel. *(About 1 minute: choose from 4 options.)*
+> **After that:** 5c, the knights' oath (the actual words). Then 5d, the
+> wizards' tower.
 >
 > *Listening instead?* Play Lessons 6–7 (characters) on the
 > [read-aloud page](https://claude.ai/artifact/G2tu6adFXPzH7A5gN8CJdt). They prepare you for Step 3c.
@@ -91,8 +92,8 @@ We're on **Step 3**. Check off each step as we finish it.
   - [x] 4d. The relic: **the Last Dragon's Heart**, still beating after 300 years
 - [ ] **Step 5.** Build the knightly orders, the world, and its "iceberg" of lore (Lessons 2, 4, 5) ← **you are here**
   - [x] 5a. The war: **nobody agrees why it started**; the truth comes out in Part 4
-  - [ ] 5a-2. What *really* started it (the hidden truth) ← **next**
-  - [ ] 5b. The road and the summit city (where the journey goes)
+  - [x] 5a-2. The hidden truth: **one false accusation**. A knight was framed for killing a wizard prince.
+  - [ ] 5b. The road and the summit city (where the journey goes) ← **next**
   - [ ] 5c. The knights' order and its oath (the actual words)
   - [ ] 5d. The wizards' tower and how it controls its wizards
 - [ ] **Step 6.** Create the main characters: want, need, wound, Lie (Lessons 6–7)

@@ -157,10 +157,22 @@ started it, wizards say the knights did, and peasants tell a third story. The
 truth is buried (Lesson 5: lore that's partly wrong). Maren and Emrys each grew
 up believing one version, so **their arguments are the war in miniature.** The
 truth is revealed in **Part 4**.
-- Knights' version: ______
-- Wizards' version: ______
-- Peasants' version: ______
-- **What really happened (the author knows; readers find out in Part 4):** ______
+- **What really happened (the author knows; readers find out in Part 4):**
+  **One false accusation.** Three hundred years ago, a wizard prince was found
+  dead with a knight's dagger in him. The knight was innocent, framed, but
+  nobody asked questions. Orders were given, and three centuries of war
+  followed. *That's the theme in history: obeying without asking "is this
+  right?"* **The deeper mystery: who framed the knight, and why?**
+- *Draft versions (change freely):*
+  - **Wizards' version:** "A knight murdered our prince in cold blood. We only
+    defended ourselves." (They believe the frame.)
+  - **Knights' version:** "The wizards executed an innocent knight without
+    trial. They wanted the Dragon's Heart and used a lie as their excuse."
+  - **Peasants' version (closest to the truth):** "The prince and the knight
+    were *friends*, and somebody couldn't stand a knight and a wizard being
+    close." *(A quiet echo of Maren and Emrys.)*
+- *Idea:* the assassin's attack on Maren and Emrys could be **staged to frame
+  one side again**. History repeating itself is a strong clue for readers.
 
 **Timeline (the big events only):**
 | Years ago | Event | What people *believe* happened | What *really* happened |
