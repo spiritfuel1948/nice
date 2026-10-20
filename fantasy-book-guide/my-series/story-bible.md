@@ -103,13 +103,15 @@ every chapter (Weiland). Names, genders, and details can all change.
 | **Source:** where does the power come from? | **Life-Spark.** Wizards burn their *own life* to cast. |
 | **Access:** who can use it, and how do they learn? | |
 | **Cost:** what does each spell take? | Hours of life for small spells, **years** for great ones. Wizards look young but die early. Since the Heart-Thread, Emrys and Maren share **one** life, so every spell he casts spends her time too. |
-| **Limits:** what can it **never** do? | |
-| **Weakness / counter:** what stops it? | |
+| **Limits:** what can it **never** do? | **It can't break oath-steel.** |
+| **Weakness / counter:** what stops it? | **Oath-forged steel:** a blade forged while a knight speaks their oath can cut a spell in half, and armor forged the same way turns magic aside. That's why knights were the only thing wizards feared in the old war, and why Maren's sword can do what Emrys's magic can't. |
 | **Society:** how is it treated (respected, licensed, feared, hunted)? | |
 | **Signature:** what does casting look, sound, and feel like? | |
 | **Hard or soft?** What does the reader learn, and when? | |
 
-**The one rule the climax will depend on:**
+**The one rule the climax will depend on:** *(likely)* oath-steel cuts spells.
+Maren's blade plus one last spell from Emrys does what neither could alone.
+Show this rule early (Part 1) so the payoff feels fair (Sanderson's First Law).
 
 ---
 
