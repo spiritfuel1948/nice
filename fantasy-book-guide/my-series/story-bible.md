@@ -18,7 +18,14 @@
 
 **Core relationship:** ☑ **A knight and a wizard forced together**
 
-**The chain (why they can't walk away):** ______
+**The chain (why they can't walk away):** **Treaty Wards + Heart-Thread**
+(picked for marketability; can still change). The knight and the wizard are
+enemy peace-hostages sent to a summit together. An assassin attacks them, and
+a desperate spell saves them by linking their lives: if one dies, both die.
+See [brainstorm-the-chain.md](brainstorm-the-chain.md#the-pick-treaty-wards--heart-thread).
+
+**Thread rules (draft, to finalize together):** distance limit ______ ·
+shared pain/injury? ______ · what makes it fray ______ · how it can be undone ______
 
 | | The Knight | The Wizard |
 |---|---|---|

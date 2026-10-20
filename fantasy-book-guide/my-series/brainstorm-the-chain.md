@@ -118,6 +118,43 @@ forms later:
 
 ---
 
+## The pick: Treaty Wards + Heart-Thread
+
+You asked which would sell best. No one can guarantee sales, but this combo
+fits what readers search for and what publishers are putting out:
+
+- **One-line hook:** *two enemy teens, one shared life; if one dies, both die.*
+  It's easy to fit in a blurb, on a cover, and in a 15-second BookTok video.
+- **Tropes readers search for:** enemies to allies, forced proximity, a
+  magical bond, and a ticking clock. Enemies-to-lovers keeps showing up as the
+  favorite in reader surveys (small samples). A slow-burn romance subplot stays
+  *optional*. Leaving the door open widens the audience without turning the
+  book into romantasy.
+- **It matches what's selling now:** Penguin Random House's *Heir of Illusion*
+  (Feb 2026) is marketed on an "alliance between enemies" plus a binding.
+  ([PRH](https://penguinrandomhouse.com/books/822075/heir-of-illusion-by-madeline-taylor))
+- **It powers a series:** the war and the treaty are the season-long thread.
+  *"Who sent the assassin?"* is a mystery that can stretch across all 4 parts,
+  while each part closes its own smaller thread.
+- **It's very YA:** the adults started the war and made the deal, and the teens
+  pay the price.
+- **It sets up the big ending:** when they finally find a way to cut the
+  thread, they're free to walk away, and they choose each other.
+
+**Runner-up:** The Life-Debt. It's more original and gives a stronger knight
+arc, but it's harder to pitch in one line.
+
+**Making it yours** (life-bonds are a common trope, so the specifics have to
+be fresh):
+- **Tie the thread to the magic's cost.** For example, *every spell the wizard
+  casts frays the thread faster.* The wizard has to rely on the knight's sword,
+  which forces teamwork and causes fights.
+- **Give the bond a strange side effect.** For example, they feel each other's
+  strongest emotions. That's great for banter ("Stop being scared, it's
+  distracting") and for showing emotion (Lesson 8).
+- **Make the cure cost something.** The only person who can unweave the thread
+  is someone, or somewhere, they'd both rather avoid.
+
 ## Stress-test any chain (including your own)
 
 1. Why can't they just walk away?
