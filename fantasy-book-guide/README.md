@@ -1,9 +1,9 @@
 # Wizards & Knights: Your Fantasy Book Guide (Start Here)
 
 > ## ▶ Next up
-> **Step 5c:** Write the knights' oath: 3–6 lines in your own words. *(About 5
-> minutes. Rough is fine, and I'll critique it.)* It appears in the book word
-> for word, so it needs to be yours.
+> **Step 5c:** Review the AI-drafted knights' oath with the checklist in
+> `my-series/ai-use-log.md`. Read it aloud, change anything that doesn't sound
+> right, and tell me what you changed (or "approved as is"). *(About 3 minutes.)*
 > **After that:** 5d, the wizards' tower and how it controls its wizards.
 >
 > *Listening instead?* Play Lessons 6–7 (characters) on the
@@ -94,7 +94,7 @@ We're on **Step 3**. Check off each step as we finish it.
   - [x] 5a. The war: **nobody agrees why it started**; the truth comes out in Part 4
   - [x] 5a-2. The hidden truth: **one false accusation**. A knight was framed for killing a wizard prince.
   - [x] 5b. **The Bridge City** summit; the road's 4 stretches give each part its own setting
-  - [ ] 5c. The knights' oath, **written by you** (it goes into the book word for word) ← **next**
+  - [ ] 5c. The knights' oath: AI-drafted, **waiting on your review** ← **next**
   - [ ] 5d. The wizards' tower and how it controls its wizards
 - [ ] **Step 6.** Create the main characters: want, need, wound, Lie (Lessons 6–7)
 - [ ] **Step 7.** Create the villain, who should believe they're right
@@ -114,24 +114,31 @@ We're on **Step 3**. Check off each step as we finish it.
 
 ---
 
-## How I'll help, and why you should write the words yourself
+## How we write: AI drafts, you review and edit
 
-This matters for your money, so it gets its own section:
+**Your decision (Oct 20, 2026):** AI writes the drafts, and you review and
+edit them before they go into the book. That's allowed on Amazon. Here's what
+comes with it:
 
-- **Copyright requires a human author.** A U.S. federal appeals court confirmed
-  in March 2025 (*Thaler v. Perlmutter*) that work generated entirely by AI isn't
-  copyrightable. If AI writes your book, you may not fully own it.
-- **Amazon requires you to disclose AI-generated content.** That covers text,
-  images, and translations made by AI, *even if you edited them heavily
-  afterward*. **AI-assisted** work, where you wrote it and used AI to brainstorm,
-  edit, or check it, does **not** need to be disclosed.
-- **You said you want to keep writing stories on the side.** You'll only get
-  better by writing yourself.
+- **You must tick "AI-generated" when you publish on KDP.** Text an AI created
+  counts as AI-generated *even after heavy edits*.
+  ([KDP Content Guidelines](https://kdp.amazon.com/en_US/help/topic/G200672390))
+  Amazon has been enforcing this rule.
+- **Copyright covers your human contribution, not the raw AI text.** The U.S.
+  Copyright Office (January 2025) said prompts alone aren't enough for
+  authorship. Your own creative edits and additions *are* protected.
+  ([IPWatchdog summary](https://ipwatchdog.com/2025/01/29/part-two-copyright-office-ai-report-says-creative-prompting-doesnt-constitute-authorship/))
+  **The more you rewrite, the more of the book you own.**
+- **Quality is on the review.** Readers notice flat, generic AI prose, and
+  reviews drive sales. The review checklist in
+  [`my-series/ai-use-log.md`](my-series/ai-use-log.md) is what keeps the book
+  sounding human.
 
-So my role is **teacher, brainstorming partner, and editor**. I'll explain
-techniques, ask questions that push your ideas further, critique your chapters,
-check your plot for holes, and help with blurbs, keywords, and publishing setup.
-All of that counts as "AI-assisted" under Amazon's rules.
+**My role:** I draft scenes from your story bible, and you review every piece
+with the checklist, change what doesn't sound right, and log your edits. I
+still teach, brainstorm, critique, and handle blurbs, keywords, and publishing.
+You can switch back to writing yourself at any time. Your choices and plot
+decisions stay yours either way.
 
 ---
 

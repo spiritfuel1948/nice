@@ -146,9 +146,24 @@ Show this rule early (Part 1) so the payoff feels fair (Sanderson's First Law).
 
 **Order name(s):**
 
-**The oath (exact words):**
->
->
+**The oath (exact words):** *AI-drafted, waiting on your review (see `ai-use-log.md`)*
+> By steel and by dawn, I swear:
+> I will shield the weak and spare the innocent.
+> I will obey my Order without question.
+> I will not yield to fear, nor bow to magic.
+> My word is in my blade, and my blade is in my word.
+> If I break this oath, let my steel break with it.
+
+**How each line works in the story:**
+- **"Spare the innocent" vs. "obey without question"** are the two lines that
+  collide. Maren's secret orders say *kill Emrys*. When she realizes he's
+  innocent, she can't keep both promises (Part 3).
+- **"My word is in my blade"** reflects the rule that oath-steel is forged while
+  the oath is spoken.
+- **"Let my steel break with it"** raises an open question: does breaking the
+  oath *really* break the blade, or stop it from cutting spells? If yes, Maren
+  choosing Emrys over her orders could cost her the one weapon that protects
+  them. **This is a big plot lever, so we'll decide it before outlining.**
 
 **Who can become a knight? How?**
 
