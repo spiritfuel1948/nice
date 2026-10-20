@@ -30,3 +30,4 @@ the book. This log does two jobs:
 | Date | What was AI-drafted | Your edits (what you changed) | Approved? |
 |---|---|---|---|
 | 2026-10-20 | The knights' oath (6 lines) | Read and reviewed; no changes | ✅ Approved as is |
+| 2026-10-20 | Character profiles for Maren & Emrys *(planning notes, not book text)* | *(fill in after your review)* | ☐ |

@@ -1,9 +1,10 @@
 # Wizards & Knights: Your Fantasy Book Guide (Start Here)
 
 > ## ▶ Next up
-> **Step 5e:** Decide whether breaking the oath really breaks the blade (the big
-> plot lever). *(About 1 minute: choose from 4 options.)*
-> **After that:** Step 6, the full character profiles (wounds, fears, voices).
+> **Step 6a:** Review the AI-drafted profiles for Maren & Emrys in
+> `my-series/story-bible.md` (section 6). Do the wounds, fears, and voices feel
+> right? Change anything, or say "approved as is." *(About 5 minutes.)*
+> **After that:** Step 7, the villain: who sent the assassin, and why.
 >
 > *Listening instead?* Play Lessons 6–7 (characters) on the
 > [read-aloud page](https://claude.ai/artifact/G2tu6adFXPzH7A5gN8CJdt). They prepare you for Step 3c.
@@ -89,14 +90,15 @@ We're on **Step 3**. Check off each step as we finish it.
   - [x] 4b. Limit: magic **can't break oath-steel**; knights' blades cut spells
   - [x] 4c. The cure is **the relic Emrys must steal** (one object, three stakes)
   - [x] 4d. The relic: **the Last Dragon's Heart**, still beating after 300 years
-- [ ] **Step 5.** Build the knightly orders, the world, and its "iceberg" of lore (Lessons 2, 4, 5) ← **you are here**
+- [x] **Step 5.** Build the knightly orders, the world, and its "iceberg" of lore (Lessons 2, 4, 5)
   - [x] 5a. The war: **nobody agrees why it started**; the truth comes out in Part 4
   - [x] 5a-2. The hidden truth: **one false accusation**. A knight was framed for killing a wizard prince.
   - [x] 5b. **The Bridge City** summit; the road's 4 stretches give each part its own setting
   - [x] 5c. The knights' oath: AI-drafted, approved by you
   - [x] 5d. The tower controls wizards with the **Life-Ledger**; stealing the Heart would wipe Emrys's debt
-  - [ ] 5e. Does breaking the oath break the blade? (the big plot lever) ← **next**
-- [ ] **Step 6.** Create the main characters: want, need, wound, Lie (Lessons 6–7)
+  - [x] 5e. **Yes:** a broken oath kills the blade until a truer oath is sworn (the climax engine)
+- [ ] **Step 6.** Create the main characters: want, need, wound, Lie (Lessons 6–7) ← **you are here**
+  - [ ] 6a. Review the AI-drafted profiles for Maren & Emrys ← **next**
 - [ ] **Step 7.** Create the villain, who should believe they're right
 
 ### Phase C: Planning the series

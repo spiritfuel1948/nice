@@ -136,9 +136,15 @@ sworn over it.
 | **Signature:** what does casting look, sound, and feel like? | |
 | **Hard or soft?** What does the reader learn, and when? | |
 
-**The one rule the climax will depend on:** *(likely)* oath-steel cuts spells.
-Maren's blade plus one last spell from Emrys does what neither could alone.
-Show this rule early (Part 1) so the payoff feels fair (Sanderson's First Law).
+**The rules the climax depends on:**
+1. **Oath-steel cuts spells**, but only while the oath is kept.
+2. **A broken oath kills the blade** until a truer oath is sworn.
+3. **Every spell burns life**, and since the Heart-Thread, their *shared* life.
+
+**Climax shape:** Maren's reawakened blade, sworn on her own oath, plus *one
+last spell* from Emrys, which costs them both, does what neither could alone.
+**Show rules 1 and 2 early in Part 1** (for example, a disgraced knight's dead
+blade) so the payoff feels fair (Sanderson's First Law).
 
 ---
 
@@ -160,10 +166,13 @@ Show this rule early (Part 1) so the payoff feels fair (Sanderson's First Law).
   innocent, she can't keep both promises (Part 3).
 - **"My word is in my blade"** reflects the rule that oath-steel is forged while
   the oath is spoken.
-- **"Let my steel break with it"** raises an open question: does breaking the
-  oath *really* break the blade, or stop it from cutting spells? If yes, Maren
-  choosing Emrys over her orders could cost her the one weapon that protects
-  them. **This is a big plot lever, so we'll decide it before outlining.**
+- **"Let my steel break with it" is literal (decided 2026-10-20). Breaking the
+  oath kills the blade's power until the knight swears a truer oath.** The
+  steel goes dull and can't cut spells. **Part 3:** Maren defies her orders to
+  save Emrys, and her blade dies in her hand. **Part 4:** facing the final
+  threat, she swears a **new oath in her own words**, about what's right rather
+  than what she's told, and the steel blazes back to life. Her arc becomes
+  visible: the Lie dies, and the Truth is sworn.
 
 **Who can become a knight? How?**
 
@@ -218,26 +227,52 @@ truth is revealed in **Part 4**.
 
 ## 6. Characters (Lessons 6–7)
 
-### Hero
+> *AI-drafted profiles (Step 6), **waiting on your review**. Change anything.*
+
+### Maren Holt, the knight
 | | |
 |---|---|
-| Name / age / role | |
-| **Wound** (what hurt them) | |
-| **Lie** (what they wrongly believe) | |
-| **Fear** | |
-| **Flaw / defense** | |
-| **Want** (the goal they chase) | |
-| **Need** (what would heal them) | |
-| **Truth** (what they'll learn) | |
-| Contradiction | |
-| Secret | |
-| Skill | |
-| Voice (how they talk; a phrase they use) | |
-| Arc type: ☐ Positive ☐ Flat ☐ Negative | |
-| Opening image vs. final image | |
+| Name / age / role | **Maren Holt**, 17. Squire of the knights' order, top of her class, chosen as the peace-hostage. |
+| **Wound** (what hurt them) | When she was 8, her father, a knight, **refused an order** (to burn a village that sheltered a wizard). He was branded an oath-breaker, and **his blade died in his hands in front of her.** The Holt name has been a curse ever since. |
+| **Lie** (what they wrongly believe) | *"Following orders makes me good."* (Her father disobeyed and lost everything.) |
+| **Fear** | Becoming her father: an oath-breaker, worthless, cast out |
+| **Flaw / defense** | Rigid; judges others harshly; won't ask for help; obeys even when it feels wrong; hides every feeling behind discipline |
+| **Want** (the goal they chase) | To be knighted and **restore the Holt name** |
+| **Need** (what would heal them) | To trust her own conscience, and to see her father's choice clearly |
+| **Truth** (what they'll learn) | *"Honor is doing what's right, even when no one orders it."* |
+| Contradiction | A perfect rule-follower who **secretly keeps her father's dead blade**, which is forbidden |
+| Secret | Orders to kill Emrys if the treaty fails |
+| Skill | The sword, endurance, reading a fight, field medicine |
+| Voice | Short, formal sentences and dry humor she pretends isn't humor. She quotes knightly sayings and **calls him "wizard," never his name**, until one key moment. |
+| Arc type | ☑ Positive |
+| Opening image vs. final image | **Opening:** drilling alone before dawn, reciting the oath perfectly. **Final:** at dawn, speaking the oath *she wrote herself*. |
 
-### Second lead (e.g., the wizard to your knight, or the knight to your wizard)
-*(Copy the table above.)*
+**Why her wound works:** her father faced *exactly* her Part 3 choice (orders
+vs. the innocent) and chose the innocent. She spends the series believing he
+was wrong, then becomes him, and finally understands him.
+
+### Emrys Calder, the wizard
+| | |
+|---|---|
+| Name / age / role | **Emrys Calder**, 17. The tower's prodigy, the youngest wizard in a century to cast a great spell. Chosen as the peace-hostage. |
+| **Wound** (what hurt them) | Taken by the tower at 6. At 11, the masters had him cast a **great spell** to hold back a flood. It worked and the city cheered, but it **burned years off his life**. The masters praised his *power*, not him, and his mother was never allowed to visit. |
+| **Lie** (what they wrongly believe) | *"Magic is the only thing that makes me worth anything."* |
+| **Fear** | Being ordinary, spent, and forgotten. Dying before he's ever actually lived. |
+| **Flaw / defense** | Charm and jokes to dodge anything real. Casts too easily (now dangerous, since it burns Maren's life too). Lies smoothly and never lets anyone close. |
+| **Want** (the goal they chase) | A **Master's star**: his Ledger debt paid and his remaining years his own |
+| **Need** (what would heal them) | To believe he's worth something *without* magic, and to let someone protect him |
+| **Truth** (what they'll learn) | *"I'm worth more than what I can do for others."* |
+| Contradiction | A show-off who is **secretly afraid of his own magic** |
+| Secret | Orders to steal the Dragon's Heart. Also **fewer years left than he admits.** |
+| Skill | Cleverness, old lore and languages, talking people around, delicate spellwork. Hopeless with a sword. |
+| Voice | Long, playful sentences, wordplay, and nicknames (**"Sir Grim"**). He asks too many questions. **When Emrys stops joking, something is very wrong.** |
+| Arc type | ☑ Positive |
+| Opening image vs. final image | **Opening:** a dazzling spell to impress the masters, then hiding a new streak of gray in his hair with a joke. **Final:** choosing *not* to cast, letting Maren protect him, and laughing for real. |
+
+**Why they fit together:** she can't break a rule, and he can't keep one. She
+hides feelings behind discipline, and he hides them behind jokes. Each has the
+Truth the other needs. The Heart-Thread punishes his worst habit (casting) and
+tests hers (obeying).
 
 ### Villain
 | | |
