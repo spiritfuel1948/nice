@@ -152,6 +152,16 @@ Show this rule early (Part 1) so the payoff feels fair (Sanderson's First Law).
 
 ## 5. Lore & History (Lesson 5)
 
+**The war's origin: nobody agrees why it started.** Knights say the wizards
+started it, wizards say the knights did, and peasants tell a third story. The
+truth is buried (Lesson 5: lore that's partly wrong). Maren and Emrys each grew
+up believing one version, so **their arguments are the war in miniature.** The
+truth is revealed in **Part 4**.
+- Knights' version: ______
+- Wizards' version: ______
+- Peasants' version: ______
+- **What really happened (the author knows; readers find out in Part 4):** ______
+
 **Timeline (the big events only):**
 | Years ago | Event | What people *believe* happened | What *really* happened |
 |---|---|---|---|

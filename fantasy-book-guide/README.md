@@ -1,8 +1,8 @@
 # Wizards & Knights: Your Fantasy Book Guide (Start Here)
 
 > ## ▶ Next up
-> **Step 5a:** Pick why knights and wizards went to war. *(About 1 minute:
-> choose from 4 options.)*
+> **Step 5a-2:** Pick what *really* started the war, the truth readers learn in
+> Part 4. *(About 1 minute: choose from 4 options.)*
 > **After that:** 5b, the road and the summit city. Then 5c, the knights' oath.
 >
 > *Listening instead?* Play Lessons 6–7 (characters) on the
@@ -90,7 +90,8 @@ We're on **Step 3**. Check off each step as we finish it.
   - [x] 4c. The cure is **the relic Emrys must steal** (one object, three stakes)
   - [x] 4d. The relic: **the Last Dragon's Heart**, still beating after 300 years
 - [ ] **Step 5.** Build the knightly orders, the world, and its "iceberg" of lore (Lessons 2, 4, 5) ← **you are here**
-  - [ ] 5a. Why knights and wizards went to war ← **next**
+  - [x] 5a. The war: **nobody agrees why it started**; the truth comes out in Part 4
+  - [ ] 5a-2. What *really* started it (the hidden truth) ← **next**
   - [ ] 5b. The road and the summit city (where the journey goes)
   - [ ] 5c. The knights' order and its oath (the actual words)
   - [ ] 5d. The wizards' tower and how it controls its wizards
