@@ -35,7 +35,11 @@ See [brainstorm-the-chain.md](brainstorm-the-chain.md#the-pick-treaty-wards--hea
 - If one dies, both die.
 - **Every spell the wizard casts frays the thread**, shortening the time they
   have left. So the wizard has to rely on the knight's sword.
-- How it can be undone: ______ *(open)*
+- **How it can be undone:** only with **the knights' greatest relic**, the same
+  one the tower ordered Emrys to steal. *Steal it* and they're free, but the
+  treaty breaks and the war returns. *Leave it* and they stay bound while every
+  spell burns their shared life. That one object is the series' **prize**
+  (road, team, prize).
 - Not used: shared emotions, shared injuries, distance sickness. They can be
   apart, but the cost of magic keeps them needing each other.
 
