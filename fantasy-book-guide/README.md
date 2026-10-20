@@ -18,6 +18,18 @@ This guide teaches you how and walks you through each step.
 | [`03-publishing-and-money.md`](03-publishing-and-money.md) | **Amazon KDP step by step:** royalties with worked math, Kindle Unlimited vs. selling everywhere, pricing short books, covers, ISBNs, AI rules, copyright, launching. | When your first draft is about half done. |
 | [`04-sources.md`](04-sources.md) | **All 40+ sources**, grouped by topic, with a note on how reliable each one is. | Whenever you want to go deeper. |
 | [`templates/story-bible.md`](templates/story-bible.md) | **Fill-in worksheets:** world, magic system, knightly orders, characters, villain, part planner, scene cards. | During planning. This becomes your "story bible." |
+| [`05-premise-workshop.md`](05-premise-workshop.md) | **Step 3 workshop:** what YA + classic adventure + a forced knight/wizard pairing promise readers, comparable books, the 5 ingredients of a forced pairing, and your assignment. | **Now: this is your current step.** |
+| [`my-series/story-bible.md`](my-series/story-bible.md) | **Your working story bible**, with your decisions recorded so far. | Every step from here on. |
+
+## Your decisions so far
+
+- **Audience:** Teens (YA). Heroes aged 16–17, PG-13 content, adults read it too.
+- **Tone:** Classic adventure. A quest, a clear threat, wonder, battles,
+  friendship, and a hopeful ending.
+- **Core:** A knight and a wizard forced together. That's a "Buddy Love" story
+  inside a "Golden Fleece" quest (see the workshop).
+- **Still open:** budget and weekly writing time. We'll use the **lean** budget
+  until you choose.
 
 ---
 
@@ -47,15 +59,15 @@ This guide teaches you how and walks you through each step.
 
 ## The roadmap: what we'll do together, step by step
 
-We're on **Step 1**. Check off each step as we finish it.
+We're on **Step 3**. Check off each step as we finish it.
 
 ### Phase A: Foundations (learning + deciding)
 - [x] **Step 0.** Research (this folder)
-- [ ] **Step 1.** You read `01-craft-guide.md` Lessons 1–3 and answer the
-      decision questions at the bottom of this page
-- [ ] **Step 2.** Pick your launch audience: kids, teens, or adults
-      (see `02-age-editions-and-series-plan.md`)
-- [ ] **Step 3.** Write your one-sentence premise and theme (Lesson 1)
+- [x] **Step 1.** Answer the decision questions: teens, classic adventure, a
+      knight and a wizard forced together (budget and writing time still open)
+- [x] **Step 2.** Pick your launch audience: **Teens (YA)**
+- [ ] **Step 3.** Write your premise and theme with the
+      [Step 3 Workshop](05-premise-workshop.md) ← **you are here**
 
 ### Phase B: Building the world (2–3 weeks, part-time)
 - [ ] **Step 4.** Build the magic system with the worksheet (Lesson 3)
@@ -99,24 +111,14 @@ All of that counts as "AI-assisted" under Amazon's rules.
 
 ---
 
-## Decisions I need from you to start Step 1
+## Decisions
 
-Answer these in any order. Short answers are fine.
+**Answered:**
+1. ~~Which audience first?~~ **Teens (YA)**
+2. ~~What tone?~~ **Classic adventure**
+3. ~~Who's the heart of the story?~~ **A knight and a wizard forced together**
 
-1. **Which audience first?** My recommendation is **teens/adults crossover
-   (novellas)**. It's the easiest and cheapest to launch: no illustrations, and
-   ebook series do well in Kindle Unlimited. Kids' chapter books can be a
-   spin-off later. The reasoning is in `02-age-editions-and-series-plan.md`.
-2. **What tone?** Choose one:
-   - **Cozy and hopeful** (low gore, found family)
-   - **Classic epic adventure** (quests, battles, good vs. evil)
-   - **Dark and gritty** (moral grayness, real costs)
-   - **Romantasy** (romance at the center; adult only, and currently a hot market)
-3. **Who's the heart of the story?** For example:
-   - A knight and a wizard forced to work together
-   - A knight who secretly has magic
-   - A wizard sworn to serve a knightly order
-   - Something else you have in mind
+**Still open** (these don't block Step 3):
 4. **How much can you spend before the first sale?** $0–200 (lean), $500–1,500
    (moderate), or $2,000+ (professional). Budgets are broken down in
    `03-publishing-and-money.md`.
