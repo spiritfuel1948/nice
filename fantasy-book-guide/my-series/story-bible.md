@@ -100,9 +100,9 @@ every chapter (Weiland). Names, genders, and details can all change.
 
 | Question | Answer |
 |---|---|
-| **Source:** where does the power come from? | |
+| **Source:** where does the power come from? | **Life-Spark.** Wizards burn their *own life* to cast. |
 | **Access:** who can use it, and how do they learn? | |
-| **Cost:** what does each spell take? | |
+| **Cost:** what does each spell take? | Hours of life for small spells, **years** for great ones. Wizards look young but die early. Since the Heart-Thread, Emrys and Maren share **one** life, so every spell he casts spends her time too. |
 | **Limits:** what can it **never** do? | |
 | **Weakness / counter:** what stops it? | |
 | **Society:** how is it treated (respected, licensed, feared, hunted)? | |

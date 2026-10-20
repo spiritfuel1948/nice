@@ -1,10 +1,9 @@
 # Wizards & Knights: Your Fantasy Book Guide (Start Here)
 
 > ## ▶ Next up
-> **Step 4a:** Pick where wizard magic comes from. *(About 1 minute: choose
-> from 4 options.)*
-> **After that:** 4b, what magic can never do. Then 4c, how the thread could be
-> undone. Then 4d, the knights' relic.
+> **Step 4b:** Pick what magic can never do. *(About 1 minute: choose from 4
+> options.)*
+> **After that:** 4c, how the thread could be undone. Then 4d, the knights' relic.
 >
 > *Listening instead?* Play Lessons 6–7 (characters) on the
 > [read-aloud page](https://claude.ai/artifact/G2tu6adFXPzH7A5gN8CJdt). They prepare you for Step 3c.
@@ -86,8 +85,8 @@ We're on **Step 3**. Check off each step as we finish it.
 
 ### Phase B: Building the world (2–3 weeks, part-time)
 - [ ] **Step 4.** Build the magic system with the worksheet (Lesson 3) ← **you are here**
-  - [ ] 4a. Where wizard magic comes from (its source) ← **next**
-  - [ ] 4b. What magic can never do (its limits)
+  - [x] 4a. Source: **Life-Spark**. Every spell burns the caster's own life.
+  - [ ] 4b. What magic can never do (its limits) ← **next**
   - [ ] 4c. How the Heart-Thread could be undone
   - [ ] 4d. The knights' relic Emrys is ordered to steal
 - [ ] **Step 5.** Build the knightly orders, the world, and its "iceberg" of lore (Lessons 2, 4, 5)
