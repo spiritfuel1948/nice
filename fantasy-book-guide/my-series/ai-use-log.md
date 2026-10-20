@@ -29,4 +29,4 @@ the book. This log does two jobs:
 
 | Date | What was AI-drafted | Your edits (what you changed) | Approved? |
 |---|---|---|---|
-| 2026-10-20 | The knights' oath (6 lines) | *(fill in after your review)* | ☐ |
+| 2026-10-20 | The knights' oath (6 lines) | Read and reviewed; no changes | ✅ Approved as is |

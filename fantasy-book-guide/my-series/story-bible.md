@@ -146,7 +146,7 @@ Show this rule early (Part 1) so the payoff feels fair (Sanderson's First Law).
 
 **Order name(s):**
 
-**The oath (exact words):** *AI-drafted, waiting on your review (see `ai-use-log.md`)*
+**The oath (exact words):** *AI-drafted; reviewed and approved by you on 2026-10-20*
 > By steel and by dawn, I swear:
 > I will shield the weak and spare the innocent.
 > I will obey my Order without question.
