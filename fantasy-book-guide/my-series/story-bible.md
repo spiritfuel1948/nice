@@ -8,9 +8,16 @@
 
 ## 1. Premise & Theme (Lesson 1 + [Step 3 Workshop](../05-premise-workshop.md))
 
-**Premise:** When ______, a ______ must ______, or else ______. But ______.
+**Premise (chosen, option C, series-wide):**
+> When the peace between knights and wizards depends on two teenage hostages,
+> a squire and a wizard who hate each other must reach the summit alive, or
+> else the war will restart. But an assassin's attack has tied their lives into
+> a single thread that every spell wears thinner, and each of them is hiding
+> something that could break the peace for good.
 
-**Theme question:** Is ______ worth ______? / Can ______ ever ______?
+**Tagline for covers and ads:** *She was sent to kill him. Now if he dies, so does she.*
+
+**Theme question:** *Is doing what you're told the same as doing what's right?*
 
 **Audience for the first series:** ☐ Kids (6–9) ☑ **Teens (YA)** ☐ Adults
 

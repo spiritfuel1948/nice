@@ -1,11 +1,9 @@
 # Wizards & Knights: Your Fantasy Book Guide (Start Here)
 
 > ## ▶ Next up
-> **Step 3d:** Write your one-sentence premise using the fill-in from Lesson 1,
-> with Maren, Emrys, the treaty, and the Heart-Thread. *(About 5 minutes.
-> Rough is fine, and I'll critique it. Or say "you pick.")*
+> **Step 3e:** Pick Emrys's secret. *(About 1 minute: choose from 4 options.)*
 > **After that:** Step 4, building the magic system (how the Heart-Thread and
-> wizard magic work).
+> wizard magic work, what they cost, and how the thread could be undone).
 >
 > *Listening instead?* Play Lessons 6–7 (characters) on the
 > [read-aloud page](https://claude.ai/artifact/G2tu6adFXPzH7A5gN8CJdt). They prepare you for Step 3c.
@@ -82,7 +80,8 @@ We're on **Step 3**. Check off each step as we finish it.
         ([why](my-series/brainstorm-the-chain.md#the-pick-treaty-wards--heart-thread))
   - [x] 3b. A hint of slow-burn · alternating knight/wizard chapters · spells fray the thread
   - [x] 3c. **Maren Holt** (knight) and **Emrys Calder** (wizard): wants, lacks, Lies, and her secret orders
-  - [ ] 3d. Your one-sentence premise (the theme question is drafted) ← **next**
+  - [x] 3d. Premise chosen (series-wide, both leads) and theme question
+  - [ ] 3e. Emrys's secret (the premise promises both of them hide something) ← **next**
 
 ### Phase B: Building the world (2–3 weeks, part-time)
 - [ ] **Step 4.** Build the magic system with the worksheet (Lesson 3)
