@@ -1,9 +1,10 @@
 # Wizards & Knights: Your Fantasy Book Guide (Start Here)
 
 > ## ▶ Next up
-> **Step 3e:** Pick Emrys's secret. *(About 1 minute: choose from 4 options.)*
-> **After that:** Step 4, building the magic system (how the Heart-Thread and
-> wizard magic work, what they cost, and how the thread could be undone).
+> **Step 4a:** Pick where wizard magic comes from. *(About 1 minute: choose
+> from 4 options.)*
+> **After that:** 4b, what magic can never do. Then 4c, how the thread could be
+> undone. Then 4d, the knights' relic.
 >
 > *Listening instead?* Play Lessons 6–7 (characters) on the
 > [read-aloud page](https://claude.ai/artifact/G2tu6adFXPzH7A5gN8CJdt). They prepare you for Step 3c.
@@ -74,17 +75,21 @@ We're on **Step 3**. Check off each step as we finish it.
 - [x] **Step 1.** Answer the decision questions: teens, classic adventure, a
       knight and a wizard forced together (budget and writing time still open)
 - [x] **Step 2.** Pick your launch audience: **Teens (YA)**
-- [ ] **Step 3.** Write your premise and theme with the
-      [Step 3 Workshop](05-premise-workshop.md) ← **you are here**
+- [x] **Step 3.** Premise, theme, and the two leads, using the
+      [Step 3 Workshop](05-premise-workshop.md)
   - [x] 3a. The chain: **Treaty Wards + Heart-Thread**
         ([why](my-series/brainstorm-the-chain.md#the-pick-treaty-wards--heart-thread))
   - [x] 3b. A hint of slow-burn · alternating knight/wizard chapters · spells fray the thread
   - [x] 3c. **Maren Holt** (knight) and **Emrys Calder** (wizard): wants, lacks, Lies, and her secret orders
   - [x] 3d. Premise chosen (series-wide, both leads) and theme question
-  - [ ] 3e. Emrys's secret (the premise promises both of them hide something) ← **next**
+  - [x] 3e. Emrys's secret: his own orders to steal the knights' relic (mirrors Maren's)
 
 ### Phase B: Building the world (2–3 weeks, part-time)
-- [ ] **Step 4.** Build the magic system with the worksheet (Lesson 3)
+- [ ] **Step 4.** Build the magic system with the worksheet (Lesson 3) ← **you are here**
+  - [ ] 4a. Where wizard magic comes from (its source) ← **next**
+  - [ ] 4b. What magic can never do (its limits)
+  - [ ] 4c. How the Heart-Thread could be undone
+  - [ ] 4d. The knights' relic Emrys is ordered to steal
 - [ ] **Step 5.** Build the knightly orders, the world, and its "iceberg" of lore (Lessons 2, 4, 5)
 - [ ] **Step 6.** Create the main characters: want, need, wound, Lie (Lessons 6–7)
 - [ ] **Step 7.** Create the villain, who should believe they're right

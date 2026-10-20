@@ -51,7 +51,7 @@ limited (Lesson 11).
 | Age | 17, a squire of the knights' order | 17, a prodigy from the wizards' tower |
 | Personality | Serious, disciplined, stubborn (the "grumpy" one) | Charming, mouthy, reckless (the "sunshine" one, hiding hurt) |
 | What they want | To be **knighted**. The order promised it if she serves as the peace-hostage. | To earn his **Master's star** and finally be free of the tower's control |
-| Her/his secret | **Secret orders: if the treaty fails, kill the wizard.** Since the Heart-Thread, doing that would kill her too. | *(open, to give him one later)* |
+| Her/his secret | **Secret orders: if the treaty fails, kill the wizard.** Since the Heart-Thread, doing that would kill her too. | **Secret orders: steal the knights' greatest relic during the summit**, which would break the treaty. |
 | What they lack (the other has it) | Flexibility, imagination, trust in anyone outside the order | Discipline, humility, any way to fight without magic |
 | What they're best at | The sword, endurance, reading a fight | Cleverness, old lore, talking people around |
 | **Their Lie** | *"Following orders makes me good."* | *"Magic is the only thing that makes me worth anything."* |
@@ -59,6 +59,12 @@ limited (Lesson 11).
 | The value they stand for | Duty and honor | Freedom and curiosity |
 
 **Hook (for the blurb):** *She was sent to kill him. Now if he dies, so does she.*
+
+**The mirror:** both were sent with secret orders. She's ordered to kill him if
+the peace fails, and he's ordered to make sure it fails. Both are tools of the
+adults who sent them, so the theme is tested on **both** heroes. **Planned
+reveal (Part 3, the season's All Is Lost):** each finds out the other's orders
+on the same night.
 
 **Theme question (draft):** *Is doing what you're told the same as doing what's right?*
 
