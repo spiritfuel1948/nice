@@ -1,9 +1,9 @@
 # Wizards & Knights: Your Fantasy Book Guide (Start Here)
 
 > ## ▶ Next up
-> **Step 4d:** Pick what the relic is. *(About 1 minute: choose from 4 options.)*
-> **After that:** Step 5, the world and its lore: the kingdom, the war, the
-> summit city.
+> **Step 5a:** Pick why knights and wizards went to war. *(About 1 minute:
+> choose from 4 options.)*
+> **After that:** 5b, the road and the summit city. Then 5c, the knights' oath.
 >
 > *Listening instead?* Play Lessons 6–7 (characters) on the
 > [read-aloud page](https://claude.ai/artifact/G2tu6adFXPzH7A5gN8CJdt). They prepare you for Step 3c.
@@ -84,12 +84,16 @@ We're on **Step 3**. Check off each step as we finish it.
   - [x] 3e. Emrys's secret: his own orders to steal the knights' relic (mirrors Maren's)
 
 ### Phase B: Building the world (2–3 weeks, part-time)
-- [ ] **Step 4.** Build the magic system with the worksheet (Lesson 3) ← **you are here**
+- [x] **Step 4.** Build the magic system with the worksheet (Lesson 3)
   - [x] 4a. Source: **Life-Spark**. Every spell burns the caster's own life.
   - [x] 4b. Limit: magic **can't break oath-steel**; knights' blades cut spells
   - [x] 4c. The cure is **the relic Emrys must steal** (one object, three stakes)
-  - [ ] 4d. What the relic is ← **next**
-- [ ] **Step 5.** Build the knightly orders, the world, and its "iceberg" of lore (Lessons 2, 4, 5)
+  - [x] 4d. The relic: **the Last Dragon's Heart**, still beating after 300 years
+- [ ] **Step 5.** Build the knightly orders, the world, and its "iceberg" of lore (Lessons 2, 4, 5) ← **you are here**
+  - [ ] 5a. Why knights and wizards went to war ← **next**
+  - [ ] 5b. The road and the summit city (where the journey goes)
+  - [ ] 5c. The knights' order and its oath (the actual words)
+  - [ ] 5d. The wizards' tower and how it controls its wizards
 - [ ] **Step 6.** Create the main characters: want, need, wound, Lie (Lessons 6–7)
 - [ ] **Step 7.** Create the villain, who should believe they're right
 

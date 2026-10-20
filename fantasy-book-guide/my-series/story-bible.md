@@ -40,6 +40,17 @@ See [brainstorm-the-chain.md](brainstorm-the-chain.md#the-pick-treaty-wards--hea
   treaty breaks and the war returns. *Leave it* and they stay bound while every
   spell burns their shared life. That one object is the series' **prize**
   (road, team, prize).
+
+**The relic: The Last Dragon's Heart.** The heart of the last dragon, still
+beating in the knights' chapel after three hundred years.
+- **Cure:** its fire unmakes any spell, including the Heart-Thread.
+- **Why the tower wants it** *(fits Life-Spark)*: a dragon's life is vast. A
+  wizard who draws on the heart could cast without burning their own life, which
+  means unlimited power. That's a clear motive for the adults who sent Emrys.
+- **Moral question:** is it still alive? Is it suffering? Could it wake?
+  *(A possible hook for Season 2.)*
+- **Idea to confirm in Step 5:** the first oath-steel was forged in dragon fire,
+  which would explain why it resists magic.
 - Not used: shared emotions, shared injuries, distance sickness. They can be
   apart, but the cost of magic keeps them needing each other.
 
