@@ -98,6 +98,18 @@ every chapter (Weiland). Names, genders, and details can all change.
 
 **World or kingdom name:**
 
+**The map (big picture):** a great **chasm** splits **knight lands** from
+**wizard lands**. Across it stands **the Bridge City**, a neutral city built
+*on* a giant bridge, owned by neither side. The peace summit meets there. The
+knights bring **the Dragon's Heart** as a sign of trust, and the treaty will be
+sworn over it.
+
+**The road to the summit** (one stretch per part):
+1. **The Burned March:** old battlefields from the war
+2. **A haunted forest or ruined fortress** *(to choose)*
+3. **The mountain pass:** the season's All Is Lost
+4. **The Bridge City:** the summit
+
 **Physical:** geography, climate, travel times, what's scarce
 
 **Cultural:** who rules, religion, classes, laws, taboos, holidays, curses and insults
@@ -231,16 +243,22 @@ truth is revealed in **Part 4**.
 
 ## 7. Series Map (Lesson 10)
 
-**Series format:** ☐ Serial ☐ Episodic ☐ Hybrid
+**Series format:** ☐ Serial ☐ Episodic ☑ **Hybrid** (each part has its own
+adventure, plus the season arc in the background)
 
-**Outer (season) thread:** ☐ Milieu ☐ Inquiry ☐ Character ☐ Event. Question it raises:
+**Outer (season) threads:**
+- ☑ **Event:** *Will the peace hold, or will the war return?*
+- ☑ **Inquiry:** *Who sent the assassin?* Behind that, *who framed the knight
+  300 years ago?*
 
-| Part | Working title | Thread it OPENS & CLOSES | Thread it leaves OPEN | Hero's arc step | Est. words |
+*Draft map. Details get decided in Steps 8–9.*
+
+| Part | Setting | Thread it OPENS & CLOSES | Thread it leaves OPEN | Relationship / arc step | Est. words |
 |---|---|---|---|---|---|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
+| 1 | The Burned March | Survive the assassin's attack and its aftermath; the Heart-Thread is cast | Who sent the assassin? | Forced together → grudging respect | 20–25k |
+| 2 | Haunted forest or ruined fortress | Escape the haunted place (a Milieu thread) | The secrets get harder to hide | Real trust, plus the first hint of slow-burn | 20–25k |
+| 3 | The mountain pass | Each finds out the other's secret orders **on the same night** | Can they forgive each other in time? | **The bond breaks** (season All Is Lost) | 20–25k |
+| 4 | The Bridge City | The summit, the Heart, the truth about the old war, and they **choose each other** | Season 2 hook: is the dragon waking? | A team by choice | 25–30k |
 
 ---
 

@@ -1,10 +1,10 @@
 # Wizards & Knights: Your Fantasy Book Guide (Start Here)
 
 > ## ▶ Next up
-> **Step 5b:** Pick where the summit is held, which also decides the road the
-> 4 parts travel. *(About 1 minute: choose from 4 options.)*
-> **After that:** 5c, the knights' oath (the actual words). Then 5d, the
-> wizards' tower.
+> **Step 5c:** Write the knights' oath: 3–6 lines in your own words. *(About 5
+> minutes. Rough is fine, and I'll critique it.)* It appears in the book word
+> for word, so it needs to be yours.
+> **After that:** 5d, the wizards' tower and how it controls its wizards.
 >
 > *Listening instead?* Play Lessons 6–7 (characters) on the
 > [read-aloud page](https://claude.ai/artifact/G2tu6adFXPzH7A5gN8CJdt). They prepare you for Step 3c.
@@ -93,8 +93,8 @@ We're on **Step 3**. Check off each step as we finish it.
 - [ ] **Step 5.** Build the knightly orders, the world, and its "iceberg" of lore (Lessons 2, 4, 5) ← **you are here**
   - [x] 5a. The war: **nobody agrees why it started**; the truth comes out in Part 4
   - [x] 5a-2. The hidden truth: **one false accusation**. A knight was framed for killing a wizard prince.
-  - [ ] 5b. The road and the summit city (where the journey goes) ← **next**
-  - [ ] 5c. The knights' order and its oath (the actual words)
+  - [x] 5b. **The Bridge City** summit; the road's 4 stretches give each part its own setting
+  - [ ] 5c. The knights' oath, **written by you** (it goes into the book word for word) ← **next**
   - [ ] 5d. The wizards' tower and how it controls its wizards
 - [ ] **Step 6.** Create the main characters: want, need, wound, Lie (Lessons 6–7)
 - [ ] **Step 7.** Create the villain, who should believe they're right
