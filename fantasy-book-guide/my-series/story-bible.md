@@ -40,13 +40,26 @@ limited (Lesson 11).
 
 | | The Knight | The Wizard |
 |---|---|---|
-| Name (a placeholder is fine) | | |
-| Age (16–17 for YA) | | |
-| What they want | | |
-| What they lack (the other one has it) | | |
-| What they're best at | | |
-| Their Lie | | |
-| The value they stand for | | |
+| Name (placeholder) | **Maren Holt** | **Emrys Calder** ("Emrys" is an old name for Merlin) |
+| Age | 17, a squire of the knights' order | 17, a prodigy from the wizards' tower |
+| Personality | Serious, disciplined, stubborn (the "grumpy" one) | Charming, mouthy, reckless (the "sunshine" one, hiding hurt) |
+| What they want | To be **knighted**. The order promised it if she serves as the peace-hostage. | To earn his **Master's star** and finally be free of the tower's control |
+| Her/his secret | **Secret orders: if the treaty fails, kill the wizard.** Since the Heart-Thread, doing that would kill her too. | *(open, to give him one later)* |
+| What they lack (the other has it) | Flexibility, imagination, trust in anyone outside the order | Discipline, humility, any way to fight without magic |
+| What they're best at | The sword, endurance, reading a fight | Cleverness, old lore, talking people around |
+| **Their Lie** | *"Following orders makes me good."* | *"Magic is the only thing that makes me worth anything."* |
+| What the plot does to the Lie | Her orders say kill him; her conscience says protect him. | Every spell frays the thread, so he has to find his worth beyond magic. |
+| The value they stand for | Duty and honor | Freedom and curiosity |
+
+**Hook (for the blurb):** *She was sent to kill him. Now if he dies, so does she.*
+
+**Theme question (draft):** *Is doing what you're told the same as doing what's right?*
+
+*Why these picks (marketability):* the girl-knight/charming-wizard pairing
+matches the comps (*Sorcery of Thorns*, *Alanna*). Grumpy vs. sunshine gives
+banter readers quote. "Sent to kill the person you're bound to" is the same
+trope family publishers are selling now. And each Lie is tested by the plot in
+every chapter (Weiland). Names, genders, and details can all change.
 
 **Budget:** ☐ Lean ($0–200) ☐ Moderate ($500–1,500) ☐ Pro ($2,000+). *Not chosen yet.*
 **Writing time per week:** ______ *Not chosen yet.*

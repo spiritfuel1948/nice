@@ -1,10 +1,11 @@
 # Wizards & Knights: Your Fantasy Book Guide (Start Here)
 
 > ## ▶ Next up
-> **Step 3c:** The knight and wizard table. For each one: a name (a
-> placeholder is fine), what they **want**, what they **lack**, and their
-> **Lie**. *(About 10 minutes, in chat or in `my-series/story-bible.md`.)*
-> **After that:** Step 3d, three one-sentence premises and the theme question.
+> **Step 3d:** Write your one-sentence premise using the fill-in from Lesson 1,
+> with Maren, Emrys, the treaty, and the Heart-Thread. *(About 5 minutes.
+> Rough is fine, and I'll critique it. Or say "you pick.")*
+> **After that:** Step 4, building the magic system (how the Heart-Thread and
+> wizard magic work).
 >
 > *Listening instead?* Play Lessons 6–7 (characters) on the
 > [read-aloud page](https://claude.ai/artifact/G2tu6adFXPzH7A5gN8CJdt). They prepare you for Step 3c.
@@ -80,8 +81,8 @@ We're on **Step 3**. Check off each step as we finish it.
   - [x] 3a. The chain: **Treaty Wards + Heart-Thread**
         ([why](my-series/brainstorm-the-chain.md#the-pick-treaty-wards--heart-thread))
   - [x] 3b. A hint of slow-burn · alternating knight/wizard chapters · spells fray the thread
-  - [ ] 3c. The knight and wizard table: names, wants, what each lacks, Lies ← **next**
-  - [ ] 3d. Three one-sentence premises and the theme question
+  - [x] 3c. **Maren Holt** (knight) and **Emrys Calder** (wizard): wants, lacks, Lies, and her secret orders
+  - [ ] 3d. Your one-sentence premise (the theme question is drafted) ← **next**
 
 ### Phase B: Building the world (2–3 weeks, part-time)
 - [ ] **Step 4.** Build the magic system with the worksheet (Lesson 3)
