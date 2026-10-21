@@ -6,7 +6,7 @@ They swore the treaty the next morning, at dawn.
 
 There had been an argument about that, of course. There had been arguments about everything, all day and most of the night, in the great hall with no roof, around a long table carried in from somewhere and set right under the broken dome. Sir Aldric said a thing like this ought to be sworn at dawn, as the Order had always sworn things. The Archmaster said it ought to be sworn by flame, as the Tower always had. They went back and forth about it for an hour, very politely, in the way of two people who had been enemies for their entire lives and were trying very hard not to be.
 
-In the end, Maren, who had been sitting at the end of the table not saying anything for a long time, said, "Why not both?"
+In the end, Maren, who had been sitting at the end of the table not saying anything, said, "Why not both?"
 
 They both looked at her.
 
@@ -136,7 +136,7 @@ She'd slipped off Brenna's shoulders and wriggled through the crowd, and now she
 
 "Can you do a spell?" she said. "A little one? For the treaty? Like flowers?"
 
-He looked at her for a long moment. He thought about cherry trees in the dead of winter, blooming in a frozen courtyard, and a whole tower full of masters gasping. He thought about how easy it would be. Just a little one. Just a day or two.
+He looked at her. He thought about cherry trees in the dead of winter, blooming in a frozen courtyard, and a whole tower full of masters gasping. He thought about how easy it would be. Just a little one. Just a day or two.
 
 "No," said Emrys.
 
@@ -220,4 +220,4 @@ Her pale eyes met his across the hall.
 
 ---
 
-*End of Season One*
+*End of Book One*

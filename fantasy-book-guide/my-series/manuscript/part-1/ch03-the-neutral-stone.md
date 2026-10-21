@@ -100,7 +100,7 @@ There were dozens of them, maybe a hundred, planted point-down in the frozen gro
 
 "Ah," said Captain Dace, more quietly than usual. "Sorrow Field. I'd forgotten we'd pass it."
 
-Emrys had stopped beside her. He looked down at the field for a long time without saying anything, which she was beginning to suspect was rare.
+Emrys had stopped beside her. He stared down at the field and said nothing, which she was beginning to suspect was rare.
 
 "What is it?" he asked finally.
 

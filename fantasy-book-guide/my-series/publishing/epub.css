@@ -1,0 +1,9 @@
+
+body { font-family: serif; line-height: 1.45; }
+h1 { text-align: center; margin-top: 30%; font-size: 1.6em; }
+h2 { text-align: center; margin: 2em 0 1.5em; font-size: 1.3em; }
+p { margin: 0; text-indent: 1.3em; }
+h1 + p, h2 + p, hr + p, p:first-of-type { text-indent: 0; }
+hr { border: none; text-align: center; margin: 1.2em 0; }
+hr::after { content: "* * *"; }
+blockquote { margin: 1em 1.5em; font-style: italic; }

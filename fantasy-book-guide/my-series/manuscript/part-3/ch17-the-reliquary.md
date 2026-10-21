@@ -56,7 +56,7 @@ When she finished, Sir Aldric let go of her wrist and stood looking down at her 
 
 She stopped. She heard her own voice, rising, and stopped it. She'd never once in seven years raised her voice to Sir Aldric Fane.
 
-He watched her for a long moment. Then something in his face eased, very slightly.
+He watched her. Then something in his face eased, very slightly.
 
 "You've been through a great deal," he said. "Alone, in enemy company, for nine days. It's natural to... feel things. For whoever's beside you in the dark." He put his hand on her shoulder, heavy and warm, the way he had in his solar. "That's why I'm glad you're home."
 

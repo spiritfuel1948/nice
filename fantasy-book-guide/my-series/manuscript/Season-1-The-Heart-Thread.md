@@ -1,57 +1,12 @@
 # The Heart-Thread
-## Season One
 
-*Working title. AI-drafted manuscript, pending the author's read-through (see `../ai-use-log.md`).*
-
----
-
-## Contents
-
-**Part One: The Burned March**
-- Chapter 1: By Steel and By Dawn
-- Chapter 2: The Ledger
-- Chapter 3: The Neutral Stone
-- Chapter 4: Fire in Knight's Colors
-- Chapter 5: One Life
-- Chapter 6: What the March Remembers
-- Chapter 7: Hollin's Ford
-- Chapter 8: Span Silver
-
-**Part Two: The Hollowwood**
-- Chapter 9: The Wood That Remembers
-- Chapter 10: The Hollowed
-- Chapter 11: Dead Blades
-- Chapter 12: Concord Keep
-- Chapter 13: The Falcon
-- Chapter 14: The Anchor
-- Chapter 15: Carrying Him
-- Chapter 16: Two Camps
-
-**Part Three: The Broken Oath**
-- Chapter 17: The Reliquary
-- Chapter 18: The Arithmetic
-- Chapter 19: The Stream Between the Camps
-- Chapter 20: Both Secrets
-- Chapter 21: The Ferryman
-- Chapter 22: Trial at Dawn
-- Chapter 23: Two Dead Blades
-- Chapter 24: Over the Pass
-
-**Part Four: The Bridge of Dawn**
-- Chapter 25: The City on the Bridge
-- Chapter 26: Corvane's Ledger
-- Chapter 27: The Warden
-- Chapter 28: Under the Bridge
-- Chapter 29: My Own Oath
-- Chapter 30: The Echo
-- Chapter 31: Cutting the Thread
-- Chapter 32: Dawn
+*The Bridgewatch · Book One* · by Avery Ashcombe
 
 ---
 
 # Part One: The Burned March
 
-# Chapter 1: By Steel and By Dawn
+### Chapter 1: By Steel and By Dawn
 
 *Maren*
 
@@ -239,9 +194,7 @@ She put her hand on her sword hilt and felt the faint hum of the living steel un
 
 *By steel and by dawn,* she thought, and rode on.
 
----
-
-# Chapter 2: The Ledger
+### Chapter 2: The Ledger
 
 *Emrys*
 
@@ -403,9 +356,7 @@ Emrys ran his fingers through his hair, found the new silver thread, and smoothe
 
 "Gracefully," he said to nobody, and rode on.
 
----
-
-# Chapter 3: The Neutral Stone
+### Chapter 3: The Neutral Stone
 
 *Maren*
 
@@ -507,7 +458,7 @@ There were dozens of them, maybe a hundred, planted point-down in the frozen gro
 
 "Ah," said Captain Dace, more quietly than usual. "Sorrow Field. I'd forgotten we'd pass it."
 
-Emrys had stopped beside her. He looked down at the field for a long time without saying anything, which she was beginning to suspect was rare.
+Emrys had stopped beside her. He stared down at the field and said nothing, which she was beginning to suspect was rare.
 
 "What is it?" he asked finally.
 
@@ -601,9 +552,7 @@ She had seen no sheep all day. Not one. Not a single track in the frost.
 
 She told herself it didn't mean anything, and lay down with her hand on her sword, and did not sleep.
 
----
-
-# Chapter 4: Fire in Knight's Colors
+### Chapter 4: Fire in Knight's Colors
 
 *Emrys*
 
@@ -801,9 +750,7 @@ The last thing Emrys felt, as the dark came up out of the ground to swallow him,
 
 Then nothing at all.
 
----
-
-# Chapter 5: One Life
+### Chapter 5: One Life
 
 *Maren*
 
@@ -965,7 +912,7 @@ She stood up. Her side throbbed. Her heartbeat, their heartbeat, thudded quietly
 
 "No spells. *None.* Not unless I say so." She held up her left wrist, with its nine red rings. "That's my life you're spending now."
 
-He looked at her wrist for a long moment. Something moved behind his eyes that she couldn't read, something that looked almost like guilt. Then it was gone, and he gave her that crooked smile again.
+He looked at her wrist. Something moved behind his eyes that she couldn't read, something that looked almost like guilt. Then it was gone, and he gave her that crooked smile again.
 
 "Agreed, Sir Grim. No spells."
 
@@ -991,9 +938,7 @@ She hated it.
 
 She hated that, after everything, after the knife and the blood and the dark, it was the steadiest thing she had felt in days.
 
----
-
-# Chapter 6: What the March Remembers
+### Chapter 6: What the March Remembers
 
 *Emrys*
 
@@ -1209,9 +1154,7 @@ He did the arithmetic again. Again, it came out the same.
 
 Again, he didn't tell her.
 
----
-
-# Chapter 7: Hollin's Ford
+### Chapter 7: Hollin's Ford
 
 *Maren*
 
@@ -1233,7 +1176,7 @@ The innkeeper was a broad woman with forearms like hams and a face that had been
 
 She held out a handful of the silver from the dead men's purse. It felt like holding something dirty.
 
-The innkeeper looked at the coins for a long moment. Bridges glinted in the gray light.
+The innkeeper studied the coins. Bridges glinted in the gray light.
 
 "Span silver spends the same as any," she said at last, and took it. "Stable's round the back. Don't touch anything. Don't burn anything. And if either of you starts any trouble, I'll put you in the river myself."
 
@@ -1407,9 +1350,7 @@ Maren wiped her sword on her sleeve and slid it back into its sheath.
 
 "Wizard," she said, "go and find a rope."
 
----
-
-# Chapter 8: Span Silver
+### Chapter 8: Span Silver
 
 *Emrys*
 
@@ -1431,7 +1372,7 @@ The man laughed. It turned into a cough. "Clever girl."
 
 "Because you're dying," Maren said, "and if you tell me the truth, I'll have the innkeeper send for a priest. And if you don't, I won't."
 
-The man looked at her for a long time. Something in his face cracked a little.
+The man stared at her. Something in his face cracked a little.
 
 "Didn't see much," he muttered. "Down in the Span. The low markets, under the bridge, where the river barges tie up. You go down there with a sword and an empty purse, and sometimes somebody finds you." He licked his lips. "He found me. Big man. Wore a mask, always, a gray one. Laughed a lot. Paid in silver. Half up front, the other half when the job was done."
 
@@ -1473,7 +1414,7 @@ Maren looked up.
 
 "No. But we know it's not *us.*"
 
-She was quiet for a long moment. Then she nodded, once, slowly, as if she were setting something heavy down.
+She was quiet. Then she nodded, once, slowly, as if she were setting something heavy down.
 
 ---
 
@@ -1533,7 +1474,7 @@ Tamsin let go of her gran's arm and ran to Maren. She was holding something in h
 
 "For your sword," she said. "So it's not lonely."
 
-Maren looked down at the ribbon for a long moment. Emrys watched her face do something complicated. Then she took it, very carefully, as if it might break, and knelt in the mud, and tied it around the crossguard of her oath-blade in a neat, tight knot.
+Maren looked down at the ribbon. Emrys watched her face do something complicated. Then she took it, very carefully, as if it might break, and knelt in the mud, and tied it around the crossguard of her oath-blade in a neat, tight knot.
 
 "Thank you," she said.
 
@@ -1569,11 +1510,9 @@ Ahead of them, the Hollowwood waited, dark and patient, remembering.
 
 *End of Part One*
 
----
+## Part Two: The Hollowwood
 
-# Part Two: The Hollowwood
-
-# Chapter 9: The Wood That Remembers
+### Chapter 9: The Wood That Remembers
 
 *Maren*
 
@@ -1713,9 +1652,7 @@ He looked at it for a long moment.
 
 Then he drew his sword.
 
----
-
-# Chapter 10: The Hollowed
+### Chapter 10: The Hollowed
 
 *Emrys*
 
@@ -1877,9 +1814,7 @@ Still hungry. Still remembering.
 
 Still waiting for them.
 
----
-
-# Chapter 11: Dead Blades
+### Chapter 11: Dead Blades
 
 *Maren*
 
@@ -2061,9 +1996,7 @@ A sunburst.
 
 And an hourglass.
 
----
-
-# Chapter 12: Concord Keep
+### Chapter 12: Concord Keep
 
 *Emrys*
 
@@ -2225,9 +2158,7 @@ The old road ran straight toward it.
 
 "Through there," he said.
 
----
-
-# Chapter 13: The Falcon
+### Chapter 13: The Falcon
 
 *Maren*
 
@@ -2337,7 +2268,7 @@ When the light came, she looked at her wrist.
 
 Seven turns.
 
-She looked at it for a long time. Then she looked at him. He was sitting with his back against the stone, his face gray with exhaustion. The streak of silver in his hair was wider, unmistakably wider, a broad band of it now above his left temple. He was looking at her the way you'd look at someone who might hit you.
+She looked at it. Then she looked at him. He was sitting with his back against the stone, his face gray with exhaustion. The streak of silver in his hair was wider, unmistakably wider, a broad band of it now above his left temple. He was looking at her the way you'd look at someone who might hit you.
 
 "You asked," she said. "This time."
 
@@ -2401,9 +2332,7 @@ Two lies, she thought. One on each side of the thread.
 
 The falcon shook out its white feathers on her arm, gave her one last fierce look, and launched itself back up into the gray sky, south, toward the Greyspine, toward Sir Aldric and the Heart and her orders, and was gone.
 
----
-
-# Chapter 14: The Anchor
+### Chapter 14: The Anchor
 
 *Emrys*
 
@@ -2560,9 +2489,7 @@ She kept saying his name. She'd said it more in the last minute than in the whol
 
 But the sky was very bright and very far away, and the ache in his chest was opening like a door, and then he wasn't anywhere at all.
 
----
-
-# Chapter 15: Carrying Him
+### Chapter 15: Carrying Him
 
 *Maren*
 
@@ -2662,7 +2589,7 @@ He'd stood in the Dawnhold courtyard with the whole Order watching and said *no,
 
 But the courtyard at Concord Keep was full of people who'd said *yes.* Who'd done exactly what they were told, the instant they were told it. And all of them had died. And all of them had been wrong.
 
-She looked at the two swords for a long time. Then she wrapped her father's up again and put it away. But she didn't put it as deep in the pack as before. She left it near the top.
+She sat looking at the two swords until the fire burned low. Then she wrapped her father's up again and put it away. But she didn't put it as deep in the pack as before. She left it near the top.
 
 ---
 
@@ -2734,13 +2661,11 @@ On the eastern side: gray.
 
 Two camps, facing each other across the valley floor.
 
-Maren stood in the frozen grass for a long time with her hand on her sword, looking at the white and gold. Home. The Order. Sir Aldric, and the Heart, and her orders.
+Maren stood in the frozen grass with her hand on her sword, looking at the white and gold. Home. The Order. Sir Aldric, and the Heart, and her orders.
 
 Then she went back inside, to tell Emrys.
 
----
-
-# Chapter 16: Two Camps
+### Chapter 16: Two Camps
 
 *Emrys*
 
@@ -2878,7 +2803,7 @@ He turned anyway.
 
 Archmaster Ysolde Crane stood at the entrance of the largest gray tent, her cropped white hair bright in the thin winter sun. She had come herself. All the way from the Tower of Hours, to the foot of the Greyspine. He hadn't known. Nobody had told him.
 
-She looked at him for a long time without speaking. At his face. At his hair, the great silver sweep of it, half his head gone white since she had last seen him in the Ledger Hall ten days ago. And then, slowly, her pale eyes moved down to his left wrist, to the six red turns of thread around it, glowing faintly in the cold.
+She looked at him without speaking. At his face. At his hair, the great silver sweep of it, half his head gone white since she had last seen him in the Ledger Hall ten days ago. And then, slowly, her pale eyes moved down to his left wrist, to the six red turns of thread around it, glowing faintly in the cold.
 
 Her face didn't change at all. That was the most frightening thing about it.
 
@@ -2888,11 +2813,9 @@ Her face didn't change at all. That was the most frightening thing about it.
 
 *End of Part Two*
 
----
+## Part Three: The Broken Oath
 
-# Part Three: The Broken Oath
-
-# Chapter 17: The Reliquary
+### Chapter 17: The Reliquary
 
 *Maren*
 
@@ -2948,7 +2871,7 @@ When she finished, Sir Aldric let go of her wrist and stood looking down at her 
 
 She stopped. She heard her own voice, rising, and stopped it. She'd never once in seven years raised her voice to Sir Aldric Fane.
 
-He watched her for a long moment. Then something in his face eased, very slightly.
+He watched her. Then something in his face eased, very slightly.
 
 "You've been through a great deal," he said. "Alone, in enemy company, for nine days. It's natural to... feel things. For whoever's beside you in the dark." He put his hand on her shoulder, heavy and warm, the way he had in his solar. "That's why I'm glad you're home."
 
@@ -3048,9 +2971,7 @@ She stood and looked at it anyway, until her feet went numb, with her new white 
 
 Then, after a long time, not behind it at all.
 
----
-
-# Chapter 18: The Arithmetic
+### Chapter 18: The Arithmetic
 
 *Emrys*
 
@@ -3062,7 +2983,7 @@ She sat in the chair. She didn't offer him anything. He stood.
 
 He gave it to her.
 
-Her fingers were cold and dry and very strong. She turned his hand palm up under the lamp and looked at the red thread for a long time, not touching it, just looking, the way she looked at a page in the Ledger. Then, delicately, with one fingertip, she touched the outermost turn.
+Her fingers were cold and dry and very strong. She turned his hand palm up under the lamp and studied the red thread, not touching it, just looking, the way she looked at a page in the Ledger. Then, delicately, with one fingertip, she touched the outermost turn.
 
 He felt it. A tiny tug, deep in his chest. Across the valley, he thought, Maren had probably felt it too.
 
@@ -3196,9 +3117,7 @@ Across the valley, the small figure at the palisade turned, and walked away into
 
 Emrys stood by his lantern a while longer, with his hand pressed over the thread on his wrist, feeling the heartbeat in it. Theirs. Then he picked up the lantern, and blew it out, and went to bed, and didn't sleep at all.
 
----
-
-# Chapter 19: The Stream Between the Camps
+### Chapter 19: The Stream Between the Camps
 
 *Maren*
 
@@ -3234,7 +3153,7 @@ It went on like that all day.
 
 She hadn't expected a welcome. She'd been the disgraced knight's daughter at Dawnhold for seven years. She knew what it was to have people stop talking when you came into a room. But this was different. At Dawnhold, they'd talked about her father. Here, they talked about *her.* She heard it everywhere she went, behind tent flaps, around the cook-fires, at the horse lines. *Wizard-bound.* *Tied to the Tower's boy.* *Can you trust her? Whose side is she on now?*
 
-At midday, Sir Bertram found her mending a strap in the lee of the supply wagons and stood over her for a long moment, chewing his lip.
+At midday, Sir Bertram found her mending a strap in the lee of the supply wagons and stood over her, chewing his lip.
 
 "Holt," he said finally. "You're a good squire. You always were. Best I ever trained."
 
@@ -3388,9 +3307,7 @@ It was nearly midnight.
 
 Maren pulled her new white cloak tight around her shoulders, and put her hand on her sword hilt, and walked toward the Heart.
 
----
-
-# Chapter 20: Both Secrets
+### Chapter 20: Both Secrets
 
 *Emrys*
 
@@ -3602,9 +3519,7 @@ Emrys turned toward the Heart, toward her, toward anything, and something struck
 
 The last thing he saw was Maren, white and gold and blazing, turning to meet them.
 
----
-
-# Chapter 21: The Ferryman
+### Chapter 21: The Ferryman
 
 *Maren*
 
@@ -3736,7 +3651,7 @@ Every head turned.
 
 Sir Aldric came through the crowd. The knights parted for him without a word, the way water parts for a ship. He'd come straight from his bed; his iron hair was wild and his cloak was thrown over a nightshirt. He didn't look ridiculous. He looked like the Knight-Commander of the Order of First Light, and the tent went silent.
 
-He looked at the empty reliquary for a long moment. His face didn't change. Then he looked at the dead guards outside. Then at Emrys, hanging between the two knights. Then, at last, at her.
+He looked at the empty reliquary. His face didn't change. Then he looked at the dead guards outside. Then at Emrys, hanging between the two knights. Then, at last, at her.
 
 "Holt," he said quietly. "Was the wizard here? In this tent? Tonight?"
 
@@ -3772,9 +3687,7 @@ He didn't say anything. He didn't look angry. He just looked at her, with blood 
 
 Then they took him out into the dark, and she heard the chains.
 
----
-
-# Chapter 22: Trial at Dawn
+### Chapter 22: Trial at Dawn
 
 *Emrys*
 
@@ -3944,9 +3857,7 @@ And for the first time since he'd met her, his teeth didn't ache at all.
 
 He found that he missed it.
 
----
-
-# Chapter 23: Two Dead Blades
+### Chapter 23: Two Dead Blades
 
 *Maren*
 
@@ -4022,7 +3933,7 @@ It was much later. The fire had burned down to coals. Her face was stiff and hot
 
 "I took your life without asking," Emrys said quietly. "And then I lied to you about it. Every day. For eleven days. I looked you in the face and lied, over and over, because I was afraid of what you'd look like when you knew." He drew a breath. "Not *I'm sorry you're upset.* Not *I'm sorry it happened.* I'm sorry I did it. It was the worst thing I've ever done. And I've done some really spectacular things."
 
-She didn't say anything for a long moment.
+She didn't say anything.
 
 "You saved my life," she said.
 
@@ -4068,7 +3979,7 @@ She didn't let go.
 
 "The Heart. Where is he going with it?"
 
-Emrys was quiet for a long moment. Then he let go of her hand, and reached into the lining of his waistcoat, and drew out the rusted dagger. He'd sewn a pocket in there. She hadn't known. He held it up in the last of the firelight, and turned it, so she could see the little carved boat beneath the crossguard.
+Emrys was quiet. Then he let go of her hand, and reached into the lining of his waistcoat, and drew out the rusted dagger. He'd sewn a pocket in there. She hadn't known. He held it up in the last of the firelight, and turned it, so she could see the little carved boat beneath the crossguard.
 
 "The man in the doorway at Concord Keep," he said slowly. "*The ferries have served this family for a hundred years.* Three hundred years ago, the only way across the Sunder was by ferry. And someone, a family, owned the ferries. And two friends were going to build a bridge that would have put them out of business." He turned the dagger. "Then a prince was murdered with a knight's dagger. A dagger with a boat on it. And the bridge never got built. Not by them."
 
@@ -4110,9 +4021,7 @@ He looked at her for a long time in the light of the coals. Then he smiled. Not 
 
 "Well," said Emrys. "When you put it like that."
 
----
-
-# Chapter 24: Over the Pass
+### Chapter 24: Over the Pass
 
 *Emrys*
 
@@ -4266,11 +4175,9 @@ She was quiet for a moment. Then she reached back without looking and found his 
 
 *End of Part Three*
 
----
+## Part Four: The Bridge of Dawn
 
-# Part Four: The Bridge of Dawn
-
-# Chapter 25: The City on the Bridge
+### Chapter 25: The City on the Bridge
 
 *Maren*
 
@@ -4454,9 +4361,7 @@ Tamsin squeezed both their hands at once, very hard.
 
 "I'll keep watch," she said.
 
----
-
-# Chapter 26: Corvane's Ledger
+### Chapter 26: Corvane's Ledger
 
 *Emrys*
 
@@ -4631,9 +4536,7 @@ Someone, slowly, was applauding.
 
 "You've found my family's books," said a woman's voice. Warm. Gracious. Delighted. "Oh, how *lovely.* Nobody's read those in years."
 
----
-
-# Chapter 27: The Warden
+### Chapter 27: The Warden
 
 *Maren*
 
@@ -4699,7 +4602,7 @@ Maren thought about the morning in Sir Aldric's solar. *Your father lacked the s
 
 "I used to think so," she said.
 
-The Warden looked at her for a long moment. Something moved behind the kind, handsome face. Not anger. Something more like disappointment.
+The Warden studied her. Something moved behind the kind, handsome face. Not anger. Something more like disappointment.
 
 "Pity," said Isaura Vell.
 
@@ -4757,9 +4660,7 @@ She went to the door. She paused there, with the candlelight on her kind, handso
 
 Then she was gone. And Dace was hauling them both up by the collars, and laughing, and the guards were closing in, and the candle went out.
 
----
-
-# Chapter 28: Under the Bridge
+### Chapter 28: Under the Bridge
 
 *Emrys*
 
@@ -4829,7 +4730,7 @@ He didn't answer for a moment. He'd made himself a promise, in the hut on the pa
 
 "A lot," he said. "Maybe everything I've got left. I don't know."
 
-She was quiet for a long time. When she spoke again, her voice was very steady.
+She was quiet. When she spoke again, her voice was very steady.
 
 "Promise me something."
 
@@ -4963,9 +4864,7 @@ Emrys looked east. Over the rooftops, over the edge of the world, the sky was tu
 
 Midwinter dawn.
 
----
-
-# Chapter 29: My Own Oath
+### Chapter 29: My Own Oath
 
 *Maren*
 
@@ -5155,9 +5054,7 @@ She knew what he meant. She knew it the way she knew her own heartbeat. *Their* 
 
 The last big one.
 
----
-
-# Chapter 30: The Echo
+### Chapter 30: The Echo
 
 *Emrys*
 
@@ -5297,7 +5194,7 @@ They brought her back up to the great hall in the sunlight, between a knight and
 
 She walked up the aisle as gracefully as she'd walked everywhere. Her braids were coming loose. Her velvet was dusty at the hem. Her face was perfectly calm.
 
-She stopped in front of Maren and Emrys, still sitting on the white floor with Maren's arm around him, and she looked down at them for a long time.
+She stopped in front of Maren and Emrys, still sitting on the white floor with Maren's arm around him, and she looked down at them.
 
 "You have no idea," said Isaura Vell softly, "what you've done. No idea at all. Three hundred years, I kept those scales. Three hundred years my family stood between them and the end of the world. And now you've opened the door." She shook her head, almost gently. "Someone has to hold the scales, children. Who's going to do it now?"
 
@@ -5327,7 +5224,7 @@ Her face didn't change. But her fingers, holding his wrist, tightened very sligh
 
 "I know."
 
-She looked at Maren, still holding him up, the blazing sword lying beside her on the floor. She looked for a long moment. Then she turned her head and looked up at the dais under the shattered dome, where, in the wreck of its broken glass case, the Heart still lay.
+She looked at Maren, still holding him up, the blazing sword lying beside her on the floor. She looked a while. Then she turned her head and looked up at the dais under the shattered dome, where, in the wreck of its broken glass case, the Heart still lay.
 
 Dark red. Dimmer than it had been. But glowing.
 
@@ -5335,9 +5232,7 @@ Dark red. Dimmer than it had been. But glowing.
 
 "Its fire," said the Archmaster, "can still cut it."
 
----
-
-# Chapter 31: Cutting the Thread
+### Chapter 31: Cutting the Thread
 
 *Maren*
 
@@ -5475,7 +5370,7 @@ He didn't take it. He just knelt, slowly, stiffly, the way old men kneel, there 
 
 "Yes, sir."
 
-He was quiet for a long time.
+He was quiet.
 
 "Elmsby," said Sir Aldric Fane. "The torch your father refused."
 
@@ -5495,7 +5390,7 @@ He looked at the blade. At the light.
 
 "His sword's not going on any wall," said Maren. "It's coming with me."
 
-Sir Aldric looked at her for a long moment. Then, for the first time in the seven years she'd known him, he smiled. Really smiled. It changed his whole face.
+Sir Aldric looked at her. Then, for the first time in the seven years she'd known him, he smiled. Really smiled. It changed his whole face.
 
 "Yes," he said. "I suppose it is."
 
@@ -5519,7 +5414,7 @@ Emrys stared up at the empty sky where the pieces had gone.
 
 "And Pell's?" he said. "And all the others? Every first-year? Every page?"
 
-The Archmaster looked at him for a long moment. Then she looked across the hall at Sir Aldric, still kneeling on the white floor beside Maren's father's sword. Then at the Heart on the dais, glowing in its broken glass.
+The Archmaster looked at him. Then she looked across the hall at Sir Aldric, still kneeling on the white floor beside Maren's father's sword. Then at the Heart on the dais, glowing in its broken glass.
 
 "One page at a time," said Ysolde Crane. "But yes. All of them. Eventually."
 
@@ -5532,9 +5427,7 @@ Maren leaned her head back against the cold white wall, and closed her eyes, and
 
 And held on to his hand.
 
----
-
-# Chapter 32: Dawn
+### Chapter 32: Dawn
 
 *Emrys*
 
@@ -5542,7 +5435,7 @@ They swore the treaty the next morning, at dawn.
 
 There had been an argument about that, of course. There had been arguments about everything, all day and most of the night, in the great hall with no roof, around a long table carried in from somewhere and set right under the broken dome. Sir Aldric said a thing like this ought to be sworn at dawn, as the Order had always sworn things. The Archmaster said it ought to be sworn by flame, as the Tower always had. They went back and forth about it for an hour, very politely, in the way of two people who had been enemies for their entire lives and were trying very hard not to be.
 
-In the end, Maren, who had been sitting at the end of the table not saying anything for a long time, said, "Why not both?"
+In the end, Maren, who had been sitting at the end of the table not saying anything, said, "Why not both?"
 
 They both looked at her.
 
@@ -5672,7 +5565,7 @@ She'd slipped off Brenna's shoulders and wriggled through the crowd, and now she
 
 "Can you do a spell?" she said. "A little one? For the treaty? Like flowers?"
 
-He looked at her for a long moment. He thought about cherry trees in the dead of winter, blooming in a frozen courtyard, and a whole tower full of masters gasping. He thought about how easy it would be. Just a little one. Just a day or two.
+He looked at her. He thought about cherry trees in the dead of winter, blooming in a frozen courtyard, and a whole tower full of masters gasping. He thought about how easy it would be. Just a little one. Just a day or two.
 
 "No," said Emrys.
 
@@ -5756,6 +5649,4 @@ Her pale eyes met his across the hall.
 
 ---
 
-*End of Season One*
-
----
+*End of Book One*

@@ -160,7 +160,7 @@ She stood up. Her side throbbed. Her heartbeat, their heartbeat, thudded quietly
 
 "No spells. *None.* Not unless I say so." She held up her left wrist, with its nine red rings. "That's my life you're spending now."
 
-He looked at her wrist for a long moment. Something moved behind his eyes that she couldn't read, something that looked almost like guilt. Then it was gone, and he gave her that crooked smile again.
+He looked at her wrist. Something moved behind his eyes that she couldn't read, something that looked almost like guilt. Then it was gone, and he gave her that crooked smile again.
 
 "Agreed, Sir Grim. No spells."
 

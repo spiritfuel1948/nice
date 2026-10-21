@@ -74,7 +74,7 @@ It was much later. The fire had burned down to coals. Her face was stiff and hot
 
 "I took your life without asking," Emrys said quietly. "And then I lied to you about it. Every day. For eleven days. I looked you in the face and lied, over and over, because I was afraid of what you'd look like when you knew." He drew a breath. "Not *I'm sorry you're upset.* Not *I'm sorry it happened.* I'm sorry I did it. It was the worst thing I've ever done. And I've done some really spectacular things."
 
-She didn't say anything for a long moment.
+She didn't say anything.
 
 "You saved my life," she said.
 
@@ -120,7 +120,7 @@ She didn't let go.
 
 "The Heart. Where is he going with it?"
 
-Emrys was quiet for a long moment. Then he let go of her hand, and reached into the lining of his waistcoat, and drew out the rusted dagger. He'd sewn a pocket in there. She hadn't known. He held it up in the last of the firelight, and turned it, so she could see the little carved boat beneath the crossguard.
+Emrys was quiet. Then he let go of her hand, and reached into the lining of his waistcoat, and drew out the rusted dagger. He'd sewn a pocket in there. She hadn't known. He held it up in the last of the firelight, and turned it, so she could see the little carved boat beneath the crossguard.
 
 "The man in the doorway at Concord Keep," he said slowly. "*The ferries have served this family for a hundred years.* Three hundred years ago, the only way across the Sunder was by ferry. And someone, a family, owned the ferries. And two friends were going to build a bridge that would have put them out of business." He turned the dagger. "Then a prince was murdered with a knight's dagger. A dagger with a boat on it. And the bridge never got built. Not by them."
 

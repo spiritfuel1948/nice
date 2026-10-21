@@ -136,7 +136,7 @@ He didn't take it. He just knelt, slowly, stiffly, the way old men kneel, there 
 
 "Yes, sir."
 
-He was quiet for a long time.
+He was quiet.
 
 "Elmsby," said Sir Aldric Fane. "The torch your father refused."
 
@@ -156,7 +156,7 @@ He looked at the blade. At the light.
 
 "His sword's not going on any wall," said Maren. "It's coming with me."
 
-Sir Aldric looked at her for a long moment. Then, for the first time in the seven years she'd known him, he smiled. Really smiled. It changed his whole face.
+Sir Aldric looked at her. Then, for the first time in the seven years she'd known him, he smiled. Really smiled. It changed his whole face.
 
 "Yes," he said. "I suppose it is."
 
@@ -180,7 +180,7 @@ Emrys stared up at the empty sky where the pieces had gone.
 
 "And Pell's?" he said. "And all the others? Every first-year? Every page?"
 
-The Archmaster looked at him for a long moment. Then she looked across the hall at Sir Aldric, still kneeling on the white floor beside Maren's father's sword. Then at the Heart on the dais, glowing in its broken glass.
+The Archmaster looked at him. Then she looked across the hall at Sir Aldric, still kneeling on the white floor beside Maren's father's sword. Then at the Heart on the dais, glowing in its broken glass.
 
 "One page at a time," said Ysolde Crane. "But yes. All of them. Eventually."
 

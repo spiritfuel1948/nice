@@ -20,7 +20,7 @@ The innkeeper was a broad woman with forearms like hams and a face that had been
 
 She held out a handful of the silver from the dead men's purse. It felt like holding something dirty.
 
-The innkeeper looked at the coins for a long moment. Bridges glinted in the gray light.
+The innkeeper studied the coins. Bridges glinted in the gray light.
 
 "Span silver spends the same as any," she said at last, and took it. "Stable's round the back. Don't touch anything. Don't burn anything. And if either of you starts any trouble, I'll put you in the river myself."
 

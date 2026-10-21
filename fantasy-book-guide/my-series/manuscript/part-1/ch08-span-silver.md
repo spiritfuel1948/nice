@@ -20,7 +20,7 @@ The man laughed. It turned into a cough. "Clever girl."
 
 "Because you're dying," Maren said, "and if you tell me the truth, I'll have the innkeeper send for a priest. And if you don't, I won't."
 
-The man looked at her for a long time. Something in his face cracked a little.
+The man stared at her. Something in his face cracked a little.
 
 "Didn't see much," he muttered. "Down in the Span. The low markets, under the bridge, where the river barges tie up. You go down there with a sword and an empty purse, and sometimes somebody finds you." He licked his lips. "He found me. Big man. Wore a mask, always, a gray one. Laughed a lot. Paid in silver. Half up front, the other half when the job was done."
 
@@ -62,7 +62,7 @@ Maren looked up.
 
 "No. But we know it's not *us.*"
 
-She was quiet for a long moment. Then she nodded, once, slowly, as if she were setting something heavy down.
+She was quiet. Then she nodded, once, slowly, as if she were setting something heavy down.
 
 ---
 
@@ -122,7 +122,7 @@ Tamsin let go of her gran's arm and ran to Maren. She was holding something in h
 
 "For your sword," she said. "So it's not lonely."
 
-Maren looked down at the ribbon for a long moment. Emrys watched her face do something complicated. Then she took it, very carefully, as if it might break, and knelt in the mud, and tied it around the crossguard of her oath-blade in a neat, tight knot.
+Maren looked down at the ribbon. Emrys watched her face do something complicated. Then she took it, very carefully, as if it might break, and knelt in the mud, and tied it around the crossguard of her oath-blade in a neat, tight knot.
 
 "Thank you," she said.
 

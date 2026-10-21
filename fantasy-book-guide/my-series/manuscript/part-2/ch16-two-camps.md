@@ -136,7 +136,7 @@ He turned anyway.
 
 Archmaster Ysolde Crane stood at the entrance of the largest gray tent, her cropped white hair bright in the thin winter sun. She had come herself. All the way from the Tower of Hours, to the foot of the Greyspine. He hadn't known. Nobody had told him.
 
-She looked at him for a long time without speaking. At his face. At his hair, the great silver sweep of it, half his head gone white since she had last seen him in the Ledger Hall ten days ago. And then, slowly, her pale eyes moved down to his left wrist, to the six red turns of thread around it, glowing faintly in the cold.
+She looked at him without speaking. At his face. At his hair, the great silver sweep of it, half his head gone white since she had last seen him in the Ledger Hall ten days ago. And then, slowly, her pale eyes moved down to his left wrist, to the six red turns of thread around it, glowing faintly in the cold.
 
 Her face didn't change at all. That was the most frightening thing about it.
 

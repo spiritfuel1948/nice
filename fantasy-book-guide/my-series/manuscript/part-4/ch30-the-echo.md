@@ -138,7 +138,7 @@ They brought her back up to the great hall in the sunlight, between a knight and
 
 She walked up the aisle as gracefully as she'd walked everywhere. Her braids were coming loose. Her velvet was dusty at the hem. Her face was perfectly calm.
 
-She stopped in front of Maren and Emrys, still sitting on the white floor with Maren's arm around him, and she looked down at them for a long time.
+She stopped in front of Maren and Emrys, still sitting on the white floor with Maren's arm around him, and she looked down at them.
 
 "You have no idea," said Isaura Vell softly, "what you've done. No idea at all. Three hundred years, I kept those scales. Three hundred years my family stood between them and the end of the world. And now you've opened the door." She shook her head, almost gently. "Someone has to hold the scales, children. Who's going to do it now?"
 
@@ -168,7 +168,7 @@ Her face didn't change. But her fingers, holding his wrist, tightened very sligh
 
 "I know."
 
-She looked at Maren, still holding him up, the blazing sword lying beside her on the floor. She looked for a long moment. Then she turned her head and looked up at the dais under the shattered dome, where, in the wreck of its broken glass case, the Heart still lay.
+She looked at Maren, still holding him up, the blazing sword lying beside her on the floor. She looked a while. Then she turned her head and looked up at the dais under the shattered dome, where, in the wreck of its broken glass case, the Heart still lay.
 
 Dark red. Dimmer than it had been. But glowing.
 

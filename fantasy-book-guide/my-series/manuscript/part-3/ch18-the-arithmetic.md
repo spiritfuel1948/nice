@@ -10,7 +10,7 @@ She sat in the chair. She didn't offer him anything. He stood.
 
 He gave it to her.
 
-Her fingers were cold and dry and very strong. She turned his hand palm up under the lamp and looked at the red thread for a long time, not touching it, just looking, the way she looked at a page in the Ledger. Then, delicately, with one fingertip, she touched the outermost turn.
+Her fingers were cold and dry and very strong. She turned his hand palm up under the lamp and studied the red thread, not touching it, just looking, the way she looked at a page in the Ledger. Then, delicately, with one fingertip, she touched the outermost turn.
 
 He felt it. A tiny tug, deep in his chest. Across the valley, he thought, Maren had probably felt it too.
 

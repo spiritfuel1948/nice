@@ -64,7 +64,7 @@ Maren thought about the morning in Sir Aldric's solar. *Your father lacked the s
 
 "I used to think so," she said.
 
-The Warden looked at her for a long moment. Something moved behind the kind, handsome face. Not anger. Something more like disappointment.
+The Warden studied her. Something moved behind the kind, handsome face. Not anger. Something more like disappointment.
 
 "Pity," said Isaura Vell.
 

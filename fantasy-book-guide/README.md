@@ -1,10 +1,12 @@
 # Wizards & Knights: Your Fantasy Book Guide (Start Here)
 
 > ## ▶ Next up
-> **Publishing prep for Book 1, *The Heart-Thread* (The Bridgewatch series).**
-> Decided: one full novel, lean budget, pen name. Now: **pick your pen name**.
-> Then Claude prepares the proofread, blurb, keywords, categories, pricing,
-> and the ebook and paperback files in [`my-series/kdp-package.md`](my-series/kdp-package.md).
+> **Book 1 is ready to upload:** *The Heart-Thread* by Avery Ashcombe (The
+> Bridgewatch, Book 1). Ebook, paperback interior, blurb, keywords, categories,
+> and prices are all in [`my-series/kdp-package.md`](my-series/kdp-package.md).
+> **Your tasks:** (1) set up your free KDP account, (2) buy a premade cover
+> using the brief in §6 (~$70–150), (3) send the cover files to Claude to check
+> sizes, then upload by following the checklist in §7.
 
 This folder holds the research and teaching material for writing and selling your
 own multi-part fantasy series about wizards and knights. You'll write the story.

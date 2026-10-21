@@ -68,7 +68,7 @@ He didn't answer for a moment. He'd made himself a promise, in the hut on the pa
 
 "A lot," he said. "Maybe everything I've got left. I don't know."
 
-She was quiet for a long time. When she spoke again, her voice was very steady.
+She was quiet. When she spoke again, her voice was very steady.
 
 "Promise me something."
 

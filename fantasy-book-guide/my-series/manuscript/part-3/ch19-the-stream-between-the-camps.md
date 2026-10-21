@@ -34,7 +34,7 @@ It went on like that all day.
 
 She hadn't expected a welcome. She'd been the disgraced knight's daughter at Dawnhold for seven years. She knew what it was to have people stop talking when you came into a room. But this was different. At Dawnhold, they'd talked about her father. Here, they talked about *her.* She heard it everywhere she went, behind tent flaps, around the cook-fires, at the horse lines. *Wizard-bound.* *Tied to the Tower's boy.* *Can you trust her? Whose side is she on now?*
 
-At midday, Sir Bertram found her mending a strap in the lee of the supply wagons and stood over her for a long moment, chewing his lip.
+At midday, Sir Bertram found her mending a strap in the lee of the supply wagons and stood over her, chewing his lip.
 
 "Holt," he said finally. "You're a good squire. You always were. Best I ever trained."
 

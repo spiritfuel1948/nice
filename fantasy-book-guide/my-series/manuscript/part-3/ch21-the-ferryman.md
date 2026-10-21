@@ -130,7 +130,7 @@ Every head turned.
 
 Sir Aldric came through the crowd. The knights parted for him without a word, the way water parts for a ship. He'd come straight from his bed; his iron hair was wild and his cloak was thrown over a nightshirt. He didn't look ridiculous. He looked like the Knight-Commander of the Order of First Light, and the tent went silent.
 
-He looked at the empty reliquary for a long moment. His face didn't change. Then he looked at the dead guards outside. Then at Emrys, hanging between the two knights. Then, at last, at her.
+He looked at the empty reliquary. His face didn't change. Then he looked at the dead guards outside. Then at Emrys, hanging between the two knights. Then, at last, at her.
 
 "Holt," he said quietly. "Was the wizard here? In this tent? Tonight?"
 

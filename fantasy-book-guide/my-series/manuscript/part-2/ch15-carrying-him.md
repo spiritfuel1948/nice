@@ -98,7 +98,7 @@ He'd stood in the Dawnhold courtyard with the whole Order watching and said *no,
 
 But the courtyard at Concord Keep was full of people who'd said *yes.* Who'd done exactly what they were told, the instant they were told it. And all of them had died. And all of them had been wrong.
 
-She looked at the two swords for a long time. Then she wrapped her father's up again and put it away. But she didn't put it as deep in the pack as before. She left it near the top.
+She sat looking at the two swords until the fire burned low. Then she wrapped her father's up again and put it away. But she didn't put it as deep in the pack as before. She left it near the top.
 
 ---
 
@@ -170,6 +170,6 @@ On the eastern side: gray.
 
 Two camps, facing each other across the valley floor.
 
-Maren stood in the frozen grass for a long time with her hand on her sword, looking at the white and gold. Home. The Order. Sir Aldric, and the Heart, and her orders.
+Maren stood in the frozen grass with her hand on her sword, looking at the white and gold. Home. The Order. Sir Aldric, and the Heart, and her orders.
 
 Then she went back inside, to tell Emrys.

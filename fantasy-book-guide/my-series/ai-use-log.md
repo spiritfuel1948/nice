@@ -33,3 +33,5 @@ the book. This log does two jobs:
 | 2026-10-20 | Character profiles for Maren & Emrys *(planning notes, not book text)* | Read and reviewed; no changes | ✅ Approved as is |
 | 2026-10-21 | Villain, names, and the 32-chapter season outline *(planning notes)* | Read with the manuscript; no changes | ✅ Approved as is |
 | 2026-10-21 | **Season 1 manuscript**, Parts 1–4, 32 chapters, ~65k words *(book text: tick "AI-generated" on KDP)* | Read through; no changes | ✅ Approved as is |
+| 2026-10-21 | Proofread pass: 25 repeated-phrase edits ("for a long time" / "a long moment"), "End of Book One" *(edits to book text)* | Done by Claude after your approval | ✅ |
+| 2026-10-21 | Book description, back-cover copy, keywords *(marketing text in `kdp-package.md`)* | *(read before pasting into KDP)* | ☐ |

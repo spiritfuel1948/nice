@@ -108,7 +108,7 @@ When the light came, she looked at her wrist.
 
 Seven turns.
 
-She looked at it for a long time. Then she looked at him. He was sitting with his back against the stone, his face gray with exhaustion. The streak of silver in his hair was wider, unmistakably wider, a broad band of it now above his left temple. He was looking at her the way you'd look at someone who might hit you.
+She looked at it. Then she looked at him. He was sitting with his back against the stone, his face gray with exhaustion. The streak of silver in his hair was wider, unmistakably wider, a broad band of it now above his left temple. He was looking at her the way you'd look at someone who might hit you.
 
 "You asked," she said. "This time."
 
