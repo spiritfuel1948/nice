@@ -114,7 +114,7 @@ Sir Aldric nodded to the knight-chaplain, an old man with a scarred face, who st
 
 Maren had imagined it all her life. She'd imagined something like a heart: red, meaty, pulsing. It wasn't like that at all.
 
-It was like looking into the inside of a garnet. A great dark-red shape, the size of a barrel, smooth and faceted and glowing from within, as if a fire burned somewhere deep in its core. As she watched, the glow brightened slowly, slowly, to a deep, pulsing crimson. *Thud.* Then faded, slow, slow, back to a dull ember-red.
+It was like looking into the inside of a garnet. A great dark-red shape, the size of a small keg, smooth and faceted and glowing from within, as if a fire burned somewhere deep in its core. As she watched, the glow brightened slowly, slowly, to a deep, pulsing crimson. *Thud.* Then faded, slow, slow, back to a dull ember-red.
 
 It was alive. She could feel that it was alive, the way you can feel that someone is in a dark room with you. Old. Unimaginably old. And very, very tired.
 
