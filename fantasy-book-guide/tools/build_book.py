@@ -3,6 +3,7 @@
 Outputs (in my-series/publishing/):
   The-Heart-Thread.epub                 Kindle / ebook upload
   The-Heart-Thread.docx                 editable copy (KDP also accepts .docx)
+  The-Heart-Thread.txt                  plain-text copy
   The-Heart-Thread-paperback-5.5x8.5.pdf  print-ready interior for KDP paperback
   book.md                               combined manuscript with front/back matter
 Also refreshes my-series/manuscript/Season-1-The-Heart-Thread.md (reading copy).
@@ -121,6 +122,8 @@ def build():
     subprocess.run(epub_cmd, check=True)
     subprocess.run(["pandoc", str(OUT / "book.md"), "-o", str(OUT / "The-Heart-Thread.docx"),
                     "--toc", "--toc-depth=2"], check=True)
+    subprocess.run(["pandoc", str(OUT / "book.md"), "-t", "plain", "--wrap=none", "--standalone",
+                    "-o", str(OUT / "The-Heart-Thread.txt")], check=True)
 
     # Print interior: HTML -> PDF with Chromium.
     html_body = subprocess.run(["pandoc", "-f", "markdown", "-t", "html5"], input=body,
