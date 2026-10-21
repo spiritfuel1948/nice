@@ -95,7 +95,7 @@ dragonfire burn the treaty hall, so each side blames the other.
    Neutral Stone.
 2. **Emrys: "The Ledger."** At the Tower of Hours, Emrys casts a dazzling spell
    for the masters and hides a new gray streak with a joke. Archmaster Ysolde
-   shows him his Ledger page: a huge debt from the flood spell at 11. Her
+   shows him his Ledger page: the tower is owed 30 years of service, the flood spell at 11 paid only part of it, and he still owes about 18 years. He has 2–3 winters left, so he'll die owing. Her
    offer: steal the Heart at the summit, and his debt is wiped and he earns his
    Master's star. Her reason: the Heart could free every wizard from the
    Ledger. He remembers reading about a forbidden binding in the restricted
