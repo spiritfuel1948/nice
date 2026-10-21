@@ -30,4 +30,6 @@ the book. This log does two jobs:
 | Date | What was AI-drafted | Your edits (what you changed) | Approved? |
 |---|---|---|---|
 | 2026-10-20 | The knights' oath (6 lines) | Read and reviewed; no changes | ✅ Approved as is |
-| 2026-10-20 | Character profiles for Maren & Emrys *(planning notes, not book text)* | *(fill in after your review)* | ☐ |
+| 2026-10-20 | Character profiles for Maren & Emrys *(planning notes, not book text)* | Read and reviewed; no changes | ✅ Approved as is |
+| 2026-10-21 | Villain, names, and the 32-chapter season outline *(planning notes)* | *(read at the end)* | ☐ |
+| 2026-10-21 | **Season 1 manuscript**, Parts 1–4 *(book text: tick "AI-generated" on KDP)* | *(read at the end; log any changes)* | ☐ |

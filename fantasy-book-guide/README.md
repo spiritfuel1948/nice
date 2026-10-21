@@ -1,10 +1,12 @@
 # Wizards & Knights: Your Fantasy Book Guide (Start Here)
 
 > ## ▶ Next up
-> **Step 6a:** Review the AI-drafted profiles for Maren & Emrys in
-> `my-series/story-bible.md` (section 6). Do the wounds, fears, and voices feel
-> right? Change anything, or say "approved as is." *(About 5 minutes.)*
-> **After that:** Step 7, the villain: who sent the assassin, and why.
+> **Claude is drafting all of Season 1** (4 parts, 32 chapters) in
+> `my-series/manuscript/`, following `my-series/outline.md`. You'll read it at
+> the end, and you'll only be asked something if it's truly needed.
+> **Your task while you wait (about 15 minutes):** create your free KDP account
+> at kdp.amazon.com (Step 1 of `03-publishing-and-money.md`: tax info and bank
+> details), and jot down 2–3 pen-name ideas.
 >
 > *Listening instead?* Play Lessons 6–7 (characters) on the
 > [read-aloud page](https://claude.ai/artifact/G2tu6adFXPzH7A5gN8CJdt). They prepare you for Step 3c.
@@ -97,16 +99,15 @@ We're on **Step 3**. Check off each step as we finish it.
   - [x] 5c. The knights' oath: AI-drafted, approved by you
   - [x] 5d. The tower controls wizards with the **Life-Ledger**; stealing the Heart would wipe Emrys's debt
   - [x] 5e. **Yes:** a broken oath kills the blade until a truer oath is sworn (the climax engine)
-- [ ] **Step 6.** Create the main characters: want, need, wound, Lie (Lessons 6–7) ← **you are here**
-  - [ ] 6a. Review the AI-drafted profiles for Maren & Emrys ← **next**
-- [ ] **Step 7.** Create the villain, who should believe they're right
+- [x] **Step 6.** Create the main characters: want, need, wound, Lie (Lessons 6–7). Profiles approved as is.
+- [x] **Step 7.** The villain: **Warden Isaura Vell** (AI-drafted while outlining)
 
 ### Phase C: Planning the series
-- [ ] **Step 8.** Map the whole series arc, then split it into parts (Lesson 10)
-- [ ] **Step 9.** Outline Part 1 with the Story Spine, then with beats (Lesson 9)
+- [x] **Step 8.** Map the whole series arc, then split it into parts: see [`my-series/outline.md`](my-series/outline.md)
+- [x] **Step 9.** Chapter-by-chapter outline for all 4 parts (32 chapters)
 
 ### Phase D: Writing
-- [ ] **Step 10.** Draft Part 1. You write; I coach, answer questions, and critique.
+- [ ] **Step 10.** Draft Season 1 (AI-drafted, per your decision) ← **in progress**
 - [ ] **Step 11.** Revise in layers (Lesson 13), then beta readers, then editing
 
 ### Phase E: Publishing

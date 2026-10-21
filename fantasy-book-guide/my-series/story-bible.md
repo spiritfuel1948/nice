@@ -274,14 +274,16 @@ hides feelings behind discipline, and he hides them behind jokes. Each has the
 Truth the other needs. The Heart-Thread punishes his worst habit (casting) and
 tests hers (obeying).
 
-### Villain
+### Villain *(AI-drafted, chosen while outlining; details in `outline.md`)*
 | | |
 |---|---|
-| Name / role | |
-| What they want (understandably) | |
-| Why they believe they're right | |
-| How they are the hero's **Lie** taken to the extreme | |
-| What they're willing to do that the hero isn't | |
+| Name / role | **Warden Isaura Vell**, ruler of the Span (the Bridge City) and gracious host of the peace summit |
+| What they want (understandably) | To keep the war going. The Span's wealth and power exist *because* of it: tolls, arms, ransoms, brokering every truce. |
+| Why they believe they're right | "Peace between them would end with one side destroying the other. Someone must hold the scales." |
+| How they are the hero's **Lie** taken to the extreme | Maren believes following orders makes her good. Isaura believes *her* control keeps the world good. |
+| What they're willing to do that the hero isn't | Murder hostages, stage attacks to frame both sides, and burn the treaty hall with dragonfire |
+| Family secret | Her ancestor **Corvane Vell**, the ferry-lord, murdered Prince Caelan and framed Sir Aldane 300 years ago to stop their bridge. The assassin codename **"the Ferryman"** is a family tradition. |
+| Her agent | **Captain Oriel Dace**, the jovial escort captain who "dies" in Part 1 |
 
 ### Supporting cast (mirrors of the theme)
 | Name | Role | Their *answer* to the theme question |
