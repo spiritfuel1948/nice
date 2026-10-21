@@ -1,17 +1,10 @@
 # Wizards & Knights: Your Fantasy Book Guide (Start Here)
 
 > ## ▶ Next up
-> **Season 1 is drafted:** *The Heart-Thread*, 4 parts, 32 chapters, about
-> 65,000 words. **Your task: read it** (Step 11). Two ways:
-> - **Read:** [`my-series/manuscript/Season-1-The-Heart-Thread.md`](my-series/manuscript/Season-1-The-Heart-Thread.md) (all one file)
-> - **Listen:** the [read-aloud page](https://claude.ai/artifact/G2tu6adFXPzH7A5gN8CJdt) now starts at Chapter 1
->
-> As you go, note anything that feels off: a line, a scene, a name. Then tell
-> me what to change, or say "approved as is." That's your human review for
-> the AI-use log.
-> **After that:** pick final titles, then the publishing setup (cover, blurb,
-> KDP). If you haven't yet, create your free KDP account and jot down 2–3
-> pen-name ideas.
+> **Publishing prep for Book 1, *The Heart-Thread* (The Bridgewatch series).**
+> Decided: one full novel, lean budget, pen name. Now: **pick your pen name**.
+> Then Claude prepares the proofread, blurb, keywords, categories, pricing,
+> and the ebook and paperback files in [`my-series/kdp-package.md`](my-series/kdp-package.md).
 
 This folder holds the research and teaching material for writing and selling your
 own multi-part fantasy series about wizards and knights. You'll write the story.
@@ -113,7 +106,7 @@ We're on **Step 3**. Check off each step as we finish it.
 - [x] **Step 11.** Read Season 1: **approved as is** (2026-10-21)
 
 ### Phase E: Publishing
-- [ ] **Step 12.** Cover, blurb, keywords, categories, pricing
+- [ ] **Step 12.** Cover, blurb, keywords, categories, pricing ← **in progress** (see `my-series/kdp-package.md`)
 - [ ] **Step 13.** Upload to KDP, set up the series page, launch
 - [ ] **Step 14.** Write Part 2 while Part 1 sells (a series builds over time)
 
