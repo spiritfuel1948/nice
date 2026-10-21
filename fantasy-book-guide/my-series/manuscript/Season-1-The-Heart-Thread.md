@@ -1,6 +1,6 @@
 # The Heart-Thread
 
-*The Bridgewatch · Book One* · by Avery Ashcombe
+*The Bridgewatch · Book One* · by Luke Moreland
 
 ---
 

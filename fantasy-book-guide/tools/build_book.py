@@ -23,7 +23,7 @@ OUT.mkdir(exist_ok=True)
 
 TITLE = "The Heart-Thread"
 SERIES_LINE = "The Bridgewatch · Book One"
-AUTHOR = "Avery Ashcombe"
+AUTHOR = "Luke Moreland"
 YEAR = "2026"
 
 PARTS = [
@@ -47,7 +47,7 @@ Maren and Emrys's story continues in **Book Two of The Bridgewatch**.
 
 If you enjoyed this book, please consider leaving a short review on the store where you bought it. Reviews are the single biggest help to a new author. Even a sentence or two makes a real difference."""
 
-ABOUT = f"""{AUTHOR} writes fantasy about oaths, magic, and the people brave enough to break the wrong ones. *{TITLE}* is their first novel."""
+ABOUT = f"""{AUTHOR} writes fantasy about oaths, magic, and the people brave enough to break the wrong ones. *{TITLE}* is his first novel."""
 
 
 def chapters():
@@ -113,8 +113,12 @@ def build():
 
     css = OUT / "epub.css"
     css.write_text(EPUB_CSS)
-    subprocess.run(["pandoc", str(OUT / "book.md"), "-o", str(OUT / "The-Heart-Thread.epub"),
-                    "--toc", "--toc-depth=2", "--split-level=2", "--css", str(css)], check=True)
+    epub_cmd = ["pandoc", str(OUT / "book.md"), "-o", str(OUT / "The-Heart-Thread.epub"),
+                "--toc", "--toc-depth=2", "--split-level=2", "--css", str(css)]
+    cover = OUT / "cover-ebook.jpg"
+    if cover.exists():                       # the Canva front cover, if exported
+        epub_cmd += ["--epub-cover-image", str(cover)]
+    subprocess.run(epub_cmd, check=True)
     subprocess.run(["pandoc", str(OUT / "book.md"), "-o", str(OUT / "The-Heart-Thread.docx"),
                     "--toc", "--toc-depth=2"], check=True)
 

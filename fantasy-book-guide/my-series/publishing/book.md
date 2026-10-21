@@ -1,14 +1,14 @@
 ---
 title: "The Heart-Thread"
 subtitle: "The Bridgewatch · Book One"
-author: "Avery Ashcombe"
+author: "Luke Moreland"
 lang: en-US
-rights: "© 2026 Avery Ashcombe. All rights reserved."
+rights: "© 2026 Luke Moreland. All rights reserved."
 ---
 
 # Copyright {.unnumbered .unlisted}
 
-Copyright © 2026 Avery Ashcombe. All rights reserved.
+Copyright © 2026 Luke Moreland. All rights reserved.
 
 This is a work of fiction. Names, characters, places, and incidents are products of the author's imagination or are used fictitiously. Any resemblance to actual persons, living or dead, or to actual events is entirely coincidental.
 
@@ -5674,4 +5674,4 @@ If you enjoyed this book, please consider leaving a short review on the store wh
 
 # About the Author {.unnumbered}
 
-Avery Ashcombe writes fantasy about oaths, magic, and the people brave enough to break the wrong ones. *The Heart-Thread* is their first novel.
+Luke Moreland writes fantasy about oaths, magic, and the people brave enough to break the wrong ones. *The Heart-Thread* is his first novel.

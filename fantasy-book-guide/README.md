@@ -1,12 +1,12 @@
 # Wizards & Knights: Your Fantasy Book Guide (Start Here)
 
 > ## ▶ Next up
-> **Book 1 is ready to upload:** *The Heart-Thread* by Avery Ashcombe (The
-> Bridgewatch, Book 1). Ebook, paperback interior, blurb, keywords, categories,
-> and prices are all in [`my-series/kdp-package.md`](my-series/kdp-package.md).
-> **Your tasks:** (1) set up your free KDP account, (2) buy a premade cover
-> using the brief in §6 (~$70–150), (3) send the cover files to Claude to check
-> sizes, then upload by following the checklist in §7.
+> **Read your book:** [`my-series/The-Heart-Thread-reading-copy.pdf`](my-series/The-Heart-Thread-reading-copy.pdf).
+> That's *The Heart-Thread* by **Luke Moreland**, with its Canva cover. Note anything
+> you'd change as you go.
+> **Then:** (1) download the cover JPG from Canva (steps in
+> [`my-series/kdp-package.md`](my-series/kdp-package.md) §6), (2) set up your free
+> KDP account, (3) Claude makes the paperback wrap cover, (4) upload with the §7 checklist.
 
 This folder holds the research and teaching material for writing and selling your
 own multi-part fantasy series about wizards and knights. You'll write the story.
@@ -108,7 +108,7 @@ We're on **Step 3**. Check off each step as we finish it.
 - [x] **Step 11.** Read Season 1: **approved as is** (2026-10-21)
 
 ### Phase E: Publishing
-- [ ] **Step 12.** Cover, blurb, keywords, categories, pricing ← **in progress** (see `my-series/kdp-package.md`)
+- [ ] **Step 12.** Cover, blurb, keywords, categories, pricing ← **in progress**: ebook cover done in Canva; paperback wrap next (see `my-series/kdp-package.md`)
 - [ ] **Step 13.** Upload to KDP, set up the series page, launch
 - [ ] **Step 14.** Write Part 2 while Part 1 sells (a series builds over time)
 

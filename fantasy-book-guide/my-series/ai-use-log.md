@@ -35,3 +35,4 @@ the book. This log does two jobs:
 | 2026-10-21 | **Season 1 manuscript**, Parts 1–4, 32 chapters, ~65k words *(book text: tick "AI-generated" on KDP)* | Read through; no changes | ✅ Approved as is |
 | 2026-10-21 | Proofread pass: 25 repeated-phrase edits ("for a long time" / "a long moment"), "End of Book One" *(edits to book text)* | Done by Claude after your approval | ✅ |
 | 2026-10-21 | Book description, back-cover copy, keywords *(marketing text in `kdp-package.md`)* | *(read before pasting into KDP)* | ☐ |
+| 2026-10-21 | **Ebook cover art and layout** in Canva *(images: tick "AI-generated: images" on KDP)* | Claude fixed the title hyphen; you changed the author name to **Luke Moreland** | ✅ Approved with your name change |
