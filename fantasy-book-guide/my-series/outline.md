@@ -231,6 +231,6 @@ dragonfire burn the treaty hall, so each side blames the other.
 
 ## Progress
 - [x] Part 1 (Ch 1–8)
-- [ ] Part 2 (Ch 9–16)
+- [x] Part 2 (Ch 9–16)
 - [ ] Part 3 (Ch 17–24)
 - [ ] Part 4 (Ch 25–32)
