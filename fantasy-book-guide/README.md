@@ -110,7 +110,7 @@ We're on **Step 3**. Check off each step as we finish it.
 
 ### Phase D: Writing
 - [x] **Step 10.** Draft Season 1 (AI-drafted, per your decision): [`my-series/manuscript/`](my-series/manuscript/)
-- [ ] **Step 11.** **Read Season 1 and note changes** ← **next** · then revise in layers (Lesson 13), beta readers, editing
+- [x] **Step 11.** Read Season 1: **approved as is** (2026-10-21)
 
 ### Phase E: Publishing
 - [ ] **Step 12.** Cover, blurb, keywords, categories, pricing

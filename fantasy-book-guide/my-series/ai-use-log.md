@@ -31,5 +31,5 @@ the book. This log does two jobs:
 |---|---|---|---|
 | 2026-10-20 | The knights' oath (6 lines) | Read and reviewed; no changes | ✅ Approved as is |
 | 2026-10-20 | Character profiles for Maren & Emrys *(planning notes, not book text)* | Read and reviewed; no changes | ✅ Approved as is |
-| 2026-10-21 | Villain, names, and the 32-chapter season outline *(planning notes)* | *(read with the manuscript)* | ☐ |
-| 2026-10-21 | **Season 1 manuscript**, Parts 1–4, 32 chapters, ~65k words *(book text: tick "AI-generated" on KDP)* | *(your read-through: log changes here)* | ☐ |
+| 2026-10-21 | Villain, names, and the 32-chapter season outline *(planning notes)* | Read with the manuscript; no changes | ✅ Approved as is |
+| 2026-10-21 | **Season 1 manuscript**, Parts 1–4, 32 chapters, ~65k words *(book text: tick "AI-generated" on KDP)* | Read through; no changes | ✅ Approved as is |
