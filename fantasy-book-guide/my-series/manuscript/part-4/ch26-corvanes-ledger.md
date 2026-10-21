@@ -18,7 +18,7 @@ He felt them as soon as they came around the corner of the plaza after midnight:
 
 Maren looked at him. Then she looked at the edge of the bridge.
 
-"Right," she said, and started unbuckling her sword belt.
+"Right," she said, and started unbuckling her sword belt, so she could strap both dead blades across her back: her own and her father's. She didn't leave her father's anywhere now.
 
 ---
 
@@ -36,7 +36,7 @@ The back of the Keystone was the worst ten minutes of his life, and he had held 
 
 There was a ledge. It was about a foot wide. It ran along the base of the palace's back wall, right at the edge of the bridge, and beyond it there was simply nothing. A black, howling emptiness, with the wind coming up out of it so hard it plucked at his coat and his hair and his breath. Far, far below, the silver thread of the river. Tiny lights crawling along it. He looked down once and then didn't look down again.
 
-Maren went first. Of course she did. She went along that ledge with her back to the wall and her dead sword strapped across her shoulders and her hands flat on the stone, sideways, one step and then the next, as steadily as if she were walking along the top of the practice-yard wall at Dawnhold. Every few feet, she stopped and looked back at him.
+Maren went first. Of course she did. She went along that ledge with her back to the wall and the two dead swords strapped across her shoulders and her hands flat on the stone, sideways, one step and then the next, as steadily as if she were walking along the top of the practice-yard wall at Dawnhold. Every few feet, she stopped and looked back at him.
 
 "Don't look down," she said.
 

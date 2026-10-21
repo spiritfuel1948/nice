@@ -207,10 +207,10 @@ dragonfire burn the treaty hall, so each side blames the other.
     bridge's old service ways from the archive, and Maren picks the lock. Dace
     comes to kill them quietly, and they fight on girders above the chasm.
     Maren beats Dace with her father's dead blade used as plain steel, and Dace
-    falls into the Sunder for real.
+    falls into the Sunder for real, taking her own dead sword with him.
 29. **Maren: "My Own Oath."** The Midwinter dawn ceremony. Isaura breaks the
-    reliquary seals, and dragonfire erupts. **Maren swears her own oath, and
-    her blade blazes alive.** She turns the dragonfire up through the roof: a
+    reliquary seals, and dragonfire erupts. **Maren swears her own oath on
+    her FATHER's blade, and it blazes alive** (changed while drafting: her father's name is made clean by her own oath, not by the Order). She turns the dragonfire up through the roof: a
     pillar of fire at dawn.
 30. **Emrys: "The Echo."** Emrys casts the great echo-spell he learned in the
     Hollowwood, showing everyone Corvane's crime and Isaura's own words. The
