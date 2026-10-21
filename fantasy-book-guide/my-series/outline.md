@@ -81,7 +81,8 @@ dragonfire burn the treaty hall, so each side blames the other.
 - **Thread count by chapter:** 9 after binding (Ch 5) → 8 (Ch 7) → 7 (Ch 13)
   → 6 (Ch 14) → 5 (Ch 22) → 2 (Ch 30) → cut (Ch 31).
 - **Clock:** Midwinter dawn is **14 days** after the exchange. Part 1 covers
-  days 1–4, Part 2 days 5–8, Part 3 days 9–11, Part 4 days 12–14.
+  days 1–6 (they leave Hollin's Ford on the morning of day 6, with 8 days left),
+  Part 2 days 6–9, Part 3 days 9–11, Part 4 days 12–14.
 
 ---
 
@@ -229,7 +230,7 @@ dragonfire burn the treaty hall, so each side blames the other.
 ---
 
 ## Progress
-- [ ] Part 1 (Ch 1–8)
+- [x] Part 1 (Ch 1–8)
 - [ ] Part 2 (Ch 9–16)
 - [ ] Part 3 (Ch 17–24)
 - [ ] Part 4 (Ch 25–32)
