@@ -1,15 +1,17 @@
 # Wizards & Knights: Your Fantasy Book Guide (Start Here)
 
 > ## ▶ Next up
-> **Claude is drafting all of Season 1** (4 parts, 32 chapters) in
-> `my-series/manuscript/`, following `my-series/outline.md`. You'll read it at
-> the end, and you'll only be asked something if it's truly needed.
-> **Your task while you wait (about 15 minutes):** create your free KDP account
-> at kdp.amazon.com (Step 1 of `03-publishing-and-money.md`: tax info and bank
-> details), and jot down 2–3 pen-name ideas.
+> **Season 1 is drafted:** *The Heart-Thread*, 4 parts, 32 chapters, about
+> 65,000 words. **Your task: read it** (Step 11). Two ways:
+> - **Read:** [`my-series/manuscript/Season-1-The-Heart-Thread.md`](my-series/manuscript/Season-1-The-Heart-Thread.md) (all one file)
+> - **Listen:** the [read-aloud page](https://claude.ai/artifact/G2tu6adFXPzH7A5gN8CJdt) now starts at Chapter 1
 >
-> *Listening instead?* Play Lessons 6–7 (characters) on the
-> [read-aloud page](https://claude.ai/artifact/G2tu6adFXPzH7A5gN8CJdt). They prepare you for Step 3c.
+> As you go, note anything that feels off: a line, a scene, a name. Then tell
+> me what to change, or say "approved as is." That's your human review for
+> the AI-use log.
+> **After that:** pick final titles, then the publishing setup (cover, blurb,
+> KDP). If you haven't yet, create your free KDP account and jot down 2–3
+> pen-name ideas.
 
 This folder holds the research and teaching material for writing and selling your
 own multi-part fantasy series about wizards and knights. You'll write the story.
@@ -107,8 +109,8 @@ We're on **Step 3**. Check off each step as we finish it.
 - [x] **Step 9.** Chapter-by-chapter outline for all 4 parts (32 chapters)
 
 ### Phase D: Writing
-- [ ] **Step 10.** Draft Season 1 (AI-drafted, per your decision) ← **in progress**
-- [ ] **Step 11.** Revise in layers (Lesson 13), then beta readers, then editing
+- [x] **Step 10.** Draft Season 1 (AI-drafted, per your decision): [`my-series/manuscript/`](my-series/manuscript/)
+- [ ] **Step 11.** **Read Season 1 and note changes** ← **next** · then revise in layers (Lesson 13), beta readers, editing
 
 ### Phase E: Publishing
 - [ ] **Step 12.** Cover, blurb, keywords, categories, pricing

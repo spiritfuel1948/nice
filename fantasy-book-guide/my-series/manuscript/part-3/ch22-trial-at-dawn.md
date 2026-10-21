@@ -18,7 +18,7 @@ He thought about the last thing she'd said to him before the tent wall tore open
 
 He thought she was probably right.
 
-The dagger was still in the lining of his waistcoat, where he'd sewn it in a little pocket two nights ago in the shepherd's hut, while she slept. They hadn't searched him well. He could feel it against his ribs, rusted and patient, with its tiny carved boat.
+The dagger was still in the lining of his waistcoat, where he'd sewn it in a little pocket three nights ago in the shepherd's hut, while she slept. They hadn't searched him well. He could feel it against his ribs, rusted and patient, with its tiny carved boat.
 
 *The ferries have served this family for a hundred years.*
 

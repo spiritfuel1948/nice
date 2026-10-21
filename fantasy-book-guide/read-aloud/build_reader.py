@@ -34,16 +34,29 @@ def split_h1(md: str):
 
 chapters = []
 
+# 0. The story itself (Season 1), if it exists.
+story_parts = [
+    ("part-1", "Season 1 · Part One: The Burned March"),
+    ("part-2", "Season 1 · Part Two: The Hollowwood"),
+    ("part-3", "Season 1 · Part Three: The Broken Oath"),
+    ("part-4", "Season 1 · Part Four: The Bridge of Dawn"),
+]
+for folder, group in story_parts:
+    for f in sorted((guide / "my-series" / "manuscript" / folder).glob("ch*.md")):
+        md = re.sub(r"^# Part [^\n]*\n\n", "", f.read_text())
+        title, body = split_h1(md)
+        chapters.append({"group": group, "title": title, "html": render(body)})
+
 # 1. Current step first.
 title, body = split_h1((guide / "05-premise-workshop.md").read_text())
-chapters.append({"group": "Your current step", "title": "Step 3 Workshop: Knight & Wizard, Forced Together", "html": render(body)})
+chapters.append({"group": "Lessons: workshop", "title": "Step 3 Workshop: Knight & Wizard, Forced Together", "html": render(body)})
 
 # 2. Craft lessons, one chapter per lesson (skip the intro + contents list).
 craft = (guide / "01-craft-guide.md").read_text()
 parts = re.split(r"^## (Lesson \d+ — .+)$", craft, flags=re.M)
 for heading, body in zip(parts[1::2], parts[2::2]):
     body = re.sub(r"\n---\s*$", "\n", body.rstrip())
-    chapters.append({"group": "Craft lessons", "title": heading.strip(), "html": render(body)})
+    chapters.append({"group": "Lessons: craft", "title": heading.strip(), "html": render(body)})
 
 # 3. Planning and publishing.
 for fname, short in [
@@ -51,7 +64,7 @@ for fname, short in [
     ("03-publishing-and-money.md", "Publishing & Money"),
 ]:
     _, body = split_h1((guide / fname).read_text())
-    chapters.append({"group": "Planning & publishing", "title": short, "html": render(body)})
+    chapters.append({"group": "Lessons: planning & publishing", "title": short, "html": render(body)})
 
 data = json.dumps(chapters, ensure_ascii=False).replace("</", "<\\/")
 page = Path(template_path).read_text().replace("/*__CHAPTERS__*/[]", data)

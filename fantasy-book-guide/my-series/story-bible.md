@@ -353,3 +353,34 @@ adventure, plus the season arc in the background)
 | **Decision** (the next goal) | |
 | Emotion shown through: body / visceral / thought / action | |
 | Lore or world detail revealed (only if needed) | |
+
+---
+
+## 8. Season 1, as written (for continuity in Season 2)
+*Drafted 2026-10-21. See `manuscript/` and `outline.md`.*
+- **Maren's own oath** (she swears it on her father's blade, which wakes up, in Ch 29):
+  > By steel and by flame, I swear:
+  > I will shield the weak and spare the innocent.
+  > I will ask what is right, and do it, though no one orders me.
+  > I will not yield to fear, nor bow to a lie.
+  > My word is my own. And my blade is my word.
+  > If I break this oath, let my steel break with it.
+- **Her own sword** fell into the Sunder with Dace (Ch 28). She now carries
+  **Sir Corwin Holt's** living blade, with Tamsin's red ribbon on the crossguard.
+- **The thread was cut** with dragonfire (Ch 31). Maren has her full life back.
+  **Emrys has about a year, maybe more, if he never casts again.**
+- **Isaura Vell** is captured. **Dace** fell into the Sunder. Aldric confessed he
+  burned Elmsby himself. Ysolde tore up Emrys's Ledger page and has begun
+  closing the Ledger, "one page at a time."
+- **The treaty** is sworn "by steel and by flame." The Span is governed by a
+  council (Order, Tower, and the people, with Brenna in the first people's seat
+  "but no hat"). **The tolls are abolished.**
+- **The Bridgewatch** (named by Tamsin): knights and wizards together guard the
+  Span and the Heart. Its first members are Maren and Emrys. Emrys keeps the
+  books, reads wards, and must not cast.
+- **The Hollowwood's spell let go** when the truth was made right. The echoes are at rest.
+- **The Heart** stays on the Span under the open sky. **Season 2 hook:** it beat
+  faster, and *something far below in the Sunder answered.* (The dragon? Could
+  a dragon's vast life save Emrys?)
+- Open threads: Emrys's mother in Calder; Pell; the renegade ward-maker who
+  worked for Isaura; the dagger with the boat mark (still in Emrys's waistcoat).
