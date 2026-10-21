@@ -18,3 +18,6 @@ animation/
 # Internal planning documents
 reports/
 RAILROAD_ARCHITECTURE.md
+
+# fantasy-book-guide build artifacts (fonts are downloaded by tools/build_book.py)
+fantasy-book-guide/tools/fonts/

@@ -1,0 +1,5652 @@
+# The Heart-Thread
+
+*The Bridgewatch · Book One* · by Luke Moreland
+
+---
+
+# Part One: The Burned March
+
+### Chapter 1: By Steel and By Dawn
+
+*Maren*
+
+The practice yard at Dawnhold was the coldest place in the world an hour before sunrise, which was why Maren Holt liked it.
+
+Nobody else came out this early. The other squires were still buried in their blankets, dreaming about breakfast or each other. The yard belonged to her and the frost and the one lantern hanging by the armory door. Her breath came out in white clouds. Her fingers had stopped hurting twenty minutes ago, which meant they had gone numb, which meant she should go inside.
+
+She raised her sword instead.
+
+"By steel and by dawn, I swear."
+
+Cut, high to low. The blade sang through the dark, and for half a heartbeat a pale gleam ran along its edge, the way light runs along water. Oath-steel did that. It knew when it was being used for what it was made for.
+
+"I will shield the weak and spare the innocent."
+
+Step, turn, rising cut. Her boots crunched on the frozen sand.
+
+"I will obey my Order without question."
+
+That line was her favorite. It was clean. It had no corners. You did what you were told, and you were good, and nobody could ever say otherwise.
+
+"I will not yield to fear, nor bow to magic."
+
+Thrust. Recover. Her shoulder burned.
+
+"My word is in my blade, and my blade is in my word."
+
+She held the last guard until her arms shook.
+
+"If I break this oath, let my steel break with it."
+
+The bell in the chapel tower began to ring, slow and deep, calling the brothers to dawn prayers. Maren lowered her sword and watched the first gray light creep over the eastern wall. Somewhere past that wall, past forty miles of wheat and the scarred country they called the Burned March, stood the Tower of Hours, full of wizards spending their lives like coins.
+
+She had never seen a wizard. She had seen what they left behind.
+
+---
+
+To get from the yard to the squires' hall, you had to pass the Wall of the Broken.
+
+There was a longer way around, through the kitchens. Maren never took it.
+
+The Wall ran the length of the east gallery, under a row of narrow windows. On it hung the blades of every knight of the Order of First Light who had ever broken their oath. There were a hundred and twelve of them. Maren had counted, the first winter she lived here, and every winter since.
+
+Living oath-steel shone, even in shadow. These swords didn't. They were the flat gray of dishwater, of old ice, of fish left too long in the sun. No light ran along their edges. If you struck one, it wouldn't ring. It would thud, like wood.
+
+*Let my steel break with it.* The squires said it in the oath because the oath demanded it. Most of them thought it was just a saying.
+
+Maren knew better.
+
+Under each blade was a small brass plate with a name. Near the far end, between SIR EDRIC MALLOW and SIR TOBIN ASH, there was an empty hook, and under it a plate that read SIR CORWIN HOLT.
+
+The servants said a thief had taken that sword years ago. The servants said a lot of things.
+
+Maren walked past the empty hook without slowing down. She always walked past it without slowing down. That was the trick of it. If you slowed down, people noticed.
+
+"Squire Holt."
+
+She stopped. A page stood at the end of the gallery, small and pale and trying not to shiver in his thin tabard. "The Knight-Commander wants you. Now, he says. In his solar."
+
+Her heart gave one hard knock against her ribs. She kept her face still.
+
+"Thank you," she said, and went.
+
+---
+
+Sir Aldric Fane's solar smelled of ink, cold ashes, and the oil he used on his sword. He was standing at the window when she came in, his back to her, his hands clasped behind him. The Knight-Commander of the Order of First Light was not a tall man, but he stood like a wall stands. His hair had gone iron-gray before Maren was born.
+
+He had taken her in when she was ten, the winter her father died. Nobody else would have. A disgraced knight's daughter was worth less than a disgraced knight's horse. Sir Aldric had looked at her standing in the snow outside the gate, holding a bundle of everything she owned, and said, *Can you lift a sword, girl?* and she had said, *Yes, sir,* although she couldn't, not then.
+
+She could now.
+
+"Close the door," he said.
+
+She closed it.
+
+He turned. His eyes were the gray of his hair, and they went over her like a hand checking a horse's legs. "You've heard about the summit."
+
+"Yes, sir." Everyone had heard. For three hundred years the Order and the Tower had been at war. Not every year with armies, but always with something: raids, burned villages, ambushes in the March, children raised to hate the other side before they could spell it. Now, suddenly, there was talk of peace. At Midwinter, on the Span, the great bridge-city that crossed the Sunder, both sides would sit at one table under the neutral eye of the Warden of the Span, and sign a treaty.
+
+"The Warden insists on hostages," Sir Aldric said. "One from each side, delivered to her keeping before the talks begin. If either side breaks faith, the other side's hostage pays for it. That is the old way. It keeps tempers civil." He paused. "The Tower is sending their prodigy. A boy who held back a flood when he was eleven years old. They're proud of him. They want us to know it."
+
+Maren waited.
+
+"I'm sending you."
+
+The room was very quiet. Outside, the chapel bell stopped ringing.
+
+"Sir," she said. Then, because that wasn't enough: "Sir, I'm a squire. Surely one of the knights..."
+
+"The Warden asked for someone young. A gesture of trust: the future, not the past." The corner of his mouth moved, which was as close as Sir Aldric came to smiling. "And I want someone I can rely on. You're the best squire in this keep, Holt. Everyone knows it. Most of them resent it."
+
+Heat climbed her neck. She kept her chin up.
+
+"You'll travel to the Neutral Stone in the March, where the Warden's escort will collect both of you and bring you to the Span. Fourteen days to Midwinter. You'll be treated with courtesy. You'll keep your sword; the Warden agreed to that." He stepped to his desk and picked something up. "And at Midwinter dawn, when the treaty is sworn, you'll kneel on the Span in front of both nations and rise a knight of the Order of First Light."
+
+Maren forgot to breathe.
+
+"The Holt name will be clean," Sir Aldric said. "I'll see to it myself."
+
+*Clean.* She had wanted that word so badly, for so long, that hearing it out loud felt almost like being struck.
+
+"Thank you, sir," she said. Her voice came out steady. She was proud of that.
+
+"Don't thank me yet." He held out what he'd picked up from the desk. It was a letter, folded small, sealed with red wax pressed into the Order's sunburst. "These are your orders. The real ones. Read them here. Then burn them."
+
+She broke the seal. The letter was short. Sir Aldric's handwriting was small and square, like everything else about him.
+
+*If the treaty fails, the wizard does not return to his Tower.*
+
+That was all.
+
+Maren read it three times. The words didn't change. The room seemed to get colder, though the brazier in the corner was still glowing.
+
+"You understand," Sir Aldric said.
+
+"Yes, sir."
+
+"Say it."
+
+"If the treaty fails," she said, "I kill him."
+
+"The Tower spends lives like water. That boy is worth more to them than an army: one great spell from him and a wall comes down, a river turns, a regiment burns. If there's to be no peace, then we can't let them have him back. It's a hard thing. I know it's a hard thing." His eyes held hers. "That's why I'm asking you and not someone else."
+
+She thought of the empty hook on the Wall. She thought of her father, standing in the snow, refusing.
+
+"And if the treaty doesn't fail, sir?"
+
+"Then you'll have nothing to do but be polite to wizards for two weeks." That not-quite-smile again. "I'm told it's very hard."
+
+She walked to the brazier and held the letter over the coals until the corner caught. The flame ran along the paper, quick and yellow. She watched the words blacken and curl and vanish: *the wizard does not return.* When the fire reached her fingers, she let it go.
+
+"By steel and by dawn," she said.
+
+Sir Aldric put his hand on her shoulder. It was heavy and warm, and for a moment, she let herself lean into it.
+
+"Your father lacked the stomach for orders," he said quietly. "You don't. Go and pack."
+
+---
+
+The squires' hall was empty. Everyone had gone to the refectory for porridge, and the long room with its twenty narrow beds smelled of wool and boot grease.
+
+Maren knelt by her bed and pulled up the loose board under it.
+
+The sword lay where it always lay, wrapped in oilcloth and tied with twine. She lifted it out and unwrapped it the way you'd unwrap something that might bite.
+
+Her father's blade was the same dead gray as the ones on the Wall. Shorter than hers. The leather on the grip was worn smooth in the shape of a hand she barely remembered, except that she remembered everything about that one day.
+
+She had been eight. It had been spring, and muddy. A village called Elmsby, down in the valley, had sheltered a wizard child, a little girl whose magic had woken early and who had run, the way they sometimes did, from the Tower's collectors. Wizards had come looking for her, and there'd been fighting, and two knights had died. Afterward, the order came down: burn Elmsby, so the next village would think twice.
+
+Her father had been given the torch.
+
+She remembered him standing in the Dawnhold courtyard afterward, with the whole Order watching, and the Knight-Commander asking him why. She remembered he hadn't raised his voice. *There were children in those houses,* he'd said. *I swore to spare the innocent.*
+
+*You swore to obey,* someone had answered.
+
+And then her father's sword, which had been bright as a sunrise every day of her life, had gone gray in his hand. There was no crack, no flash. The light just went out of it, like a candle pinched between two fingers. It hadn't made any sound at all. She remembered that most of all. That something so important could end so quietly.
+
+He'd lived two more years, carrying sacks of other people's grain in a market town, and died of a winter fever that a knight's healer could have cured in an afternoon. Nobody from the Order came to the burial. Only Maren, and the gravedigger, and a priest who kept checking the sky for rain.
+
+*Obey without question,* she thought. *Then nobody can ever do this to you.*
+
+She should leave the sword here. If anyone found it in her pack, they'd take it from her, and they'd want to know how a dead knight's blade had walked off the Wall of the Broken. It was foolish to bring it. It was the only foolish thing she had ever done.
+
+She wrapped it again and slid it into the bottom of her pack, under her spare shirts.
+
+---
+
+They rode out at midmorning: Maren, four knights of the Order as escort, and a pack mule that hated all of them. The sky had cleared to a hard, clean blue. Dawnhold sat on its hill behind them, white walls and gold banners, the sunburst snapping above the gate.
+
+At the top of the first rise, she turned in her saddle to look back. She knew every stone of that keep. She'd scrubbed half of them.
+
+"Eyes front, squire," said Sir Bertram, who led the escort and had a voice like a rusty hinge. "Plenty of time for homesickness when you're dead."
+
+"Yes, sir," Maren said, and turned around.
+
+The road ran east. Somewhere at the end of it, past the wheat fields and the scarred country beyond, a wizard was riding toward her. A boy who had held back a flood at eleven. She tried to picture him and couldn't, except as a robe with fire coming out of it.
+
+If the peace held, she would be knighted.
+
+If the peace failed, she would kill him.
+
+Maren had never killed anyone. But she had never failed an order either.
+
+She put her hand on her sword hilt and felt the faint hum of the living steel under the leather, steady as a heartbeat, and she told herself that was enough.
+
+*By steel and by dawn,* she thought, and rode on.
+
+### Chapter 2: The Ledger
+
+*Emrys*
+
+The trick to impressing a roomful of wizards, Emrys Calder had learned, was to do something none of them would ever be foolish enough to do themselves.
+
+"Is he really going to..." whispered one of the first-years at the back of the courtyard.
+
+He was.
+
+Emrys stood alone on the frozen flagstones of the Tower's inner court, under a sky the color of a wet slate, with forty masters in gray robes watching from the gallery above. The Archmaster herself was among them, a narrow silver shape at the railing, perfectly still. It was the coldest morning of the year. Nothing had bloomed in the inner court since October.
+
+He spread his hands, closed his eyes, and found the ember.
+
+Every wizard had one. It lived just under the breastbone, a small steady warmth that wasn't quite a feeling and wasn't quite a sound. The masters called it the Spark. The first-years called it *the candle*, because it burned down. That was what magic was, when you came right to it. Not wands, not words, not secret languages written on goatskin. Just this: you took a little of your own life, and you spent it.
+
+Emrys spent some now.
+
+It went out of him in a rush, warm and then hot, the way blood rushes back into a numb hand. The air in the courtyard shivered. Frost lifted off the flagstones in a glittering sheet. And from the bare, black branches of the old cherry trees that lined the court, blossoms burst open, hundreds and then thousands of them, pink and white and impossible, until the whole court was a snowstorm of petals falling upward into the gray.
+
+Somebody in the gallery actually gasped. He'd have to find out who and thank them.
+
+He let the spell go and opened his eyes. The petals hung in the air for one more glorious moment, then drifted down, and the court smelled of spring. It was the middle of December.
+
+Up in the gallery, the masters applauded the way masters did, which was politely and with visible suspicion. Archmaster Crane did not applaud at all. She simply looked at him for a long moment, then turned and went inside.
+
+Emrys bowed to the empty railing anyway, because you never knew.
+
+---
+
+The cost always came a few minutes later, like the bill after a good dinner.
+
+He was halfway up the east stair when it hit him: a tug under the breastbone, a little hollowness, as if he'd taken the stairs too fast. He leaned against the wall until it passed. Then, because he couldn't help himself, he stopped at the window on the landing and looked at his reflection in the cold glass.
+
+There.
+
+Just above his left temple, in the black hair he'd been rather vain about since roughly the age of nine, there was a new streak. Silver. Thin as a thread, bright as a knife.
+
+He looked at it for a while.
+
+"Calder! That was *incredible!*" A first-year came pounding up the stairs behind him. Pell, freckled, eleven years old, and so new to the Tower that he still said *please* to the doors. "How did you *do* that? Master Orrin says nobody's made trees bloom in winter since..."
+
+"Since the last time somebody showed off for no reason," Emrys said cheerfully, and ruffled Pell's hair. Then he raked a hand through his own, sweeping it over the silver. "Don't try it at home. Or here. Or anywhere, really."
+
+Pell stared up at him. "Did it cost a lot?"
+
+First-years always asked that. They hadn't learned yet that it was rude.
+
+"Pell," Emrys said, "I'm aging *gracefully.* It's a thing that happens to handsome people. You'll understand when you're older." He tapped the boy on the nose. "Go and eat something. You look like a stick with ears."
+
+Pell went, grinning. Emrys watched him go and kept his hand on his hair a moment longer.
+
+Eleven. Emrys had been eleven, too.
+
+---
+
+The Ledger Hall took up the whole ninth floor of the Tower of Hours, and it was the quietest room in the world.
+
+Shelves ran from the floor to the vaulted ceiling, and on every shelf stood the great books, bound in gray leather, each one chained to its place. Scribes in gray moved between them on silent soft shoes, and the only sounds were the scratch of pens and the slow tick of the great clock that hung at the hall's far end. The clock had no numbers. It had only one hand, and it moved so slowly that Emrys had never once seen it move. The Tower was named for that clock.
+
+Every wizard who had ever been trained in the Tower had a page in those books. Every spell they cast in the Tower's service was written down there, with its cost, by the hour.
+
+Archmaster Ysolde Crane was waiting for him at the reading stand in the center of the hall, one of the great books already open before her. She was perhaps forty-five, though with wizards it was always hard to say. Her hair had been entirely white for as long as Emrys had known her, and she wore it cropped close, like a soldier's. Her eyes were the pale gray of the sky before snow.
+
+"You spent eleven days of life on cherry blossoms," she said, without looking up.
+
+"Twelve, I think. I added the smell at the end. I thought it was a nice touch."
+
+"It was vanity."
+
+"Vanity is underrated, Archmaster. Nobody ever wrote a song about a sensible wizard."
+
+She did look up then. Her face didn't change, but something in it sharpened, the way a hawk's attention sharpens on something moving in the grass. Emrys stopped smiling, because she was the one person in the Tower he was afraid of, and he wasn't stupid.
+
+"Come here," she said, "and read."
+
+He came. The page was his. He'd seen it before, twice: once when he was twelve, after the flood, and once when he was fifteen, when he'd snuck in at night to look. It hadn't gotten any better.
+
+*EMRYS CALDER. Taken in, aged six years. Spark: exceptional.*
+
+Then, in a hundred lines of scribes' handwriting, every spell he had ever cast for the Tower. Small ones at first: a day here, a few hours there. And then, in a line by itself, in larger letters:
+
+*The Flood of Merrow. Held the river eleven hours. Cost: four years, seven months.*
+
+He'd been eleven years old. The river had come down out of the mountains in the spring thaw, swollen and brown and screaming, and the town of Merrow sat right in its path, with three thousand people in it. The masters had stood on the bank arguing about what to do, and Emrys had walked out into the shallows and put his hands into the water and *held it.* Eleven hours. He remembered very little of it. He remembered the cold, and the noise, and afterward lying on the bank while the town cheered, and looking at his hands and thinking they belonged to someone else. A month later, when he looked in a mirror, he had seen his first gray hair.
+
+At the bottom of the page, under the long list, the scribes had written the account, the way they did on every page:
+
+*Owed to the Tower for training: thirty years.*
+*Paid in service: eleven years, two months.*
+*Remaining: eighteen years, ten months.*
+
+"The Ledger is just," Archmaster Crane said quietly. "The Tower gives you everything. Food, shelter, training, purpose. In return, you give the Tower thirty years of your life, spent in its service. When the debt is paid, you receive your Master's star, and the rest of your years are your own."
+
+"I know how it works, Archmaster."
+
+"Then you know what this page means."
+
+He did. He'd known for a long time. Every wizard could feel their own ember, and if you paid attention, you could feel how much was left: how warm it was, how deep. The old masters said it was like knowing how much wine was left in a bottle by the weight of it in your hand.
+
+Emrys's bottle was light.
+
+Two winters, maybe. Three if he was very careful and very boring, which so far he had shown no talent for. And the page said he owed the Tower eighteen more years.
+
+He was going to die owing. He was going to die *owned.* Most wizards did. That was what nobody told the first-years.
+
+"Why are you showing me this?" he asked, and was annoyed to find his voice had gone quiet.
+
+The Archmaster closed the book. The chain rattled softly.
+
+"The knights are bringing the Dragon's Heart to the Span," she said.
+
+That got his attention. Everyone had heard of the Heart: the knights' great relic, the heart of the last dragon, kept in the chapel at Dawnhold for three hundred years. People said it was still beating. People said a lot of things.
+
+"As a sign of trust," she went on. "The treaty is to be sworn over it at Midwinter dawn. They will carry it into neutral ground and set it on a table in front of us." Her mouth thinned. "They think it's a gesture. It's a boast."
+
+"Is it really still beating?"
+
+"It is." She held his gaze. "Emrys, a dragon's life is *vast.* Older than this Tower, deeper than the Sunder. Every spell we cast, we pay for with ourselves: our own years, our own children's years. You know what that costs. You see it every time you look in a glass." Her eyes flicked, very briefly, to the silver at his temple, which he'd thought he'd hidden. "If a wizard could draw on the Heart instead, no child would ever have to gray at eleven again. No Ledger. No debt. Magic without burning."
+
+The hall was very quiet. The great clock ticked.
+
+"You want me to steal it," Emrys said.
+
+"I want you to *free* it. From a chapel where it does nothing but impress pilgrims." She leaned closer. "You'll be at the Span as the Tower's hostage. You'll be inside the knights' circle. There will be a moment, and you'll know it when it comes, because you're clever, and because you have the most to gain." She laid her thin hand flat on the closed book, on his page. "Bring me the Heart, and I will strike your debt. All of it. You'll walk out of the Span with your Master's star, and whatever years you have left will belong to you and no one else."
+
+*Whatever years you have left.* She knew. Of course she knew.
+
+"And the peace?" he asked.
+
+"Peace," said the Archmaster, "is something knights promise when they want you to stop watching their hands." She straightened. "The Order is sending a girl. A squire. Holt, her name is. Daughter of a disgraced knight. She'll be watching you every minute. Be charming. You're very good at it."
+
+"I'm told it's my only skill."
+
+"It is not," she said, "your only skill." And that was the closest she had ever come to praising him.
+
+---
+
+He packed in an hour. He didn't own much.
+
+Before he left, he did one more foolish thing. He climbed down to the fourth cellar, past the wine and the old furniture, to the iron door marked with a black hourglass. The Locked Hours: the restricted archive, where the Tower kept the spells it had decided nobody should ever cast. He'd first picked this lock at thirteen and had been sneaking in ever since, on nights when he couldn't sleep, which was most of them.
+
+He didn't go inside. He just stood there with his palm against the cold iron, remembering.
+
+There was a book in there, small and black, with a binding he'd read so many times he could still see the diagram when he closed his eyes. *To tie a failing life to a living one. The two shall share one span. Forbidden, for the living always pays.*
+
+He had never understood why that one stuck in his head. It wasn't even a useful spell. Who would ever be stupid enough to cast it?
+
+He took his hand off the door and went upstairs.
+
+---
+
+They rode out at noon: Emrys, two tower guards in gray, and a lean hired horse with opinions. He looked back once at the Tower of Hours, black against the white sky, and lifted his hand to the window where he knew Pell would be watching. A small hand waved back.
+
+Then he turned west, toward the Burned March and the Neutral Stone, toward a knight's daughter who would watch his every move and a beating heart he'd been ordered to steal.
+
+He had two winters, maybe three, and he intended to enjoy every minute of them.
+
+Emrys ran his fingers through his hair, found the new silver thread, and smoothed it carefully out of sight.
+
+"Gracefully," he said to nobody, and rode on.
+
+### Chapter 3: The Neutral Stone
+
+*Maren*
+
+The Burned March didn't look burned anymore. That was the first thing that surprised her.
+
+She had imagined it all her life as black: black earth, black trees, smoke still rising. Instead it was gray. Gray grass, knee-high and brittle with frost, rolling away in every direction under a low gray sky. Here and there a stump stood up out of the grass like a broken tooth. Here and there the ground dipped into a shallow crater, and at the bottom of the crater the earth had melted and cooled into something glassy and green that crunched under the horses' hooves. The wind smelled faintly of ash. Twenty years since the last great battle out here, and the wind still smelled of ash.
+
+"Spell-fire," said Sir Bertram, when he saw her looking at the glass. "Burns so hot it turns dirt to bottles. That's your wizards for you. Can't just kill a man. Have to make a *display.*"
+
+Maren said nothing. She kept her eyes on the horizon, the way she'd been taught, and her hand loose near her hilt.
+
+They reached the Neutral Stone a little before noon.
+
+It stood alone at the top of a low hill: a single standing stone three times the height of a man, so old that its edges had worn soft. One side of it was pale, almost white. The other side was dark, almost black. The line between them ran straight down the middle, as if someone had painted it. Every treaty the Order and the Tower had ever signed was carved somewhere on its surface: dozens of them, in a dozen kinds of lettering, crowded over each other like gravestones in an old churchyard. Every one of them had been broken.
+
+Someone had carved, near the bottom, in rough letters much newer than the rest: *THIS ONE TOO.*
+
+The Warden's escort was already waiting.
+
+There were seven of them, on good horses, wearing the blue and silver of the Span. Six of them sat their saddles like soldiers, quiet and watchful. The seventh was a big man with a red beard and a laugh you could hear from the bottom of the hill.
+
+"There she is!" he called out as they rode up, as if they were old friends meeting at a fair. "The Order's finest! Welcome, welcome. Captain Oriel Dace, of the Warden's Own. You must be the squire. They told me you'd be serious. They undersold it." He grinned through the beard. "I like serious. Serious people stay alive."
+
+"Captain," Maren said, and inclined her head.
+
+"See? Serious." He laughed again, not unkindly, and turned in his saddle to look east. "And unless my eyes deceive me, here comes your counterpart."
+
+Three riders were coming up the other side of the hill. Two wore Tower gray and rode like they'd been born on horseback. The third wore a long dark coat, a scarf in a shade of green that should not have been allowed out in public, and an expression of deep personal betrayal directed at his horse.
+
+The horse stopped at the top of the hill. The rider kept going for about a foot before he caught himself on the horse's neck.
+
+"Good *afternoon,*" he said, straightening up with enormous dignity. "I'm told this is the place where we all pretend to trust each other. I've brought my best pretending face."
+
+So this was the boy who had held back a flood.
+
+He was older than she'd pictured: seventeen, like her, or near it. Tall and too thin, all wrists and elbows, with black hair that fell in his eyes and a narrow, clever face that seemed to be laughing at a joke nobody else had heard. He didn't look like a weapon. He looked like the kind of boy the cook's daughters at Dawnhold would have giggled about.
+
+Then his eyes found the sword at her hip, and for just an instant, something flickered across his face. A wince, as if he'd bitten down on tinfoil.
+
+He covered it at once with a smile. But she'd seen it.
+
+"And you," he said, "must be the knight."
+
+"Squire."
+
+"Squire. Of course. My mistake." He looked her up and down with exaggerated care. "I was told to expect someone grim."
+
+"I was told to expect a wizard," Maren said.
+
+He put a hand on his chest. "Then we're both disappointed. A good start. Very honest. I feel closer to you already." He leaned across to offer his hand, which nearly cost him his seat again. "Emrys Calder. Of the Tower of Hours. Holder-back of rivers, ruiner of horses."
+
+She looked at his hand. After a moment, because Sir Aldric had told her to be polite to wizards and she obeyed orders, she shook it. His fingers were ice-cold and much stronger than she expected.
+
+"Maren Holt," she said.
+
+"Holt." He tilted his head, considering. "No. I'm going to call you Sir Grim."
+
+"I'm not a *sir.*"
+
+"Squire Grim doesn't scan." He let go of her hand. "We'll work on it."
+
+---
+
+The exchange itself was short.
+
+Captain Dace unrolled a long scroll and read the Warden's terms aloud in a voice that carried across the hill. The two hostages, Maren Holt of the Order of First Light and Emrys Calder of the Tower of Hours, would pass into the keeping of the Span. They would be escorted to the Span by neutral hands, and would remain there under the Warden's protection until the treaty was sworn at Midwinter dawn. Any harm done to either hostage by either side would be counted an act of war.
+
+"The Warden has chosen the route herself," Dace finished, rolling up the scroll. "Straight south through the March, to Hollin's Ford, and on from there. Quieter than the high roads. The high roads are full of hotheads on both sides who'd love to start the war up again before the ink's dry."
+
+Sir Bertram frowned. "The March is no road for a hostage."
+
+"Which is why nobody will look for one there." Dace smiled. "The Warden thinks of everything, Sir Knight. It's her great talent. Well! Let's not stand about. It's a long way to anywhere from here."
+
+Sir Bertram turned to Maren. For a moment she thought he was going to say something important. He only said, "Don't do anything stupid, Holt," which from Sir Bertram was practically a blessing.
+
+"No, sir."
+
+The tower guards spoke quietly to Emrys, and Emrys laughed at whatever they said, and then the two groups turned their horses and rode away from the Stone in opposite directions: knights west, wizards east. Maren watched the gold and white of the Order's banner grow small against the gray. Then it dropped behind a rise, and she couldn't see it anymore.
+
+She was alone with the Span's escort, the March, and a wizard.
+
+"Well," said Emrys brightly. "Isn't this nice."
+
+---
+
+They rode south all afternoon.
+
+Captain Dace talked. He talked about the Span, its markets, its music, the way the whole city swayed very slightly in a strong wind and how you got used to it after a week. He talked about the Warden, Isaura Vell, who apparently was beautiful and brilliant and kind to orphans and dogs. He talked about the weather. The six wardens didn't talk at all.
+
+Emrys also talked. He talked to Dace, to the wardens, to his horse, and, when nobody else was available, to Maren.
+
+Maren didn't talk. She watched the March.
+
+Toward the end of the day, they came over a low ridge and Maren pulled her horse up short.
+
+The slope below them was full of swords.
+
+There were dozens of them, maybe a hundred, planted point-down in the frozen ground in long, ragged rows, like a crop nobody had harvested. Their hilts were rusted. Their crossguards were furred with lichen. And every one of the blades was the same flat, lifeless gray.
+
+"Ah," said Captain Dace, more quietly than usual. "Sorrow Field. I'd forgotten we'd pass it."
+
+Emrys had stopped beside her. He stared down at the field and said nothing, which she was beginning to suspect was rare.
+
+"What is it?" he asked finally.
+
+"Grave markers," Maren said.
+
+"For whom?"
+
+She didn't want to tell him. But he'd find out anyway, and it was better he heard it right. "Fifty years ago, a company of the Order was ordered to charge a wizard line, uphill, into spell-fire. They refused. They turned and ran." Her voice was flat. "A knight's blade lives as long as the oath is kept. Break the oath, and the steel dies. Their blades went gray on the field, and without them, they had nothing to stop the fire. The Tower's wizards burned them down from the ridge."
+
+The wind moved through the gray grass. A crow called somewhere.
+
+"So they broke," Emrys said.
+
+"They broke."
+
+"Or," he said slowly, "they looked uphill at a wall of fire, and decided not to die for nothing."
+
+Maren turned her head and looked at him. He was still gazing at the field, and for once he wasn't smiling at all.
+
+"It's the same thing," she said.
+
+"Is it?"
+
+She didn't answer. She touched her heels to her horse and rode on down the slope, between the rows of dead swords, without looking at any of them. Behind her, after a moment, she heard him follow.
+
+---
+
+They camped that night in the shell of an old watchtower, roofless, its stones scorched black on one side. The wardens tried to light a fire, but the wood they'd gathered was damp, and it only smoked and hissed and went out. The wind came through the empty windows like a knife.
+
+Maren sat with her back against the wall and her cloak wrapped tight and her teeth set so they wouldn't chatter. She'd been colder than this. She'd been colder than this every morning for seven years.
+
+"Oh, for pity's sake," Emrys said.
+
+He crouched by the dead fire, held his hand over the wet wood, and closed his eyes.
+
+The air changed. That was the only way she could describe it. It went tight, the way it does just before lightning. Her sword, lying across her knees, gave a faint hum against her legs, like a dog growling low in its throat. Then the wood caught all at once with a soft *whump,* and flame climbed up out of it, steady and gold and smokeless, and heat rolled through the little room like summer.
+
+The wardens murmured. Dace laughed and clapped. "Now *that's* a talent!"
+
+Emrys sat back on his heels and opened his eyes. He looked tired. Not much. A little. And as he lifted his hand to push his hair out of his face, Maren saw it, plain in the firelight: a strand of gray at his temple that hadn't been there at noon.
+
+She stared at it.
+
+"You spent your *life,*" she said, "to light a fire."
+
+He looked over at her. "Only a day or so. Maybe two."
+
+"A day of your life. On *firewood.*"
+
+"Not on firewood," he said. "On you. You were shivering so hard I could hear your teeth from over here. It was very distracting."
+
+Heat that had nothing to do with the fire crawled up her neck. "I wasn't."
+
+"Sir Grim, you sounded like a box of dice."
+
+"It was wasteful," Maren said. "And foolish. And I didn't ask you to."
+
+"No," he agreed. "You didn't." He held his hands out to the flames and wiggled his fingers. "You're welcome."
+
+She turned her face to the wall and did not say thank you, and she did not move closer to the fire. But she didn't move away from it either.
+
+---
+
+She took the second watch. The wardens slept in a row like logs. Dace snored. The fire Emrys had made burned steady and low and didn't need feeding, which was unnatural and, she admitted privately, convenient.
+
+She was standing at the broken window, looking out at the black March, when she noticed that Captain Dace was not snoring anymore.
+
+He had come to stand at the next window. She hadn't heard him move. For a big man, he was very quiet when he wanted to be.
+
+"Cold night," he said softly.
+
+"Yes."
+
+"Two more like it, and we'll reach the Ford. Then it's easy roads." He smiled at her through the beard. "Nothing out here but crows, squire. You can rest your eyes."
+
+Far off, on a ridge to the east, something flickered. A small light, there and gone. Then again: once, twice.
+
+"What's that?" Maren said.
+
+Dace looked. He took his time about it. "Shepherds," he said. "They run sheep out here in the warm months. Sometimes they stay on into winter."
+
+"In the March."
+
+"Hardy folk, shepherds." He clapped her on the shoulder, gently, the way you'd pat a nervous horse. "Get some sleep when the watch turns over. Long day tomorrow."
+
+He went back to his blanket. After a while, he started snoring again.
+
+Maren stood at the window until her watch was over and the light on the ridge did not come back.
+
+She had seen no sheep all day. Not one. Not a single track in the frost.
+
+She told herself it didn't mean anything, and lay down with her hand on her sword, and did not sleep.
+
+### Chapter 4: Fire in Knight's Colors
+
+*Emrys*
+
+By the second afternoon, Emrys had learned four things about Maren Holt.
+
+One: she rode like a soldier, straight-backed, eyes always moving, as if she expected the horizon to attack her personally.
+
+Two: she ate like someone who expected the food to be taken away. Fast, neat, every crumb, hunched slightly over her bowl.
+
+Three: every so often, when she thought nobody was watching, she reached back and touched the long bundle tied under her saddle-pack. Just touched it, the way you'd touch a sleeping animal to make sure it was still breathing. Then her hand would go back to her reins, and her face would close up even tighter, which he wouldn't have thought possible.
+
+Four: her sword made his teeth ache.
+
+He'd felt it the moment he rode up to the Neutral Stone. Oath-steel. The masters talked about it in the Tower the way sailors talked about reefs. A blade that cut through spells as if they were wet paper. He'd always assumed it was half legend. It wasn't. Being near it was like biting down on a strip of tinfoil: a thin, bright, electric wrongness in his jaw and the back of his skull. His ember didn't like it. His ember kept trying to shrink away from it, like a hand from a hot stove.
+
+He found, a little to his own surprise, that he didn't mind riding next to her anyway.
+
+"Do you ever talk?" he asked, somewhere around the middle of the afternoon. "Just for sport? Recreational talking?"
+
+"No."
+
+"See, that was talking. You can do it. It's like riding a horse." His horse chose that moment to sidestep a rock, and he grabbed the saddle. "Bad example."
+
+The corner of her mouth moved. It was so small and so fast that he almost thought he'd imagined it.
+
+"Was that a smile?"
+
+"No."
+
+"It was. It was a very small smile. A baby smile. I'm going to write it down."
+
+"Wizard," Maren said, "if you don't stop talking, I'm going to put you on the mule."
+
+He stopped talking. For almost a whole mile. He considered it a personal triumph.
+
+Underneath it, quieter than the jokes, the other thing kept turning over in his mind like a stone in a stream. *The Heart. Steal the Heart.* He'd be at the Span in twelve days, inside the knights' circle, and the Heart would be sitting on a table in front of him, beating. And this girl, this serious, prickly, sharp-edged girl, would be standing right next to him, watching.
+
+He wondered what she'd do when she found out. Then he decided he'd rather not wonder that, and started talking to his horse instead.
+
+---
+
+Captain Dace picked the campsite that night.
+
+It was a good one, everyone agreed. A shallow hollow in the hills, sheltered from the wind, with a thin stream running through the bottom and a scatter of old stunted trees for firewood. On its eastern side, the ground fell away sharply into a ravine, a black crack in the earth so deep you couldn't hear the stones hit bottom when you kicked them in. Emrys kicked several in, to check.
+
+"Don't fall in," Dace said, coming up behind him, with a big hand on his shoulder. "The Warden would be furious. She's very much looking forward to meeting you, lad." He squeezed, friendly. "Everyone at the Span is. A boy who held back a river! They'll write songs."
+
+"They already have," Emrys said. "They're terrible. One of them rhymes 'Merrow' with 'sparrow.'"
+
+Dace roared with laughter and went to see about the horses.
+
+The wood was dry tonight, so there was no excuse for a spell. Emrys sat by the wardens' ordinary, smoky, perfectly adequate fire and watched Maren sharpen her sword. She did it with long, careful strokes, and every time the stone passed along the edge, a faint gleam followed it, like a fish turning under water. His back teeth hummed.
+
+"Does it hurt?" she said suddenly, without looking up.
+
+He blinked. "Does what hurt?"
+
+"The steel. You flinch when I draw it." She ran the stone down the blade. "I've seen you."
+
+He thought about lying. He was extremely good at lying. "It's like biting tinfoil," he said instead. "All the time. Right here." He tapped his jaw.
+
+She was quiet for a moment.
+
+"Good," she said, and went on sharpening.
+
+But when she lay down to sleep, he noticed she put the sword on her far side, away from him.
+
+---
+
+He couldn't sleep. He almost never could.
+
+He lay on his back with his hands behind his head, watching the stars wheel slowly over the hollow, and listening to Dace snore. The fire had burned down to orange coals. Two of the wardens were on watch, one at each end of the camp, dark shapes against the dark.
+
+He had just begun, very slightly, to drift, when he realized that the warden at the north end of the camp was no longer standing up.
+
+He hadn't heard anything. That was what frightened him later. There was no cry, no clatter. One moment there was a shape against the stars, and the next there wasn't.
+
+Emrys sat up.
+
+The second warden turned toward the sound of him moving, and something whispered out of the dark and struck the warden in the chest, and he folded over and lay still.
+
+"*Up!*" Emrys shouted. "Everyone *up!*"
+
+The hollow exploded into motion.
+
+They came down the slope from the north, fast and silent: a dozen of them, maybe more, faces wrapped in dark cloth. And in the orange glow of the dying fire, Emrys saw their tabards, and his stomach dropped through the earth.
+
+White and gold. The sunburst of the Order of First Light.
+
+*Knights.*
+
+*Then the peace is already dead,* he thought, very clearly, *and they've come to kill me.*
+
+A warden ran at the attackers and was cut down. Another got his sword out and fought two of them at once, shouting. The horses screamed and plunged at their tethers. And somewhere at the back of the attackers, a figure raised its arm and threw something that broke against a tree, and the tree went up in spell-fire: that hungry, white-gold, roaring fire that turned earth to glass.
+
+Wizard fire.
+
+Except it wasn't. Emrys felt it the moment it caught. When a wizard cast, you could feel it, if you had a Spark of your own: a pull, a pressure, the sense of a life being spent somewhere close by, like hearing someone breathe in a dark room. This fire didn't feel like anyone's life. It felt like nothing. Like a thing poured out of a bottle.
+
+He had no time to think about what that meant. Because Maren Holt was already on her feet.
+
+She came up out of her blankets with her sword in her hand as if she'd been sleeping with it drawn, and maybe she had. The first attacker who reached her never saw the blade move. The second one did, for about half a second. She turned, and the third one swung at her, and she wasn't there anymore.
+
+Emrys had seen soldiers fight before. He'd seen masters duel in the practice rings of the Tower, all fire and light and thunder. He had never seen anything like this. She didn't waste a single movement. Every step went somewhere. Every cut finished something. She moved through the firelight like a needle through cloth.
+
+The bottle-fire came roaring across the hollow toward her in a white wave.
+
+Maren set her feet and *swung.*
+
+The oath-steel blazed. Light ran up the blade like sunrise racing over a wall, so bright it left a stripe across Emrys's eyes. And the fire split. It split around her sword like water around the bow of a ship, and poured past her on both sides into the earth, and went out in two long scorched streaks of glass.
+
+Every tooth in Emrys's head sang. He didn't care. It was the most beautiful thing he had ever seen.
+
+"*Wizard!*" Maren shouted at him. "Get behind me!"
+
+He got behind her.
+
+At the edge of the ravine, Captain Dace was fighting two attackers at once, roaring like a bear, his big sword flashing. "*To me!*" he bellowed. "To me, Span!" One of the attackers went down. The other closed in. Dace swung, overbalanced on the loose stones at the edge, and Emrys watched the big man's arms windmill once against the stars before he toppled backward into the crack in the earth and was gone.
+
+There was no scream. Just the rattle of falling stones, going down and down and down.
+
+"*Dace!*" Emrys shouted, uselessly.
+
+The last warden fell. Now it was just the two of them, back to back by the coals, and the masked figures closing in from three sides. At the back, a tall figure in plain gray with no tabard at all raised one hand and made a short, sharp signal with two fingers. The attackers shifted at once, like a flock of birds turning.
+
+They weren't knights. Knights didn't move like that. Knights shouted.
+
+A blade came at Maren's left side. She caught it. Another came at her right, and she turned it. And a third man, small and quick, ducked low past her guard and came straight for Emrys, with his knife held point-up, and Emrys realized, with a strange cold calm, that he was about to die.
+
+He reached for his ember.
+
+He didn't need to. Maren turned. She didn't block the blow. There wasn't time to block it. She simply stepped in front of it.
+
+The knife went into her side, just under her ribs.
+
+She made a sound. Not a scream. A small, surprised sound, like someone who has missed a step in the dark. Then she brought her sword around and the small man went down and did not get up, and Maren staggered, and her knees hit the frozen ground.
+
+Something in Emrys broke open.
+
+He didn't think. He didn't measure the cost. He reached down into his ember and tore out a handful of it and *threw* it.
+
+Fire came out of him. Real fire, wizard fire, his own life burning bright: a wall of it, leaping up in a ring around them both, taller than a man, roaring like the river at Merrow. The masked attackers stumbled back from it, shielding their faces. Through the flames, he saw the tall gray figure look at him, and look at Maren on the ground. Then it made another short signal, and the attackers melted back up the slope into the dark.
+
+A whistle, once, far off. Then nothing but the crackle of his fire, and the horses screaming, and his own breath sawing in and out.
+
+He let the fire go. It cost him more to let go than he expected. He swayed.
+
+Then he dropped to his knees beside her.
+
+---
+
+There was so much blood. He'd never understood that before, how much blood a person had in them, and how fast it came out. It was black in the firelight, spreading across her tunic, soaking the frozen ground. She had her hand pressed over it, and it was coming out between her fingers.
+
+"Hold still," he said stupidly. "Hold still, hold still..."
+
+"Go." Her voice was thin and far away. Her face had gone the color of the March. "Take a horse. Ride for... the Ford."
+
+"Don't be an idiot."
+
+"*Orders.*" She caught his sleeve with her bloody hand. Her grip was weaker than it had been when they'd shaken hands at the Stone. Much weaker. "Deliver you... alive. That's the... orders. Go."
+
+She'd stepped in front of a knife because of *orders.*
+
+He looked down at her and understood, the way you understand you've stepped off a ledge, that she was dying. Not maybe. Not soon. Now. He knew a little healing, everyone in the Tower did, but this was past knitting and stitching. Something deep inside her had been cut that wasn't going to close.
+
+Her eyes were drifting shut.
+
+*To tie a failing life to a living one.*
+
+He saw the page so clearly he could have read it off the inside of his own skull: the small black book in the Locked Hours, the diagram, the words. *The two shall share one span. Forbidden, for the living always pays.*
+
+She would live. But she'd live on *his* life. On his two winters. Maybe three. She was seventeen years old and the whole of her life was pouring out of her onto the March, and the best thing he had to give her instead was two winters.
+
+She'd hate him for it. He was almost sure of that.
+
+"I'm sorry," Emrys said. "You're going to be so angry."
+
+He took her bloody left hand in his left hand, and pressed the inside of her wrist to the inside of his, pulse to pulse, and began.
+
+The words came out of him in the old tongue, and every one of them cost something. He reached down to the bottom of his ember, past the part he used for fires and flowers and floods, down into the place he'd never touched, the place that wasn't for spending: the root. He took hold of it. It was like closing his hand around his own heart.
+
+And he pulled it in two.
+
+The pain was beyond anything. It was like being cut down the middle with a cold knife and then stitched, still screaming, to someone else. Light poured out between their joined wrists, red as embers. Something drew itself across his skin: a thin line, burning, winding around his wrist like a vine around a branch, once, twice, again, again. He looked down through the haze and saw the same line burning its way around hers. Nine turns. Nine thin red rings, the same on both of them, like a thread wound around two spools.
+
+Under his fingers, her pulse stuttered. Stopped.
+
+Then it beat again.
+
+In time with his.
+
+Thud. Thud. Thud.
+
+The last thing Emrys felt, as the dark came up out of the ground to swallow him, was two hearts beating in one rhythm, hers and his.
+
+Then nothing at all.
+
+### Chapter 5: One Life
+
+*Maren*
+
+The first thing she noticed was her heartbeat.
+
+It was wrong. Not fast, not slow. Just *wrong*, the way a song is wrong when someone else is humming it a half-beat behind you. She lay on her back on the frozen ground with her eyes closed and listened to it, and it took her a long, slow, foggy moment to understand what she was hearing.
+
+Two heartbeats. Hers, and another one, so close in time they nearly made one sound.
+
+Maren opened her eyes.
+
+Gray sky. Gray light. The smell of old smoke and something worse underneath it. She was lying on her cloak in the hollow where they'd camped, and the fire was dead, and every muscle she owned felt as though it had been beaten with a stick.
+
+The knife.
+
+She jerked upright, and pain bloomed in her side, bright and sickening, and she clapped her hand over it. Her tunic was stiff and black with dried blood. She tore it up, hands shaking, and looked.
+
+There was a wound there. Or there had been. Now there was only a long, angry seam of new pink skin, puckered and hot to the touch, as if it had been healing for a month instead of a night.
+
+She stared at it. Then her eyes went to her left hand, still pressed against her ribs.
+
+Around her wrist, just above the bone, there was a thin red line.
+
+It wound around and around, tight against the skin, like a thread wrapped around a spool. She counted the turns without meaning to. Nine. It wasn't a scar and it wasn't ink. When she touched it, it was warm, warmer than her skin, and under her fingertip she could feel it *pulse.* Once. Twice. In time with the wrongness in her chest.
+
+She rubbed at it. Spat on her thumb and rubbed harder. It didn't smudge. It didn't fade. It didn't do anything at all except go on pulsing, steady and patient, as if it had all the time in the world.
+
+Two feet away, Emrys Calder lay on his side in the frost with his eyes closed and his left arm flung out toward her. Around his wrist, plain as a brand, was the same red thread. Nine turns.
+
+And his hair. Last night there had been a few strands of gray at his temple. Now there was a whole lock of it, silver-white, falling across his forehead like frost on a black field.
+
+Maren got her sword.
+
+---
+
+He woke with the point of it resting against his throat.
+
+His eyes opened slowly. They focused on the blade, then traveled up the length of it to her face. She watched him decide whether to make a joke. She watched him decide not to.
+
+"Good morning," he said hoarsely. "You're alive. I'm so pleased."
+
+"What did you do to me?"
+
+"Can I sit up? It's hard to explain magic lying down. Something to do with the blood flow."
+
+"*What did you do?*"
+
+He was quiet for a moment. The blade didn't waver. She was proud of that, because everything else in her body was shaking.
+
+"You were dying," he said. "The knife went somewhere it shouldn't have, and there was nothing left in you to fix it with. So I..." He lifted his left hand slowly, carefully, so she could see the red thread around his wrist. "I tied your life to mine."
+
+The wind moved through the gray grass.
+
+"Speak plainly."
+
+"That *was* plainly. That was me being as plain as I know how." He swallowed, and she felt the movement of his throat against the steel. "It's a binding. An old one. The Tower forbade it two hundred years ago. It takes one life and splits it between two people. You were out of life, so I gave you some of mine. Now there's just the one. Between us." He looked at the thread on her wrist, then at the one on his. "We share it. If one of us dies, we both do."
+
+Maren didn't say anything. She didn't trust her voice.
+
+"And every spell I cast," he went on, more quietly, "comes out of it. Out of both of us. The rings..." He touched his wrist. "That's what's left. Every spell unwinds a little. A big one unwinds a whole turn."
+
+"How much is a turn?"
+
+The tiniest pause. "Oh, a good deal. Rings are very generous."
+
+"Undo it."
+
+"I can't."
+
+"*Undo it.*"
+
+"Maren." It was the first time he'd used her name. "I can't. Nobody can. That's half of why it's forbidden. It's not a knot. It's a stitch through the middle of both of us. If I could pull it out, I would, I promise you I would, but you'd be dead before it was halfway out, and so would I."
+
+She looked at him down the length of her sword. At the gray lock in his black hair. At the red thread on his wrist, pulsing in time with hers.
+
+*If the treaty fails, the wizard does not return to his Tower.*
+
+She had burned those words in Sir Aldric's brazier two days ago. She could still see them going black at the edges. And she understood, slowly and completely, the way you understand that ice is too thin only after you've heard it crack, that she could not obey that order anymore. Not without dying too.
+
+The knife hadn't killed her. He had saved her life. And in doing it, he had made himself the one person in the world she could never touch.
+
+"You should have let me die," Maren said.
+
+"Probably." He gave her a crooked, exhausted smile. "I'm very bad at doing what I should. Ask anyone."
+
+She held the sword there a moment longer. Then she lowered it, and turned away, and walked to the edge of the hollow, and stood there with her back to him until her hands stopped shaking.
+
+---
+
+The camp looked worse in daylight.
+
+The six wardens of the Span lay where they'd fallen. Maren made herself look at each of them, because someone should. They'd been quiet men, and she hadn't learned a single one of their names. Of the horses, only two were left: her own big bay and one of the wardens' grays, both tethered too well to have bolted. The mule had broken its line and stood a hundred yards off, chewing frosty grass, looking pleased with itself.
+
+There was no sign of Captain Dace. She walked to the edge of the ravine and looked down. The crack went down into blackness, cold air breathing up out of it. She dropped a stone. She never heard it land.
+
+"He went over fighting," Emrys said behind her. He'd gotten up, slowly, and was standing with one hand pressed to his chest as if something there hurt. "Two of them. He was shouting for us."
+
+"Then he died well."
+
+"Does that help?"
+
+"No," she said. "But it's what you say."
+
+Three of the attackers lay in the hollow where she'd cut them down. Maren knelt beside the nearest and pulled the dark cloth off his face. He was a stranger: a hard, weathered face, maybe forty, a broken nose healed crooked. She'd never seen him at Dawnhold. She'd have remembered.
+
+He wore the white and gold of the Order.
+
+She pulled the tabard up over his head. Underneath it, there was no mail, no knight's arming coat, only plain brown leather, the kind any sellsword could buy in any market. She picked up his sword where it had fallen and turned it over in her hands.
+
+Ordinary steel. Good, but ordinary. No light ran along the edge. It didn't hum.
+
+"These aren't knights," Maren said.
+
+Emrys came and crouched beside her. "They were wearing your colors."
+
+"Anyone can sew a tabard. No knight of the Order carries common steel. *No one.* Not ever. A knight is given their oath-blade on the day they swear, and they carry it till they die." She dropped the sword in the frost. "These are hirelings. Dressed up as us."
+
+"Then what about this?" He'd found something in the second man's belt pouch: a clay flask the size of a fist, stoppered with wax, with something inside that sloshed thickly when he tilted it. He held it up to the light, very carefully. "This is what they threw. I felt it when it went up last night. It wasn't real spell-fire. There was no one *behind* it. No one spending anything. Someone made it and bottled it, like ale."
+
+"Wizards make it?"
+
+"I've never seen it in my life. And believe me, if the Tower could bottle fire and sell it, they'd have done it a hundred years ago and charged by the cork." He set the flask down in the grass as if it were a sleeping snake. "So: not knights, dressed as knights. Not wizards, throwing wizard fire."
+
+"Someone," Maren said slowly, "wanted it to look like both."
+
+They looked at each other.
+
+The third man had a purse at his belt. Maren emptied it into her palm. Silver coins spilled out: heavy, bright, stamped on one side with an arch over water. A bridge.
+
+"Span silver," Emrys said.
+
+"It doesn't mean anything." She closed her fist over the coins. "Everyone uses Span silver. The Span's the only crossing on the Sunder; every trader in the world goes through it. Half the coins at Dawnhold have bridges on them."
+
+"So the only clue we have is a coin everybody has, a tabard anybody can sew, and a bottle of fire nobody's ever seen." He sat back on his heels. "Wonderful. Very helpful. I feel extremely enlightened."
+
+---
+
+They argued about it for an hour.
+
+Go back, Maren said. Back to the Neutral Stone, back to Dawnhold. Report what happened. Let the Knight-Commander decide.
+
+"And tell him what?" Emrys said. "That his hostage was nearly murdered by men in Order colors? That the Tower's hostage is now *tied to her by magic*? He'll take one look at your wrist and decide I've enchanted you. And if I go back to the Tower instead, the Archmaster will hear the words 'white and gold' and the war will start up again before I've finished the sentence." He spread his hands. "Whoever did this *wants* us to run home. Each side to its own corner, each one screaming about what the other did. That's the whole point of the tabards and the bottles."
+
+He was right. She hated that he was right.
+
+"The only way anyone believes it wasn't knights or wizards," he said, "is if a knight and a wizard walk into the Span *together.* Alive. On time. And say so."
+
+Maren looked south. The March rolled away gray and empty under the gray sky, toward Hollin's Ford and the forests and the far mountains, and somewhere beyond all of it, the Span and the Sunder and Midwinter dawn.
+
+"Eleven days," she said.
+
+"Eleven days," he agreed.
+
+She stood up. Her side throbbed. Her heartbeat, their heartbeat, thudded quietly in her wrist.
+
+"One rule," she said.
+
+"Only one? I was braced for a list."
+
+"No spells. *None.* Not unless I say so." She held up her left wrist, with its nine red rings. "That's my life you're spending now."
+
+He looked at her wrist. Something moved behind his eyes that she couldn't read, something that looked almost like guilt. Then it was gone, and he gave her that crooked smile again.
+
+"Agreed, Sir Grim. No spells."
+
+"Squire."
+
+"Partner."
+
+"Hostage."
+
+"Fine." He held out his hand, the left one, the one with the thread. "Hostage."
+
+She didn't shake it. She went to saddle the horses.
+
+---
+
+They buried the wardens as best they could, under stones, because the ground was too hard to dig. Maren said the Order's prayer for the fallen over them, since nobody had told her what the Span's prayers were. Emrys stood beside her with his head bowed and didn't make a single joke.
+
+Then they rode south: the knight's daughter on her bay, the wizard on the warden's gray, the mule trailing behind on a rope, chewing.
+
+Maren rode in silence, as she always did. But now, when she was very quiet, when the wind dropped and the horses walked slow, she could feel it: the second heartbeat in her wrist. His. Steady and patient, a half-beat behind her own, never stopping.
+
+She hated it.
+
+She hated that, after everything, after the knife and the blood and the dark, it was the steadiest thing she had felt in days.
+
+### Chapter 6: What the March Remembers
+
+*Emrys*
+
+*Rings are very generous.*
+
+Of all the lies Emrys had ever told, and he had told a truly spectacular number, that one sat worst. It sat in his stomach like a stone he'd swallowed by accident. It sat there all through the long gray afternoon as they rode south, and it was still sitting there when the sun came up the next morning, thin and white, over the March.
+
+He knew what a turn was. He'd known from the moment the thread finished drawing itself around his wrist. His ember told him, the way a bottle tells you how much is left by its weight. Nine turns was what he'd had before. Two winters, a little more. A turn was a season, give or take. Not *a good deal.* Not *generous.* A season.
+
+And now the girl riding beside him was living on it.
+
+He watched her. He couldn't seem to stop. She rode stiffly, favoring her right side, her jaw set so hard he could see the muscle working. When she dismounted at midday to water the horses, she went white around the mouth, and when he reached out to help her, she looked at his hand as if it were a spider.
+
+"I'm fine," she said.
+
+"You were stabbed. Yesterday."
+
+"And healed. By *you.* Apparently." She led her horse to the stream. "Don't touch me."
+
+He put his hand back in his pocket.
+
+He should tell her. He knew he should tell her. He'd open his mouth to do it, and then he'd see her face, closed up and furious, and he'd imagine what it would look like if he said *we have about two winters, Maren, and they're mine, and I'm sorry,* and the words would curl up and die in his throat.
+
+*Later,* he told himself. *At the Span. When she isn't holding a sword.*
+
+She was always holding a sword.
+
+---
+
+Around midmorning, his teeth started to itch.
+
+It wasn't the oath-steel. That was a steady hum he'd almost gotten used to, the way you get used to a dripping tap. This was different: a prickling, a crawling, as if the air ahead of them had knots tied in it. He pulled the gray up short and sat very still, trying to feel it.
+
+"What?" Maren said.
+
+"Don't move."
+
+"Why?"
+
+"Because," Emrys said carefully, "I think the ground in front of your horse is going to turn into glass if you step on it."
+
+She looked down. The grass ahead of her looked exactly like the grass everywhere else: gray, frosted, knee-high. Then, slowly, she backed her horse up three steps.
+
+Emrys slid off the gray, went forward on foot, and crouched where she'd been about to ride. He brushed the grass aside with his fingers. There, half-buried in the frozen earth, was a flat stone the size of a dinner plate, and cut into its face was a spiral of tiny, cramped symbols, filled with dirt and lichen.
+
+"Snare-ward," he said. "From the war. Somebody laid this to catch cavalry, twenty or thirty years ago, and nobody ever came back to clear it." He sat back on his heels. "Step on it and the spell wakes up. Turns everything for ten feet into glass, horse and rider included. Like a fly in amber."
+
+"It's still *working?*"
+
+"Wards don't get tired. They just wait." He looked up. In the light of day, he could feel them now, the knots in the air: ahead of them, and to the left, and the right, scattered across the long shallow valley that opened up below like seeds in a field. Dozens of them. "The March remembers," he said softly. "That's what the old soldiers call it. It remembers every fight that ever happened here, and it's still trying to win them."
+
+Maren looked out at the valley, and he watched her understand.
+
+"Can you see them all?"
+
+"I can *feel* them. Most of them." He tapped his temple. "Reading wards isn't casting. It doesn't cost anything. It's just knowing how they're built. A carpenter can see where the nails are."
+
+"And we have to go through."
+
+"Unless you'd like to go around. It's about three days."
+
+They didn't have three days. She knew it, and he knew she knew it.
+
+"Then you lead," Maren said, and got down off her horse.
+
+---
+
+They crossed the valley on foot, leading the horses, single file, with the mule complaining at the back.
+
+Emrys went first. It was the strangest kind of walking he'd ever done: half with his feet and half with the back of his skull, feeling his way between the knots. *Left here. Two steps. Wait.* Sometimes the path between the wards was wide enough for a cart. Sometimes it was narrower than a horse, and they had to coax the animals along one hoof at a time while the mule sulked.
+
+Maren followed exactly in his footsteps. Exactly. If he stepped on a rock, she stepped on the same rock. She didn't say a word, didn't question him, didn't hesitate. He found it oddly moving, how completely she trusted him with this one thing, when she wouldn't trust him to help her off a horse.
+
+Halfway across, the path ended.
+
+A ward sat squarely in the middle of a narrow gap between two others: a big one, older and nastier than the rest. Emrys could feel it from twenty feet off, the knots in the air pulled so tight they hummed. There was no way around. There was barely room to stand.
+
+"Well," he said. "That's inconvenient."
+
+"Can you undo it?"
+
+"Not without casting. And it's a strong one. It'd cost a fair bit." He looked at her wrist without meaning to.
+
+Maren followed his look. Her mouth tightened.
+
+Then she drew her sword.
+
+His teeth screamed. He flinched back. "What are you..."
+
+"Show me where."
+
+"Maren, if you hit it wrong, it goes off, and we're both..."
+
+"*Show me where.*"
+
+He showed her. He knelt at the edge of the safe ground and pointed, as precisely as he could, at the place in the air above the buried stone where the knots were tightest, the heart of the spell, the place where all its threads crossed.
+
+She lifted the oath-steel in both hands. Light ran up the edge, pale and clean.
+
+She cut.
+
+There was a sound like a soap bubble popping in a very large, very quiet room. That was all. The knots in the air went slack all at once, like a net when you cut the cord at the top. The ward was just a stone in the dirt now: an old, cracked stone, with meaningless scratches on it.
+
+Emrys let out a breath he hadn't known he was holding. Every tooth he owned was singing like a struck bell. He didn't care.
+
+"You see them," Maren said, sliding the sword back into its sheath. "I cut them."
+
+"You see them, I cut them," he repeated, and found he was grinning like an idiot. "Sir Grim, I think that's the nicest thing you've ever said to me."
+
+"It wasn't nice. It was practical."
+
+"It's the most practical thing anyone's ever said to me. I'm going to have it embroidered."
+
+The corner of her mouth moved. The baby smile. Second sighting.
+
+He didn't write it down. He just remembered it.
+
+---
+
+They stopped at noon on the valley's far rim, where the wards thinned out, to rest the horses and eat cold bread. The wind had dropped. The sun had come out, pale and almost warm, and for a while it was nearly pleasant: the two of them sitting on a flat rock, looking back at the valley they'd crossed.
+
+So of course, Emrys ruined it.
+
+"Can I ask you something?"
+
+"No."
+
+"What do the knights say happened? At the beginning. Three hundred years ago." He tore off a piece of bread. "I only know our version."
+
+She looked at him sideways. "What's yours?"
+
+"That your Sir Aldane murdered our prince in his sleep. Caelan, the Lantern Prince. They found him in his bed with a knight's dagger in his heart. Sir Aldane's dagger." He shrugged. "We only took up arms to defend ourselves. Everything since then is the Order's fault."
+
+"That's a lie."
+
+"Is it?"
+
+"Sir Aldane was *executed.* By wizards, without a trial, without a hearing, without anything. He swore he was innocent and they burned him anyway. Your Tower wanted the Dragon's Heart, the knights wouldn't give it up, and so they invented a murder and used it as an excuse." Her voice had gone flat and hard. "We only took up arms to defend ourselves."
+
+"Funny," said Emrys, "how *everybody* only took up arms to defend themselves."
+
+"Your Tower takes children. Steals them away from their families."
+
+"Your Order burns villages for hiding them."
+
+The words were out before he could catch them. He watched them land. Something in her face shut so hard and fast it was almost audible, like a door slamming at the end of a long hallway.
+
+"Not all of them," Maren said, very quietly.
+
+He didn't know what that meant. He knew it meant something.
+
+They sat in silence. The wind picked up again. And Emrys realized, sitting on that cold rock with half a loaf of bread going stale in his hand, that they had just done, the two of them, in five minutes, exactly what their people had been doing for three hundred years.
+
+"Maren," he started.
+
+A horn sounded behind them.
+
+Long and low, rolling across the valley. Then another, answering it.
+
+They were on their feet at once. Far back across the valley, at the northern rim where they had started that morning, riders were coming over the skyline. Ten of them. Twelve. Too far to see faces or colors, but not too far to see that they were riding hard, straight down into the valley, following the tracks the horses had left in the frost.
+
+"Them," Maren said.
+
+"They'll never catch us through the wards. They'll have to go slow, pick their way..."
+
+"They don't have to pick their way." Her voice was grim. "They're following our tracks. Every place we stepped is safe. They'll be through in half the time it took us."
+
+He looked at the valley, at the long trail of hoofprints winding through it, between all those patient sleeping wards. At the riders, already halfway down the far slope.
+
+"I could wake them," he said.
+
+She turned her head.
+
+"The wards. Not undo them. Just nudge them awake. All at once, along the path behind us. It's a small spell. It's nothing like the fire." He made himself say the rest. "It would still cost. Not a turn. But something."
+
+The horn sounded again. Closer.
+
+Maren looked at the riders. She looked at her wrist. He watched her think about it, really think, and it took her perhaps three heartbeats, and he would remember those three heartbeats for a long time afterward, because it was the first time she had ever decided to trust him with something that cost her.
+
+"Do it," she said.
+
+He knelt, put both palms flat on the frozen earth, and reached into his ember for the smallest piece of it he could find.
+
+It went out of him and *through* her. He felt that. He hadn't expected to feel that. A pull, a little hollowness, just under the breastbone, and then, an instant later, the same pull echoing back from somewhere outside himself. He heard Maren gasp beside him, short and sharp, as if someone had pressed a thumb hard into her chest.
+
+Down in the valley, the wards woke up.
+
+One after another, all along the trail, the old stones cracked open with light. Glass bloomed out of the frozen earth in great jagged fans, green and white, ringing like struck bells: a wall of it, a forest of it, rising up across the path in front of the riders. Horses screamed and reared. Somebody shouted. The horns stopped.
+
+Emrys took his hands off the ground. He was shaking a little.
+
+Beside him, Maren was staring down at her left wrist. He looked too. There were still nine turns of red thread. But one of them, the outermost, was a little thinner than the others now, a little paler, like a ribbon starting to fray.
+
+"I felt it," she said, very quietly. "Like a breath. Like someone took a breath out of me."
+
+"I know. I'm sorry."
+
+She looked at him. For once, there was no fury in her face, only something careful and thoughtful that was almost worse.
+
+"Get on your horse," she said. "They won't be stopped for long."
+
+---
+
+They rode until it was too dark to see, and camped without a fire on the last rise before the land fell away south, toward the river. Below them, a few miles off, the lights of a village glimmered in the dark like coins at the bottom of a well.
+
+"Hollin's Ford," Maren said. "We'll be there by midday."
+
+She lay down with her back to him and her hand on her sword, and after a while her breathing slowed.
+
+Emrys didn't sleep. He sat with his knees up and his left wrist resting on them and looked at the thread in the starlight. Nine turns. One fraying.
+
+He did the arithmetic again. Again, it came out the same.
+
+Again, he didn't tell her.
+
+### Chapter 7: Hollin's Ford
+
+*Maren*
+
+Hollin's Ford did not want them.
+
+It made that clear the moment they rode in. Doors closed as they passed. A woman snatched a washing line full of shirts out of their way as if they might set it on fire by looking at it. A man splitting wood in his yard stopped with his axe in the air and watched them all the way down the muddy street, and didn't start splitting again until they were out of sight.
+
+It was a small, poor, stubborn-looking place: thirty or forty houses of gray stone and old thatch, huddled on the north bank of a wide, shallow, fast-running river. Smoke went up from chimneys. Geese complained in a pen. At the bottom of the street, by the water, stood an inn with a sagging roof and a painted sign so faded that Maren could barely make it out: two hands, clasped.
+
+"Charming," said Emrys. "Very welcoming. I feel the love."
+
+"They've been raided," Maren said. "By both sides. For three hundred years." She'd read about Hollin's Ford in the Order's histories: a crossing point on the edge of the March, too useful to leave alone and too small to defend. Burned by wizards in one war, by knights in the next, and rebuilt every time out of the same stubborn stone. "They don't love anybody."
+
+The innkeeper was a broad woman with forearms like hams and a face that had been disappointed by better people than them. She looked at Maren's tabard, then at Emrys's gray coat, then at both of them again.
+
+"Knight," she said. "Wizard." She spat neatly into the straw beside the door. "Neither of your lot is welcome here."
+
+"We're not here as either," Maren said. "We need food, and stabling for the horses until morning, and we'll pay."
+
+She held out a handful of the silver from the dead men's purse. It felt like holding something dirty.
+
+The innkeeper studied the coins. Bridges glinted in the gray light.
+
+"Span silver spends the same as any," she said at last, and took it. "Stable's round the back. Don't touch anything. Don't burn anything. And if either of you starts any trouble, I'll put you in the river myself."
+
+"Madam," said Emrys, with a deep bow, "I wouldn't dream of it."
+
+She looked at him the way you'd look at a dog that had just walked across your clean floor, and went inside.
+
+---
+
+The inn's common room was low and dark and smelled of woodsmoke and stew and wet dog. They took the table furthest from the fire, by the window, where Maren could watch the street. A few locals sat at the other tables and watched them over their mugs. Nobody spoke.
+
+Except for one.
+
+She appeared at the end of their table as if she'd been dropped out of the rafters: a skinny girl of about nine, with a cloud of tangled brown hair and enormous eyes, barefoot in spite of the cold, wearing a dress that had been let out at least twice. She looked at Maren's sword. She looked at the red thread on Emrys's wrist. She looked back at Maren's sword.
+
+"Are you a *real* knight?" she said.
+
+"Squire."
+
+"What's the difference?"
+
+"About three years," said Emrys, "and a great deal of attitude."
+
+The girl turned her enormous eyes on him. "Are you a *real* wizard?"
+
+"Sadly, yes."
+
+"Can you do a spell?"
+
+"No," said Maren and Emrys at the same time.
+
+The girl looked from one to the other, unbothered. "I'm Tamsin," she said. "My gran says knights and wizards are the same as wolves and bears. You don't have to like them, but you should know how to tell them apart." She considered them both. "You don't look like wolves."
+
+"What do we look like?" Emrys asked, interested.
+
+Tamsin thought about it. "Like the song," she said.
+
+"What song?"
+
+She climbed up onto the bench opposite them as if she'd been invited, folded her bare feet under her, and sang. Her voice was thin and true, the kind of voice that carried in small rooms.
+
+> *Oh, the knight and the prince were the best of friends,*
+> *one wore the dawn and one carried the flame;*
+> *they broke their bread and they swore their oath*
+> *and the two lands sang their name.*
+>
+> *But someone was jealous and someone was cold,*
+> *and a dagger came out in the night,*
+> *now the knight is ash and the prince is bone,*
+> *and nobody's put it right.*
+
+The common room had gone very quiet. One of the old men by the fire had stopped with his mug halfway to his mouth.
+
+"That's not how it happened," Maren said.
+
+"It's how my gran tells it," said Tamsin. "Gran says the knights lie about it and the wizards lie about it, so the truth must be somewhere in the middle, with us." She tilted her head. "Gran says they were friends. The knight and the prince. Best friends. That's why it was so sad."
+
+Maren opened her mouth to say that Sir Aldane had been a hero of the Order, cruelly murdered by wizards, and that he had certainly not been *friends* with a wizard prince. Then she looked at the thread on her wrist and shut it again.
+
+Emrys was gazing at the little girl with an expression Maren had never seen on his face before. It took her a moment to place it. It was the way a man dying of thirst might look at a cup of water.
+
+"Tamsin," he said, "that is the best version of that song I have ever heard. Every version they sing at the Tower is boring and has the wrong rhymes."
+
+Tamsin glowed.
+
+"I can't do you a spell," he said, "but I can do you something better." He held up an empty hand, front and back. Then he reached out and plucked a silver coin from behind her ear.
+
+Tamsin shrieked. Several people in the room jumped. Emrys made the coin walk across his knuckles, vanish, appear in his other hand, vanish again, and turn up, finally, in the pocket of Tamsin's own dress, where she found it with a gasp of pure outrage and delight.
+
+Maren had felt nothing. No hum from her sword, no tug at her wrist.
+
+"That wasn't magic," she said.
+
+"No," said Emrys, without looking at her. "That was practice. I had a lot of time to practice, as a boy. You'd be surprised what you can do with your hands when you're not allowed to do anything else with them."
+
+Tamsin ran off to show her gran the coin. Emrys watched her go, and then he looked down at his own long fingers, resting on the table, as if they belonged to someone else.
+
+Maren watched him and didn't say anything. But something sat a little differently in her chest afterward. She didn't know what to call it, and she didn't want to.
+
+---
+
+They came at dusk.
+
+Maren saw them first, because she was watching the street, because she was always watching the street. Riders on the north road, coming fast, faces wrapped in dark cloth. Fewer than before. Eight, maybe nine. The tall one in plain gray rode at the front.
+
+"Up," she said, and Emrys was already on his feet.
+
+She heard the first fire-flask break before she reached the door. A *crack* and a *whump,* and then the light: that hungry white-gold glare, roaring up from the thatch of a house at the top of the street. Somebody screamed. Then another flask, and another, and the street was full of fire and smoke and running people and plunging horses.
+
+They weren't trying to fight. They were trying to *flush them out.* Burn the village down around them until they ran out into the open.
+
+Maren went out into the street with her sword drawn.
+
+What happened next, she would only remember in pieces afterward. Smoke, and heat on her face. A rider coming at her out of the glare. Her sword swinging, light running up the edge, and the rider going down. A flask arcing through the air toward a family running from a burning doorway, and Maren lunging and cutting it out of the sky. The fire burst against her blade and split around it and fell hissing into the mud. Two more men coming at her together, ordinary steel, and the shock of the blows coming up through her arms into her healing side, and her side screaming, and her not listening to it.
+
+She killed one. She lost track of the other.
+
+The fire was everywhere now. Five houses burning, six. The flames were jumping roof to roof faster than anyone could run with buckets. The inn's thatch had caught, and there were people inside the inn. She could hear them. A child, crying. She couldn't tell whose.
+
+She couldn't cut a whole village out of the fire. She couldn't cut anything bigger than a sword's length.
+
+She turned, looking for Emrys, and found him.
+
+He was standing at the edge of the river, very still in the middle of the chaos, with the firelight on his face. He was looking straight at her.
+
+She knew what he was asking. She knew it with a certainty that went down into her bones.
+
+And a man came at her out of the smoke with an axe, and she had to turn to meet him, and she never answered.
+
+She heard it before she saw it. A sound like the whole world drawing in a breath.
+
+Then the river stood up.
+
+It rose out of its bed, the whole broad, shallow, fast-running width of it, in a single gray-green wall. It hung there for one impossible heartbeat, taller than the inn, shining with firelight, groaning like a ship's timbers. Then it came down the street like the hand of a god.
+
+Maren had time to grab the post of the inn's porch and hold on. The water hit her waist-high and so cold it stopped her heart. Then it was past her, roaring up the street, through the doorways, over the roofs. Every fire it touched went out with a shriek of steam. The man with the axe was swept off his feet and tumbled away like a doll. Riders went down, horses and all. The flasks the attackers carried broke in the water, and fizzled, and died.
+
+And at the same moment, as the water hit, something fell out of her.
+
+There was no other way to say it. It was like the moment in the valley when Emrys had woken the wards, but a hundred times worse. Something deep in her chest, something she had never known was there until it was gone, simply dropped away, the way a stone drops down a well, down and down and down into the dark. She felt it go. She felt the hollow it left behind.
+
+A year, a voice in her head said quite calmly. *That was a year.*
+
+The water drained back to the river, hissing, steaming, leaving the street a ruin of mud and wet ash and smoking timbers.
+
+The fires were out. Every one.
+
+At the top of the street, the tall gray figure turned its horse and rode away into the dusk without a sound, and what was left of its men went after it.
+
+---
+
+Afterward, the people of Hollin's Ford came out of their houses and stood in the mud and looked at the two of them.
+
+Nobody said anything for a long time. Then an old woman came forward, leaning on a stick, with Tamsin hanging off her other arm. She was very small, and very wrinkled, and she had the same enormous eyes as her granddaughter.
+
+She looked at Maren, soaked and filthy, with blood on her sword. She looked at Emrys, standing at the edge of the river, white as paper, with a fresh streak of silver in his hair.
+
+Then, slowly, painfully, she bowed. To both of them.
+
+"Steel and flame," she said. "Together. Like the song."
+
+Maren didn't know what to say. So she bowed back.
+
+Emrys didn't move. When she reached him, he was swaying on his feet, and he didn't make a joke, which was how she knew it was bad.
+
+She grabbed his left arm and turned his wrist up to the last of the light.
+
+Eight turns.
+
+One whole ring of red thread was simply *gone,* as if it had never been there. On her own wrist, the same.
+
+"You didn't ask me," she said. Her voice was shaking. She hadn't known it would.
+
+"You were busy."
+
+"You didn't *ask.* That was..." She couldn't say *a year.* She didn't know it was a year. She only knew that it had felt like one. "That was *mine,* too."
+
+"I know." He met her eyes. He looked so tired. "It was the river or the children, Maren. I picked the river. I'll pick it again." He pulled his wrist gently out of her grip. "Shout at me tomorrow. I'll stand very still for it. I promise."
+
+She wanted to shout at him now. She wanted it so badly her hands shook.
+
+But she had seen him. She had seen him standing at the edge of the water, looking at her, asking. She had seen him spend a whole ring of his own life, and hers, on a village that had spat at them three hours before. On strangers. On a skinny barefoot girl with a coin in her pocket.
+
+She had no answer for that. She didn't have one in her.
+
+Then, from somewhere up the muddy street, someone groaned.
+
+They both turned. Under a cart that the flood had flipped onto its side, pinned at the legs, a man was moving weakly. His face was wrapped in dark cloth. His tabard was white and gold.
+
+Maren wiped her sword on her sleeve and slid it back into its sheath.
+
+"Wizard," she said, "go and find a rope."
+
+### Chapter 8: Span Silver
+
+*Emrys*
+
+They put the prisoner in the inn's cellar, among the barrels, because the innkeeper said she wasn't having *that* bleeding on her good floor, and because nobody in Hollin's Ford wanted to be within shouting distance of him.
+
+Emrys held the lantern. Maren did the talking.
+
+He'd thought he might have to do it. He'd thought that a girl who couldn't take a hand up off a horse might not be able to sit across from a man who'd tried to kill her twice and ask him questions in a calm voice. He'd been wrong. She pulled up an upturned barrel, sat down on it, laid her sword across her knees, and looked at the man the way a heron looks at the water.
+
+The prisoner lay on a pile of sacking. His legs were bad. The cart had come down on them hard, and Emrys didn't know much about healing, but he knew enough to see that the man wasn't going to walk again, and probably wasn't going to see the morning either. They'd taken the cloth off his face. Under it, he was nobody: thirty-something, scarred, sunburned, with pale eyes that kept sliding around the cellar as if looking for a door.
+
+"You're not a knight," Maren said.
+
+The man laughed. It turned into a cough. "Clever girl."
+
+"Who hired you?"
+
+"Why should I tell you anything?"
+
+"Because you're dying," Maren said, "and if you tell me the truth, I'll have the innkeeper send for a priest. And if you don't, I won't."
+
+The man stared at her. Something in his face cracked a little.
+
+"Didn't see much," he muttered. "Down in the Span. The low markets, under the bridge, where the river barges tie up. You go down there with a sword and an empty purse, and sometimes somebody finds you." He licked his lips. "He found me. Big man. Wore a mask, always, a gray one. Laughed a lot. Paid in silver. Half up front, the other half when the job was done."
+
+"What job?"
+
+"The hostages." His eyes slid from her to Emrys and back. "Kill 'em both, out in the March. Wear the white and gold, throw the bottles, so whoever came across the bodies would find a dead knight girl and a dead wizard boy and plenty of *proof.* Knights' colors. Wizards' fire." He grinned, horribly. "Each side gets a corpse and somebody to blame. Clever. That's what he said. *Clever work for clever men.*"
+
+Emrys's hand had gone tight on the lantern. "Who is he?"
+
+"The Ferryman. That's all anybody calls him. The Ferryman always gets paid, the Ferryman always gets across." The grin faded. "He said the war's good for business. He said it like a joke. Everyone laughed."
+
+"Whose business?" Maren leaned forward. "Who's paying *him?*"
+
+"Don't know. Never asked. You don't ask the Ferryman things."
+
+"The tall one in gray who led you..."
+
+"Not him. That's just his hand. The Ferryman doesn't come out on jobs himself." The man shifted on the sacks and hissed in pain. "You won't get there. You know that? Whatever you think you're doing. You won't get to the Span. The Ferryman always gets..."
+
+He stopped.
+
+His jaw moved. Something cracked between his teeth, small and sharp, like a nut. Then his eyes went wide, and his back arched off the sacking, and he made a sound that Emrys would hear in his sleep for a while afterward.
+
+Maren was off the barrel and on her knees beside him in an instant, prying his jaw open. It was too late. It was over very fast. When she sat back, her hands were shaking, and the man's pale eyes were looking up at the cellar beams and not seeing anything at all.
+
+"Poison," she said. Her voice was steady. Her hands weren't. "In a tooth. They must all carry it."
+
+"So they can't be asked things," said Emrys quietly. "*Clever work for clever men.*"
+
+They sat in the cellar with the dead man for a little while, in the lantern-light, not speaking. Upstairs, someone was sweeping mud out of the common room. The broom went *scrape, scrape* on the stones.
+
+"Well," Emrys said at last. "We know one thing, anyway."
+
+Maren looked up.
+
+"They weren't knights." He set the lantern down on a barrel. "And they weren't wizards. Nobody from your side tried to kill me, and nobody from mine tried to kill you. Somebody *paid* to make it look that way." He found, to his surprise, that saying it out loud loosened something in his chest that had been tight for two days. "We were right."
+
+"We still don't know who."
+
+"No. But we know it's not *us.*"
+
+She was quiet. Then she nodded, once, slowly, as if she were setting something heavy down.
+
+---
+
+That night, they slept in the inn. The innkeeper gave them her two best rooms and refused their silver, which Emrys understood was, from her, roughly the same as being knighted.
+
+He didn't sleep. He never did.
+
+Somewhere around midnight, the ache came.
+
+It started under his breastbone, where the ember lived. Not the clean, hollow tug of spending. Something duller and deeper: an ache like a bruise, like a fist pressed slowly into the center of his chest. He sat up in the narrow bed and pressed his own fist over it and breathed, slow, the way the old masters had taught him. In. Out.
+
+It didn't help much. He'd known it wouldn't.
+
+He'd felt this before, after Merrow. For weeks after the flood, every night, the ache had come and sat on his chest like a cat. The healers at the Tower had a name for it. *Ember-sickness.* It came when a wizard spent too deep, too fast. It meant that the candle was burning down lower than it should, and the flame was starting to gutter.
+
+He'd spent a whole turn tonight. A season, all at once, for a river. And he'd spent the night before and the night before that: the fire in the watchtower, the wall of flame in the hollow, the binding itself, which had cost more than all the rest put together. The ember under his breastbone felt small and hot and far away, like a coal at the bottom of a deep well.
+
+He coughed. He pressed his face into the crook of his arm so the sound wouldn't carry through the wall to the next room. He coughed until his eyes watered.
+
+When it finally stopped, he lay back down and stared at the ceiling and held his left wrist up in the dark. He couldn't see the thread. He could feel it, warm, pulsing. Eight turns. Eight seasons.
+
+*Two winters,* he thought. *If I'm boring.*
+
+He had never once in his life managed to be boring.
+
+Through the wall, very faintly, he could hear Maren breathing in her sleep. Slow and even. He listened to it for a long time. It was, he thought, the most peaceful sound he had ever heard. It was also, now, partly his.
+
+He didn't tell her that either.
+
+---
+
+In the morning, the whole village came out to see them off.
+
+It was not a large crowd, and nobody cheered. But they stood in the muddy street, in their doorways and at their gates, and they watched in a different way than they had the day before. The man who had been splitting wood came over and checked the girths on both horses without being asked, and grunted, and went away again. The innkeeper pressed a sack of bread and cheese and dried apples into Emrys's arms and said, "Don't come back," in a tone of voice that clearly meant *come back.*
+
+Old Mother Hollin came out last, leaning on her stick, with Tamsin on her other arm.
+
+"You're going south," she said. It wasn't a question.
+
+"To the Span," said Maren. "By Midwinter."
+
+The old woman nodded slowly. "Then you can't take the King's Road. There were riders on it at dawn. Masked. Waiting at the first bridge." She lifted her stick and pointed, past the end of the village, past the river, across the brown winter fields to the south. On the horizon, under the low gray sky, there was a long dark line, like a smudge of soot. "There's only one other way to get south in time. Through there."
+
+Emrys looked. The line was trees. A great many of them, crowded close and black.
+
+"The Hollowwood," Mother Hollin said. "Two days through, if you're quick and lucky. Six around. Nobody goes into the Hollowwood. Not even the wolves." She looked at both of them with her enormous ancient eyes. "It remembers, that wood. Worse than the March. The March remembers the fighting. The Hollowwood remembers *everything.*"
+
+Maren looked at the black line on the horizon. Then she looked at Emrys.
+
+"Eight days to Midwinter," she said.
+
+"Then it's the wood," he said. "Obviously. I've always wanted to be remembered."
+
+She didn't smile. But she didn't tell him to be quiet, either.
+
+Tamsin let go of her gran's arm and ran to Maren. She was holding something in her small grubby fist. She held it up: a ribbon, faded red, a little frayed at both ends.
+
+"For your sword," she said. "So it's not lonely."
+
+Maren looked down at the ribbon. Emrys watched her face do something complicated. Then she took it, very carefully, as if it might break, and knelt in the mud, and tied it around the crossguard of her oath-blade in a neat, tight knot.
+
+"Thank you," she said.
+
+Tamsin flung her arms around Maren's neck, hard and fast. Then she let go, and ran to Emrys, and did the same to him, and he was so surprised he nearly dropped the sack of bread.
+
+"Find out what really happened," Tamsin whispered into his ear. "With the knight and the prince. And come back and tell me. *Promise.*"
+
+"I promise," said Emrys. He found that his voice wasn't working very well.
+
+---
+
+They crossed the ford in the cold, bright morning, the river low and sullen after last night's flood, the horses picking their way over the stones. On the far bank, Maren drew up and looked back at the village for a moment. Smoke was rising from the chimneys again. Someone had already started rethatching the inn.
+
+"I didn't thank you," she said, without turning her head. "For last night. For the river."
+
+"You don't have to."
+
+"I know I don't have to." She was quiet. Then: "Thank you, Em..."
+
+She stopped. He heard her stop. He heard her close her mouth on the rest of his name like a door.
+
+"...wizard," she finished.
+
+"You're welcome, Sir Grim," Emrys said lightly. Inside him, something small and stupid turned over and over like a coin walking across a set of knuckles. He kept his face perfectly still.
+
+She touched her heels to her horse and rode on, south, toward the black line on the horizon. The red ribbon fluttered on her sword-hilt like a tiny flag.
+
+Emrys followed. He kept one hand pressed flat against his chest, under his coat, where she couldn't see it, where the ache had settled in and showed no sign of leaving.
+
+Ahead of them, the Hollowwood waited, dark and patient, remembering.
+
+---
+
+*End of Part One*
+
+## Part Two: The Hollowwood
+
+### Chapter 9: The Wood That Remembers
+
+*Maren*
+
+The horses wouldn't go in.
+
+They reached the edge of the Hollowwood a little after noon, and the moment the first trees closed overhead, Maren's bay planted all four feet in the frozen mud and refused to move. She kicked him. He backed up. She spoke to him the way the stablemaster at Dawnhold had taught her, low and steady, and he rolled his eyes until the whites showed and blew hard through his nose and still wouldn't go.
+
+Emrys's gray was worse. It tried to bolt back the way they'd come and nearly took his arm off doing it.
+
+Only the mule walked straight in, ears up, looking around with mild interest, as if it had been waiting all its life for an excuse to visit.
+
+"Well," said Emrys, hanging grimly onto the gray's bridle. "I've always said the mule is the brains of this operation."
+
+They ended up leading the horses on foot, one hand on each bridle, talking to them the whole way. It helped a little. Not much.
+
+Maren couldn't blame them. She didn't like the Hollowwood either.
+
+It wasn't dark, exactly. It was *dim*: the light came down gray and thin through the branches, as if it had traveled a long way to get here and was tired. The trees were enormous, bigger around than the tower at Dawnhold, with smooth silver bark and branches that started far above her head. Their leaves were black. Not dead: black, glossy as a crow's wing, and still on the trees in the middle of December, rustling faintly though there was no wind.
+
+And it was quiet. Not the quiet of the March, with its wind and its crows. There were no birds here at all. No squirrels, no mice, no insects ticking in the leaf litter. Just the creak of the horses' tack and the soft thump of their own feet, swallowed by the moss almost before it sounded.
+
+"Do you feel that?" Emrys said, after a while, very low.
+
+"Feel what?"
+
+"Like someone's listening."
+
+She did feel it. She'd felt it since the first tree. She didn't say so.
+
+---
+
+About an hour in, her boot struck stone.
+
+She looked down. Under the moss, there was something flat and square-edged. She scraped at it with her heel. More stone, worn smooth, fitted neatly against its neighbor. She scraped further. Another stone, and another, running away ahead of them under the moss in a straight line, wide enough for two carts to pass.
+
+"A road," she said.
+
+Emrys crouched and brushed the moss aside with his fingers. "An *old* road. Look at the stones. Nobody cuts them like that anymore." He looked up, and his face had changed. "There's no road on any map through the Hollowwood. There's no road on any map that goes *south* from here at all, except the King's Road."
+
+"There was one," Maren said. "Once."
+
+They followed it. It was easier than picking through the roots. The moss-covered road ran straight as an arrow between the silver trunks, and the horses calmed a little on the flat ground.
+
+That was when they heard the laughing.
+
+It was faint at first. So faint Maren thought she'd imagined it. Then it came again, clearer: young voices, a lot of them, laughing the way people laugh when they're among friends. And under the laughter, a sound she'd have known anywhere: the ring and clash of practice swords.
+
+She stopped dead. Her hand went to her hilt.
+
+"There," Emrys breathed.
+
+Ahead of them, the trees opened into a clearing, and the clearing was full of people.
+
+They were *wrong.* She saw that at once. The light passed through them. They were pale and silvery and slightly blurred at the edges, like breath on a cold window, and when they moved, they left the faintest trail behind them, like the afterimage of a candle. But they were there. Two dozen of them, maybe more. Young men and women, Maren's age or a little older. Sparring.
+
+Half of them wore the white and gold of the Order of First Light, in a style of armor she had only ever seen in old paintings. Mail to the knee. Tall, narrow shields.
+
+The other half wore gray.
+
+They were fighting together. Not against each other. *Together.* A knight and a wizard stood in the middle of the clearing, the knight showing the wizard how to hold a sword. *No, like this. Thumb here. Don't grip it like it owes you money.* The wizard laughed and tried again, and the knight corrected his elbow. Over by the trees, a gray-robed girl was cupping a little ball of white light in her palms, showing a knight how she did it, and the knight was shaking his head, grinning, and reaching out to touch it and pulling his hand back with a yelp. Two more, a knight and a wizard, sat on a fallen log sharing a loaf of bread, arguing cheerfully about something with their mouths full.
+
+Their voices came to her across the clearing, faint and far away and absolutely clear.
+
+Maren didn't realize she'd let go of her horse's bridle until it nudged her in the back.
+
+"That's not..." Emrys's voice cracked. He tried again. "That's not *possible.* There was never... The histories say the Order and the Tower have *always*..."
+
+"So do ours," Maren said.
+
+She heard her own voice as if it belonged to someone else. The world felt tilted, as if the moss-covered road under her feet had shifted by one or two degrees, and everything she'd ever learned was now sliding very slowly toward one side of her head.
+
+*Sir Aldane was a hero of the Order. The wizards murdered him. The wizards have always been our enemies. Always. From the very beginning.*
+
+The knight in the middle of the clearing finished showing the wizard how to hold the sword. He clapped him on the shoulder. The wizard said something she couldn't hear, and they both laughed, and the knight turned his head, and for one heartbeat he seemed to look straight at her, across three hundred years, with a friendly, open, ordinary face.
+
+Then the whole clearing faded, like breath from glass, and was gone.
+
+The clearing was empty. Moss and fallen leaves and silence. No footprints. Nothing.
+
+Maren stood very still.
+
+Beside her, Emrys let out a long, shaky breath. "Well," he said, "I'd like to go home now, please."
+
+She almost laughed. It came out as something else.
+
+---
+
+"Echoes," Emrys said later.
+
+They'd gone on, because what else could they do. The road ran on through the trees, and they followed it, and twice more that afternoon the forest showed them something. Once it was a pair of riders on the road ahead, one in white and one in gray, trotting side by side, deep in conversation, who faded as the horses drew level. Once, near a stream, it was just a voice, a woman's, singing a lullaby in words Maren didn't know, so close she turned around expecting to see her.
+
+"I think," Emrys went on slowly, "something soaked into this place. A spell, a big one, cast a long time ago. And it's holding on to things. Memories. The strong ones. Like..." He searched for it. "Like a sponge holding water. And every so often, it gets squeezed, and a little runs out."
+
+"You think. You don't know."
+
+"Sir Grim, I'm a wizard, not a book. I've never seen anything like this." He rubbed his jaw. "I'll tell you something else, though. My Spark doesn't like it here. It feels like..." He frowned. "Like standing next to someone very hungry."
+
+Her own sword had been humming strangely all afternoon. Not the steady, low growl it gave off around Emrys. Something different, higher and uneasy, the way a dog whines when it hears something you can't. Every so often, the faded red ribbon Tamsin had tied to the hilt stirred and lifted, as if in a breeze. There was no breeze.
+
+"We keep moving," Maren said. "We don't stop. We're out the other side in two days."
+
+"Agreed. Completely. Never been more agreed in my life."
+
+They walked. The light, already thin, began to go. The silver trunks turned gray, then dark gray, then the color of ash. Maren had just begun to look for somewhere to make camp, somewhere with a wall at her back, when she heard the drum.
+
+It was a slow, heavy beat, a long way off. *Boom.* Then *boom.* Then *boom.* Steady as a heartbeat. And under it, faint, the sound of many feet moving together. Metal. Leather. The clatter and creak of a great many people walking in step.
+
+An army. Marching.
+
+"Another echo," Emrys whispered.
+
+"I know."
+
+The horses had started to shake.
+
+The sound was coming closer. Down the old road, out of the dark ahead of them. Maren pulled the bay off the road, into the shadow of a silver trunk wider than a house, and Emrys dragged the gray in after her. The mule followed, unbothered, and began to eat moss.
+
+They came out of the dusk.
+
+These weren't like the ones in the clearing. They weren't laughing. They were soldiers, hundreds of them, pale and silvery and blurred at the edges, marching down the road in columns. Knights in white and gold, in that same old style of armor, their shields battered, their faces gray and set. And alongside them, *mixed* with them, gray-robed wizards, hollow-eyed, walking like people who had already spent too much and knew it. Some of them were bleeding. Some of them carried others.
+
+At the front, a silver-gray banner, torn. Maren couldn't make out the device.
+
+They were going to war. She knew that look. She'd seen it on the faces of knights riding out of Dawnhold in the spring, when there was going to be fighting. But they were going to war *together.*
+
+*Against whom?*
+
+The column passed so close that she could have reached out and touched the nearest knight. She didn't breathe. She didn't move. She felt Emrys beside her, rigid, his shoulder pressed against hers in the dark.
+
+And then, at the very end of the column, the last soldier stopped.
+
+He was a knight. A big man, his armor dented, a long gash across his shield. He stood in the middle of the old road with his gray, blurred face, and he turned his head, slowly. Slowly. Not toward the sound of them. Not toward their breathing.
+
+Toward the white and gold of Maren's tabard, glimmering faintly in the dark between the trees.
+
+He looked at it for a long moment.
+
+Then he drew his sword.
+
+### Chapter 10: The Hollowed
+
+*Emrys*
+
+The knight came at them out of the dusk without a sound.
+
+That was the worst part, Emrys thought afterward. Real knights shouted. Real armor clanked. This one moved through the dark between the trees as silently as smoke, his silvery sword raised high, his blurred gray face completely empty, and the only noise was the slow distant drum still beating somewhere down the road. *Boom. Boom.*
+
+Maren met him halfway.
+
+Her blade came up in a bright arc, and the echo-knight's sword came down, and Emrys braced for the clash of steel on steel. It didn't come. The oath-steel went *through* the silver sword as if it were made of mist. Light flared along the edge, so bright it left a stripe across his eyes. And the echo-knight came apart: not falling, not bleeding, simply *scattering,* like a puff of breath on a frosty morning, into a cloud of silver motes that drifted, glittering, and went out.
+
+His teeth rang like a struck bell. He'd never been so glad to feel it.
+
+"They're spells," Maren said, staring at her sword. "They're *made* of spell. It cuts them."
+
+"Wonderful. Marvelous. Excellent discovery." Emrys was looking past her, down the road. "Now please, *please* turn around very slowly."
+
+She turned.
+
+The column had stopped.
+
+All along the old road, in the gray gloom, the silver soldiers had halted in their tracks. And one by one, all down the line, they were turning their heads. Not toward the noise. Not toward the light. Their eyes were holes, two dark smudges in their pale blurred faces, and those holes were turning, every one of them, toward the white and gold on Maren's chest.
+
+And toward the gray of Emrys's coat.
+
+Somewhere in the column, a wizard-echo raised its hand. Cold fire bloomed in its palm: pale, sickly, blue-white, with no warmth to it at all. Another one did the same. And another.
+
+"Run," said Emrys.
+
+---
+
+They ran.
+
+The forest was a nightmare in the dark. Roots grabbed at their feet. Branches whipped at their faces. The horses screamed and plunged. The gray tore its bridle out of Emrys's hand and was gone, crashing away between the trees, and he heard it scream once more far off, and then nothing. The bay stayed with Maren because she simply would not let go of it. The mule trotted along beside them, ears back, looking deeply put upon.
+
+Behind them, the Hollowed came. Silent. Steady. Not running, but somehow never falling behind. Cold fire hissed past Emrys's head and splashed against a silver trunk, and the bark frosted over where it hit.
+
+"I can't see!" Maren shouted. "I can't see the ground!"
+
+Neither could he. And without thinking, without stopping to think, out of pure habit, Emrys raised his free hand and reached for his ember and made a light.
+
+The smallest light he knew. A first-year's spell. A candle-flame's worth of glow in the palm of his hand, the kind of thing that cost an hour of life, maybe less.
+
+The forest *drank* it.
+
+There was no other word for it. The instant the light bloomed in his palm, he felt something seize hold of it from outside: a pull like a whirlpool, like a mouth. It sucked the little light out of his hand and down into the dark, and it didn't stop there. It reached back through the spell, through the thread of it, into his chest, and *pulled,* and his ember lurched like a boat in a storm.
+
+He went down on one knee. Beside him, Maren gasped and stumbled, and her hand flew to her breastbone.
+
+The light was gone. It had lasted perhaps half a second.
+
+"*What did you do?*" Her voice was raw.
+
+"A light. Just a light. It was nothing, it was only..." He grabbed her left wrist and turned it to the faint gray glow still left in the sky. He could just see the thread. Eight turns still. But the outermost ring was frayed thin now, worn down like a rope that's been dragged over rocks. "The forest. It's *hungry.* It took ten times what I gave it."
+
+Her face, in the dark, was white. "Then don't do it again."
+
+"Believe me, I won't."
+
+Behind them, the Hollowed came on.
+
+---
+
+They found the stream by falling into it.
+
+It was narrow and black and very fast, running over stones in a deep cut between two tree roots, and it was so cold that when Emrys went in up to his knees, his legs stopped existing. Maren hauled him out by the collar. They crouched on the far bank in the black hollow between two enormous roots, soaking and shaking, with the horse and the mule pressed in behind them, and watched the Hollowed come through the trees.
+
+Close up, they were worse. They'd been people once. Emrys could see that now. Young, most of them. A boy with a split lip. A girl with her hair in a long braid. A knight with a gash across her shield. But there was nothing in their faces anymore: no fear, no anger, no thought. Just those two dark holes where the eyes should be, turning, turning, searching.
+
+And he understood.
+
+"They don't see *us,*" he breathed into Maren's ear.
+
+"What?"
+
+"Look at them. They're not looking at our faces. They never have been. They're looking at the *colors.*" He watched an echo-wizard turn its blank head, slowly, toward the patch of white and gold on Maren's chest, just visible over the edge of the root. "That's all they remember. They marched in here together, didn't they? All of them, knights and wizards, side by side. You saw it. And then something happened. Something terrible. And they turned on each other, and they died fighting each other, and that's the last thing they know. White means enemy. Gray means enemy. They don't remember whose side they're on anymore. They just remember the colors meant killing."
+
+The Hollowed came closer. Thirty feet. Twenty. The cold fire hissed in their palms.
+
+Maren stared at him in the dark.
+
+"Maren," Emrys said, "I'm going to need you to take your clothes off."
+
+"*What?*"
+
+"Your tabard! Just the tabard! Only the tabard, I swear on my mother's grave, I don't even know if my mother has a grave..."
+
+She was already dragging it over her head. White and gold, the Order's sunburst. He struggled out of his long gray coat at the same time and nearly took his own ear off with a button. She shoved the tabard at him. He bundled it up with the coat, wrapped the whole thing around a broken branch, crawled to the edge of the stream, and threw it as far as he could down the dark rushing water.
+
+It caught on the current. It went spinning away downstream, a pale bundle tumbling over the stones, flashing gold, flashing gray.
+
+The Hollowed turned.
+
+Every blank head, all at once, turned to follow the colors. They walked to the edge of the stream, right past the roots where Emrys and Maren crouched, so close he could have reached out and touched the trailing edge of a silver cloak. They didn't look down. Not once. They walked along the bank in silence, following the tumbling bundle downstream, faster now, faster, until they were just a pale shimmer between the trunks, and then a glimmer, and then nothing.
+
+The drum went on, far away. *Boom. Boom.* Then that faded too.
+
+Silence.
+
+They stayed crouched in the roots for a long time after the last glimmer was gone. Neither of them moved. Emrys could feel Maren shaking beside him, and couldn't tell if it was cold or something else, and was fairly sure he was doing the same.
+
+Finally, she let out a long breath.
+
+"Your *coat,*" she said.
+
+"I know."
+
+"You loved that coat."
+
+"I know. It was a very good coat." He looked down at himself: shirt, waistcoat, the ridiculous green scarf, which he had refused on principle to throw, and soaking trousers. "Do you think they'll be happy together? My coat and your tabard? Floating off into the dark. Starting a new life."
+
+There was a silence. Then a sound came out of Maren that he'd never heard before.
+
+She was *laughing.*
+
+It wasn't much of a laugh. It was short, and cracked, and she clapped her hand over her mouth almost before it got out, as if it had escaped without permission. But it was a laugh. A real one. Startled and helpless and young.
+
+He stared at her. She stared back at him over her hand, eyes wide, looking as shocked as he felt.
+
+"Was that..." he started.
+
+"No."
+
+"It was, though."
+
+"Be *quiet,* wizard."
+
+He was quiet. He sat there, soaking wet, freezing, his coat gone and a little piece of his life gone with it, and grinned at nothing in the dark like a complete fool.
+
+---
+
+They found shelter an hour later: the shell of a small stone building off the side of the road, roofless, overgrown, one wall fallen in. There was a stone altar at one end with the carving worn almost smooth. A chapel, maybe. Or a shrine. Emrys couldn't tell whose.
+
+They didn't care whose. It had three walls, and that was three more than the forest.
+
+Maren made a fire with her flint and a handful of dry moss scraped from under the altar, crouched over it, feeding it twig by twig, without a single spark of magic. He watched her do it and thought it was very nearly as impressive as cutting a spell in half.
+
+"Without it," she said suddenly, looking down at her plain quilted coat, the undyed padding she wore under her mail. "Without the white and gold. I keep forgetting it's gone. I keep looking down for it."
+
+"How does it feel?"
+
+She thought about it. "Strange," she said. "Like I'm just anybody."
+
+"You're still the most frightening person in this forest," he said, "and this forest has an army of ghosts in it."
+
+She looked at him across the small fire. She didn't laugh this time. But something in her face was softer than it had been, in the firelight, with no colors on.
+
+Emrys lifted his left wrist. Eight turns. The outer ring frayed thin.
+
+Far off in the dark, down the old road, the drum had started up again.
+
+*Boom.*
+
+*Boom.*
+
+Whatever had made this place, whatever had cast the spell that soaked into these trees and held all these memories so tight, it was still here. He could feel it, out there in the dark, at the center of the wood, where the road was going.
+
+Still hungry. Still remembering.
+
+Still waiting for them.
+
+### Chapter 11: Dead Blades
+
+*Maren*
+
+The cold got worse after midnight.
+
+Maren had known cold. She'd stood watch on the walls of Dawnhold in January wind. She'd broken ice on the horse troughs every morning for seven winters. This was different. The Hollowwood's cold didn't blow. It *seeped.* It came up out of the moss and the stones and the roots, slow and patient, and settled into your bones, and stayed.
+
+The little fire didn't help much. It was all she could manage with the damp wood, and it spat and smoked and gave off about as much heat as a candle.
+
+Across it, Emrys was shaking.
+
+He was trying not to. She could see him trying: arms wrapped around his knees, jaw clenched, the ridiculous green scarf wound three times around his neck. But he was thin, much too thin, and he had nothing on above the waist but a soaked linen shirt and a waistcoat, and every few seconds a shudder went through him so hard she could hear his teeth click.
+
+*Box of dice,* she thought.
+
+She'd lost her tabard. He'd lost his coat. She at least had her padded gambeson, and her cloak. He had his cloak too, a thin traveler's thing, but it had gone into the stream with him and was still damp.
+
+She watched him shake for another minute. Then she said, "Come here."
+
+He looked up. "Pardon?"
+
+"Your teeth are keeping me awake." She shifted over against the shrine's one solid wall and opened her cloak. "Back to back. Like soldiers on campaign. It's practical."
+
+He stared at her. She stared back, daring him to say something.
+
+For once in his life, he didn't. He came around the fire and sat down with his back against hers, and she pulled the cloak around them both, and for a while neither of them said anything at all.
+
+He was so cold. She could feel it through her gambeson, through her shirt, the chill coming off him like off a stone. Gradually, slowly, it eased. His shaking slowed. His breathing slowed. And underneath it, through her back, through his, she could feel the heartbeat. One heartbeat, really. Not two anymore. Theirs.
+
+"Thank you," he said quietly, to the dark.
+
+"It's practical."
+
+"I know. Thank you anyway."
+
+---
+
+"Can I ask you something?" he said, a long time later.
+
+"You always ask that. And then you ask anyway."
+
+"Then I'll ask anyway." She felt him shift, felt him turn his head a little, toward her pack where it sat against the wall within arm's reach. "What's in the bundle?"
+
+She didn't answer.
+
+"You touch it," he said. "When you think nobody's watching. Every day. Like you're making sure it's still there."
+
+She hadn't known it showed. She'd thought she was careful.
+
+She sat with that for a while. The fire crackled. Somewhere far off, out in the black forest, the drum had stopped. Then, because it was dark, and because he couldn't see her face, and because they'd both nearly died twice in two days and it was getting hard to remember why any of it should be secret, she reached over and pulled the pack into her lap and untied the long bundle at the bottom.
+
+She drew the sword out and laid it across her knees in the firelight.
+
+He turned around to look. She heard his breath catch.
+
+"It's dead," he said.
+
+"Yes."
+
+"Like the ones in the field. Sorrow Field."
+
+"Yes."
+
+"Whose was it?"
+
+"My father's." She ran her thumb along the flat of the dull gray blade. Cold, and silent, and nothing at all. "Sir Corwin Holt. Knight of the Order of First Light."
+
+And she told him.
+
+She told him about Elmsby, the village in the valley, and the little girl with the early magic who had run from the Tower's collectors, and the fighting, and the two knights who died. She told him about the order that came down afterward: burn Elmsby, so the next village would think twice before it hid a wizard. She told him about her father being given the torch, and about standing in the Dawnhold courtyard in the mud, eight years old, holding the hand of a servant she didn't know, watching the whole Order watch her father.
+
+*There were children in those houses. I swore to spare the innocent.*
+
+*You swore to obey.*
+
+She told him about the blade going gray. No crack, no flash, no sound. Like a candle pinched out between two fingers.
+
+"And Elmsby?" Emrys asked quietly.
+
+"Burned anyway. The next morning." Her voice was flat. She made it flat. "Sir Aldric sent someone else. I never asked who. It didn't matter who. My father broke his oath, and lost his sword, and his name, and his place, and his life, and the village burned anyway. So it was for *nothing.* Do you see? All of it. He gave up everything, and it changed nothing at all."
+
+Emrys was quiet for a long time.
+
+"Why do you keep it?" he asked.
+
+"So I remember."
+
+"Remember what?" he said softly. "That he was brave?"
+
+"That he was *wrong,*" Maren said.
+
+The word hung in the cold air between them.
+
+"Was he?" Emrys asked.
+
+She didn't answer. She wrapped the dead blade back up in its oilcloth, carefully, the way she always did, and tied the twine, and put it away in the bottom of her pack. She did all that without answering. And she noticed that he didn't push, didn't fill the silence with a joke the way he usually did. He just let the question sit there by the fire, where she would have to look at it.
+
+---
+
+"Your turn," she said, after a while.
+
+"My turn for what?"
+
+"Merrow."
+
+He was quiet. She felt his back move against hers as he breathed.
+
+"It's not as good a story as yours," he said. "Nobody's brave in it. There's a lot of water."
+
+"Tell me anyway."
+
+So he told her.
+
+He told her about being six years old in a fishing village called Calder on the eastern coast, and the day the gray riders came because the village priest had sent word that the netmaker's boy was making the fish glow. He told her about his mother standing in the doorway of their house with her hands knotted in her apron, not crying, not saying anything, just watching him go. He told her about the Tower, and the first-years' dormitory, and the masters, and the ember, and learning, very young, that every bit of magic you did came out of you and never came back.
+
+He told her about the flood. Eleven years old. The masters on the riverbank, arguing. Walking out into the brown water because nobody else would. Putting his hands in it and *holding.* Eleven hours. The cold, and the noise, and the people of Merrow cheering on the hill, and lying on the bank afterward looking at his own hands like they belonged to a stranger.
+
+"They threw me a feast," he said. "When we got back to the Tower. A feast and a new robe and a very nice speech, and my very own line in the Ledger in big letters. And a month later I looked in a mirror and I had a gray hair. My first one. At eleven." He made a sound that wasn't quite a laugh. "People think I dye it, you know. The gray. They think I do it to look interesting. Tragic. Mysterious."
+
+"I didn't think that," Maren said.
+
+"No?"
+
+"No. I thought it was the cost."
+
+He was silent. She felt him go still against her back, all at once, like an animal that hears a twig snap.
+
+"Your mother," she said. "Did you ever see her again?"
+
+"I wrote to her. Every month, for years. The Tower said they'd send the letters." A pause. "She never wrote back. I don't know if they sent them. I don't know if she's alive. Calder's a long way from anywhere."
+
+Maren looked at the fire. She thought about her father's blade going gray, and a woman in a doorway with her hands in her apron, and two children watching things being taken away from them, a hundred miles apart, on opposite sides of a war.
+
+"How much did it cost?" she said. "Merrow."
+
+"Four years," he said. "And seven months."
+
+She turned her head so sharply her neck cracked. "You were *eleven.*"
+
+"I'm aware. I was there." His voice had found its lightness again, its usual brightness. She heard him reach for it. "It's fine. Honestly. It's what I'm *for.* I'm the boy who held back a flood. That's the whole of me. Without the river trick, I'm just a tall, underfed person who's bad with horses and talks too..."
+
+"Emrys," Maren said. "Stop."
+
+It was out before she knew she was going to say it. His name. She heard it land in the little shrine, in the cold, in the firelight.
+
+He stopped.
+
+He didn't say anything else. He didn't make a joke about it. He didn't call her Sir Grim. He just sat very still with his back against hers, and she felt his breath go in once, sharp, and then out again, slow.
+
+She didn't take it back. She thought about it, and she didn't.
+
+---
+
+"Do you have much left?" she asked, a long time later, when the fire had burned down to coals and she'd thought he was asleep. "Life. After Merrow, and everything since."
+
+The pause was very short. So short that if she hadn't been listening for it, she'd have missed it.
+
+"Enough to annoy you," he said. "For years and years. You'll be sick of me."
+
+She almost believed him. She wanted to. It was easy, in the dark, with his back warm against hers.
+
+"Go to sleep, wizard," she said.
+
+"You said my name."
+
+"Go to *sleep.*"
+
+After a while, he did. She felt it happen: the slow loosening, the breathing going long and deep. She lay awake and listened to their heartbeat and thought about Elmsby, and Sorrow Field, and a company of knights looking uphill into a wall of fire. *Or they decided not to die for nothing.*
+
+*Was he?* Emrys had asked.
+
+She put out her hand in the dark to steady herself, and her fingers found the edge of the old stone altar at the end of the shrine. The carving on its face had been worn almost smooth by centuries of rain. She traced it without thinking, the way you'd trace a scar.
+
+Then she stopped, and traced it again, slowly.
+
+Two shapes, carved together, twined around each other so closely that you couldn't tell where one ended and the other began.
+
+A sunburst.
+
+And an hourglass.
+
+### Chapter 12: Concord Keep
+
+*Emrys*
+
+In the gray light of morning, Maren showed him the altar.
+
+She didn't say anything. She just took his wrist and pulled him over to it and put his fingers on the carving, the way you'd show a blind man something you didn't trust yourself to describe. He traced it. A sunburst. An hourglass. Twined together so closely you couldn't find the seam.
+
+"That's not a symbol either of us uses," he said slowly.
+
+"It is here." She let go of his wrist. "Apparently."
+
+They didn't talk much after that. They loaded the bay and the mule, kicked out the fire, and went back to the old road, and followed it south through the silver trees toward the center of the wood. The drum had stopped sometime before dawn. The Hollowwood was silent again. But it was a different silence now. Emrys kept feeling as if he were walking through a house where someone had just left the room.
+
+Around midmorning, the trees opened up, and he saw the keep.
+
+It had been beautiful once. You could still tell. It rose out of the forest on a low hill: walls of pale gold stone, two tall towers, a gatehouse with a pointed arch. But the forest had swallowed it. Silver trunks had pushed up through the courtyard paving and burst the walls apart like fingers through wet paper. Black leaves rustled on the battlements. One of the towers had fallen entirely and lay in a long tumbled line down the hillside, half-buried in moss. The other still stood, cracked from top to bottom, with a single tree growing out of its highest window like a feather in a cap.
+
+Over the gate, carved deep enough that three hundred years of rain hadn't worn it away, there were two symbols, twined together: the sunburst and the hourglass. And under them, words.
+
+Maren read them aloud. Her voice was very quiet.
+
+"*By steel and by flame.*"
+
+Emrys looked at her.
+
+"That's our oath," she said. She sounded like someone who'd been struck in the stomach and hadn't fallen down yet. "The first line. *By steel and by dawn.* Every knight says it. Every morning." She stared up at the carving. "Except it isn't. It *wasn't.* It used to say *flame.*"
+
+"And someone changed it."
+
+"Someone changed it." She swallowed. "After."
+
+---
+
+Inside the walls, the echoes were thicker.
+
+It was like walking through a crowd you couldn't see. Every few steps, something brushed past: a voice, a laugh, the clatter of a dropped plate, a snatch of song. In the great hall, with its roof long gone and a silver tree growing up through the middle of the high table, there was a feast going on, faintly, all around them. Knights and wizards at the long benches, passing bread, filling cups, arguing, singing. A gray-robed wizard stood on a bench, telling some story with huge gestures, and the knights around him were crying with laughter. A young knight sat beside a young wizard with her head on his shoulder.
+
+Maren walked through it with her eyes straight ahead and her jaw locked, as if she could get through it faster by not looking. Emrys looked at everything. He couldn't help it. He felt like a man who'd been told his whole life that the sea was a myth and was now standing up to his knees in the surf.
+
+They found the stair to the standing tower at the back of the hall. It was cracked and steep and choked with leaves, but it held. At the top, there was a round room under the broken roof, with tall windows looking out over the treetops, and the silver tree growing out of the far wall.
+
+The room wasn't empty.
+
+Two men were bent over a table by the window. The table wasn't there, exactly. It was there the way the men were there: silvery, blurred, made of light and memory. But the map spread across it was clear enough to read. Emrys knew the shape of it at once. Every child in the Tower learned that shape. The long, jagged black line of the Sunder, splitting the land in two from north to south.
+
+One of the men was a knight: big and broad, fair-haired, with a nose that had been broken at least once and healed crooked, and a laugh in his face even when he wasn't laughing. He wore the white and gold.
+
+The other man was a wizard, slim and dark, in gray robes stitched with silver. Hanging in the air just above his shoulder, following him wherever he moved, was a small, steady ball of soft light, like a lantern no one was holding.
+
+"Caelan," Emrys breathed. "The Lantern Prince."
+
+"And Sir Aldane," said Maren.
+
+The prince put his finger on the map. On the Sunder. On a place where the black line narrowed.
+
+"*Here,*" he said. His voice came to them clear, warm, a little hoarse, as if he'd been talking all night. "Right here. Where it narrows. Four hundred feet, no more."
+
+"Four hundred feet of nothing, my friend," said Sir Aldane. "Four hundred feet of air and a very long drop."
+
+"Four hundred feet of *stone,* if your masons and my wizards work together. Think of it." The prince's lantern-light bobbed as he leaned in. "A bridge, Aldane. A real one. Two lands, one road. Anybody could cross. Farmers, merchants, children. No more waiting days for a boat. No more paying through the nose for the privilege."
+
+"The ferry-lords won't like it."
+
+"The ferry-lords," said Prince Caelan, grinning, "will have to learn to swim."
+
+Sir Aldane threw his head back and laughed. It was a great, booming laugh, the kind that fills a room. The prince laughed with him. They stood there over the map, two young men, a knight and a wizard, laughing together in the gray light three hundred years ago, and Emrys realized that his face was wet and he didn't know when that had started.
+
+"Wizard," Maren whispered. "The door."
+
+There was someone else in the room.
+
+He stood in the doorway at the top of the stair, just where Emrys and Maren had come in. He was the hardest of all the echoes to see. He was blurred, not like the others, who were faint but clear. He was *smudged,* as if the memory couldn't quite hold on to him, as if he'd always stood just slightly out of the light. A tall man in a dark cloak with the hood up. Emrys couldn't make out his face at all. Just a shadow where the face should be.
+
+"My lords," the cloaked man said. His voice was smooth and pleasant and quiet. "The wine you asked for."
+
+He set something down on the edge of the table: a jug, two cups. Sir Aldane thanked him without looking up. The prince didn't notice him at all. They'd already bent over the map again, arguing happily about stone and spans and the weight of a cart.
+
+The cloaked man stood there a moment, watching them. Then he turned to go. And as he passed through the doorway, so close to Emrys that the edge of his silver cloak passed right through Emrys's arm like cold water, he murmured something under his breath. Only a fragment. Emrys almost didn't catch it.
+
+"*...the ferries have served this family for a hundred years...*"
+
+Then he was gone. Down the stair, into the dark.
+
+The two friends at the window faded, still laughing, like breath from glass. The map faded with them. The table. The jug. The light hovering above the prince's shoulder went out last, a little silver star in the gray, and then it was gone too.
+
+Emrys and Maren stood alone in the broken tower.
+
+"Who," said Maren carefully, "was that?"
+
+"A servant?"
+
+"Servants don't sound like that." She was staring at the empty doorway. "He sounded like someone who *owned* the servants."
+
+---
+
+They found the tomb in the undercroft, beneath the great hall, at the bottom of a stair so deep in leaves they had to wade through them.
+
+It was a long, low vault, cold and dry, with a single slab of white stone in the middle. On the slab lay a stone figure: a slim young man in robes, hands folded on his chest, holding a small carved lantern. Someone had loved this face once. You could tell from the way the stone had been worked around the eyes.
+
+Carved into the side of the slab, in hard, angular letters, were words:
+
+*CAELAN OF THE TOWER, CALLED THE LANTERN PRINCE.*
+*SLAIN IN HIS SLEEP BY THE OATHBREAKER'S BLADE.*
+*LET NONE FORGET.*
+
+And lying on the stone figure's chest, across the folded hands, there was a dagger.
+
+It was rusted now, its edge long gone. But Maren made a small sound when she saw it, and Emrys knew why before she said a word. Even rusted, the shape was unmistakable: long, narrow, with a sunburst worked into the pommel. A knight's dagger. A knight of the Order of First Light.
+
+"They put it here," she said. "On his tomb. So everyone who came would see what we did."
+
+"So everyone who came would see what they *thought* you did," said Emrys.
+
+He reached out and picked it up.
+
+"*Emrys!*" She grabbed his arm. "That's a grave!"
+
+"It's evidence." He turned the dagger over in the light coming down the stair. "Three hundred years, and nobody's looked at it properly. Everyone saw the sunburst and stopped looking." He ran his thumb along the crossguard, then under it, where the steel met the grip and the rust was thickest. Something caught under his nail. A mark, cut into the metal, almost too small to see.
+
+He scraped at the rust carefully with the edge of his thumbnail. Maren leaned in close beside him. Her shoulder pressed against his.
+
+It was a boat.
+
+A tiny carved boat, no bigger than a grain of rice: a flat hull, a single oar at the back, the kind of boat you'd use to pole across a river.
+
+Or a chasm.
+
+"Knights don't mark their daggers with boats," said Maren slowly.
+
+"Then who does?"
+
+She didn't answer. Neither did he. They stood there in the cold of the vault, looking down at the little mark, and Emrys thought about a smooth, pleasant voice in a doorway. *The ferries have served this family for a hundred years.*
+
+He wrapped the dagger in his scarf and put it inside his waistcoat, against his chest. Maren didn't stop him this time.
+
+---
+
+They climbed back up into the great hall, and Emrys saw at once that the light was wrong.
+
+They'd been inside longer than they knew. The gray afternoon had gone to gray dusk without their noticing. The ghostly feast was gone from the hall. The benches were empty. The air was still.
+
+And far off, out in the forest, faint but clear, the drum had started.
+
+*Boom.*
+
+*Boom.*
+
+*Boom.*
+
+"They're coming *here,*" Emrys said. And as soon as he said it, he knew it was true, the way you know a thing in a dream. "That's what they're doing. Every night. They march to Concord Keep. They arrive and find the prince dead. And they turn on each other, right here, in the courtyard. Every night for three hundred years."
+
+Maren had already drawn her sword. The red ribbon on its hilt was lifting, stirring, in the air that had no wind.
+
+"Then we don't want to be here when they arrive," she said. "Which way is out?"
+
+Emrys looked out through the broken wall of the hall, south, past the keep, past the fallen tower. Beyond the walls, on the far side of the hill, he could see it now, black against the darkening sky: a tree so enormous that the silver trunks around it looked like saplings. Its branches spread across half the sky. Its roots had swallowed a whole hillside. And he could feel it, even from here, the way you'd feel a fire in a dark room. It was where the forest's hunger came from. Where the spell lived. The heart of the binding that held all these memories so tight.
+
+The old road ran straight toward it.
+
+"Through there," he said.
+
+### Chapter 13: The Falcon
+
+*Maren*
+
+They didn't make it to the great tree before dark. They didn't even make it out of the keep's shadow.
+
+The drum was too close and getting closer, and the road south ran straight up the hill toward that enormous black shape against the sky, and Maren took one look at it in the failing light and knew they'd be caught in the open halfway there. So she made a choice. She dragged the bay and the mule off the road, down the slope, into the long tumbled ruin of the fallen tower, and wedged them all into a hollow between two great blocks of gold stone half-buried in moss, where they could see the keep's broken gate but couldn't easily be seen from it.
+
+"We wait," she said. "We let them pass. We go at first light."
+
+"I hate waiting," said Emrys.
+
+"I know."
+
+He waited anyway. Pressed into the cold stone beside her, with the stolen dagger wrapped in his scarf inside his waistcoat, he waited, and she felt him shaking, and didn't know if it was cold or fear, and didn't ask.
+
+The Hollowed came out of the forest just after full dark.
+
+They came up the old road the same way they had the night before: silent, silver, column after column, knights and wizards side by side. The drum beat at the head of the column. The torn gray banner went before it. They marched up the hill and through the broken gate of Concord Keep, into the courtyard, and from where Maren crouched in the rubble, she could see them through the gaps in the wall, filling the yard, shoulder to shoulder, waiting.
+
+For a moment, there was nothing. Just the silvery crowd, and the silence, and the stars coming out over the black leaves.
+
+Then someone screamed.
+
+It came from inside the keep. From the great hall, or below it. A young man's voice, high and cracking: *"The prince! The prince is dead! Caelan's dead!"*
+
+The silver crowd turned. All at once. Like a field of grass in the wind.
+
+Another voice, a wizard's, from the hall door: *"A knight's dagger! It's a knight's dagger, in his heart! It's Aldane's dagger!"*
+
+And then a third voice, smooth and pleasant and carrying, from somewhere she couldn't see: *"Treachery! The knights have murdered him! Treachery!"*
+
+Maren knew that voice. She'd heard it in the tower room, murmuring about ferries.
+
+For one more heartbeat, the courtyard was perfectly still. Two hundred silver soldiers, knights and wizards, who had marched in side by side, who had eaten at the same tables and trained in the same yards and laughed at the same jokes, stood there frozen, looking at each other.
+
+Then a wizard raised his hand, and cold fire bloomed in it.
+
+And a knight drew her sword.
+
+---
+
+Maren made herself watch.
+
+She didn't want to. Every part of her wanted to turn away, to press her face into the cold moss and wait for it to be over. But she had been taught that if something terrible was happening, you looked at it, because looking away didn't make it stop, it just made you a coward. So she looked.
+
+It wasn't a battle. It was worse than a battle. Battles had sides. This was two hundred people who had been friends ten seconds ago, turning on each other in a space too small to run. Cold fire and silver steel. A knight cutting down a wizard she'd been sharing bread with at the feast that afternoon. Maren had seen them, laughing. A wizard burning a knight who'd taught him to hold a sword. The young knight and the young wizard who had sat together with her head on his shoulder: she watched them find each other in the chaos, and stare at each other, and Maren didn't watch what happened after that, because there were things even a knight was allowed to look away from.
+
+It made no sound. That was the worst of it. The screaming had stopped the moment the first sword came out. Now it was all silent: silent steel, silent fire, silent falling.
+
+Beside her, Emrys had his fist pressed against his mouth.
+
+It went on for a long time. Then it was over. The courtyard was full of silver shapes lying still on the paving stones. One by one, slowly, like candles at the end of a long night, they faded, and went out.
+
+The drum stopped. The courtyard was empty. Moss and stone and starlight.
+
+Tomorrow night, they would march in again, and do it all again.
+
+"That's how it started," Maren said. Her voice came out strange and thin. "That's how the war started. Not with armies. Not with a declaration. *That.*"
+
+"With someone shouting *treachery,*" said Emrys, very quietly, "and everyone believing it."
+
+She thought about Sir Aldric's square handwriting. *If the treaty fails.* She thought about her father standing in the Dawnhold courtyard while the whole Order watched him. She thought about the man in the doorway with no face.
+
+She put her head down on her knees, in the dark, in the moss, and didn't say anything else for a long time.
+
+---
+
+It was colder that night than any night before.
+
+They couldn't make a fire. Not with the keep so close, not with whatever else might be out there in the dark watching for light. They huddled in the hollow between the stones with both cloaks around them and the bay and the mule pressed in close for warmth, and the cold came up out of the ground and into them like water into a sinking boat.
+
+At some point, Maren stopped shivering.
+
+She noticed that, distantly. It seemed like a good thing. She'd been shivering for hours and now she wasn't, and she felt almost warm, almost comfortable, and very, very tired. Her side, where the knife had gone in, had stopped hurting. Everything had stopped hurting. She thought she might just close her eyes for a little while.
+
+"Maren."
+
+Someone was shaking her. She frowned. She was fine. She was warm.
+
+"*Maren.* Talk to me. Say something rude."
+
+"Mmf," she said.
+
+"That's not rude enough. Try harder." His hands were on her face, and they felt like fire. That was strange. His hands had always been cold. "Your lips are blue. Maren, your lips are *blue,* you've stopped shivering, that's very bad, that's the bad kind of stopping..." His voice was going high and fast. "I need to warm you. I need to use a spell. Can I? Say yes. Please say yes."
+
+She wanted to tell him no. No spells. That was the rule. That was *her* life. But the words were very far away, at the bottom of something deep and soft, and she couldn't reach them.
+
+"Mmf," she said again.
+
+"I'm going to take that as a yes," said Emrys. "I'm so sorry."
+
+Heat.
+
+It came into her all at once, from his hands, from his chest pressed against her back, from everywhere. Like sunlight. Like summer. Like stepping out of a freezing river into a hot bath. It poured into her arms and her legs and her cold, slow heart. And at the same moment, the same terrible moment, she felt the forest *take* it.
+
+She felt the hunger reach in, through the spell, through the warmth, through *him,* and pull. Harder than in the valley. Harder than at the Ford. Something tore loose deep in her chest, the way it had when the river stood up, a whole piece of something falling away down the dark well, down and down. She heard herself cry out. She heard him cry out too, right behind her, at the same moment, as if they'd both been struck by the same blow.
+
+Then it was over. And she was shivering again, violently, gloriously, her teeth chattering like dice in a box, her whole body screaming with pins and needles as the blood came back.
+
+"*Good,*" said Emrys hoarsely, into her hair. "Good. That's good. Shiver. Keep shivering. Very attractive. Best shivering I've ever seen."
+
+She shivered. He held on. Neither of them let go until the sky began to turn gray.
+
+---
+
+When the light came, she looked at her wrist.
+
+Seven turns.
+
+She looked at it. Then she looked at him. He was sitting with his back against the stone, his face gray with exhaustion. The streak of silver in his hair was wider, unmistakably wider, a broad band of it now above his left temple. He was looking at her the way you'd look at someone who might hit you.
+
+"You asked," she said. "This time."
+
+"You said *mmf.* I took it as consent. I'm aware it's not legally binding."
+
+She thought about being angry. She thought about it seriously, the way she'd been taught to think about everything. Another ring gone. Another piece of her life, of *their* life, swallowed by the dark. Without her choosing. Again.
+
+But she remembered the soft, warm, comfortable feeling of not shivering anymore. And she knew what it had meant. Every squire at Dawnhold knew what it meant, because every winter, somebody on the walls stopped shivering, and somebody else had to carry them down.
+
+"Thank you," Maren said.
+
+He blinked at her. Then he looked down at his hands, quickly, as if he didn't know what to do with his face.
+
+---
+
+The falcon came an hour after dawn.
+
+She heard it before she saw it: a high, thin, ringing cry, coming down out of the gray sky above the black leaves. Then a white shape, falling like a stone, flaring its wings at the last instant, and landing on the block of gold stone right beside her head, so close she felt the wind of it.
+
+A gyrfalcon. White as snow, with black flecks on its wings and a hood of gold leather hanging loose around its neck. A leather message-tube was strapped to its leg. Stamped into the leather, small and neat, was the sunburst of the Order of First Light.
+
+"Hello," said Emrys warily. "Is it yours?"
+
+"The Order's." Maren held out her arm, and the falcon stepped onto it, gripping hard through her sleeve, turning its fierce dark eye on Emrys and then back to her. "They train them to find oath-steel. Anywhere. They can feel it from twenty miles off."
+
+"Of course they can," Emrys muttered. "Wonderful. Nothing like a sword with a homing pigeon."
+
+She unbuckled the tube and drew out the letter. Small, square handwriting. Her stomach knew it before her eyes did.
+
+*Squire Holt.*
+
+*Word has reached us that your escort was slain in the March and the Warden's captain with them. The Tower claims we attacked their prodigy. We claim nothing. We do not know if you live. If you do, know this:*
+
+*The talks have moved to the Greyspine Pass. The Tower's delegation demands that the Heart be shared as a condition of peace. This will not happen. The Order marches south with the Heart to the foot of the pass. Come to us there.*
+
+*If the wizard still lives, remember your orders.*
+
+*A.F.*
+
+She read it twice. The words didn't change.
+
+*Remember your orders.*
+
+Sir Aldric didn't know. He couldn't know about the thread, about the seven red turns around her wrist, about what it would mean now if the treaty failed and she did what he'd told her to do. He thought it was simple. He thought it was a hard thing, but a simple thing.
+
+She looked up. Emrys was watching her. He'd been watching her face the whole time she read, she realized, and she didn't know what her face had done.
+
+Maren took out her flint and her striker. She held the corner of the letter over a scrap of dry moss and struck a spark, and the paper caught, and she held it until the flame reached her fingers, the way she always did.
+
+"What was that?" Emrys asked.
+
+"My commander's blessing," she said. "For the road."
+
+He looked at her. He didn't say anything. And she knew, from the way he didn't say anything, that he knew she'd lied, because she was a terrible liar and always had been, and her ears were burning red, and he'd noticed. He'd noticed everything about her since the Neutral Stone.
+
+She waited for him to call her on it. He didn't. He just nodded slowly, and looked away, south, toward the great black tree on the hill.
+
+And she understood, watching his face, that he wasn't calling her on it because he had something he wasn't telling her either. She could see it. It sat behind his eyes the way the letter sat in her chest.
+
+Two lies, she thought. One on each side of the thread.
+
+The falcon shook out its white feathers on her arm, gave her one last fierce look, and launched itself back up into the gray sky, south, toward the Greyspine, toward Sir Aldric and the Heart and her orders, and was gone.
+
+### Chapter 14: The Anchor
+
+*Emrys*
+
+Up close, the tree was impossible.
+
+Emrys had seen big trees. The cherry trees in the Tower's inner court were three hundred years old. The silver trunks of the Hollowwood were the biggest living things he'd ever imagined. This was something else. It rose out of the top of the hill like a mountain that had decided to grow leaves. Its trunk was wider than the whole of Concord Keep. Its roots poured down the hillside in every direction, great silver-gray coils of them, thicker than houses, and they had swallowed everything: boulders, the old road, what might once have been a ring of standing stones. The black leaves overhead were so thick that, beneath them, it was dusk at midmorning.
+
+And he could *feel* it.
+
+It was like standing next to the sea. Like standing next to a furnace. The air around the tree hummed with power so deep and old that his ember shrank from it, curling up under his breastbone like a frightened animal. Beside him, Maren's sword was whining, a high thin sound he could actually hear now, not just feel in his teeth. The red ribbon on its hilt stood straight out sideways, rigid, as if in a gale.
+
+"This is it," he said. "The anchor. Whatever spell holds this forest together, it's tied to this. Rooted in it." He swallowed. "Fed by it."
+
+The old road ran straight up the hill to the base of the trunk, and there it stopped. Between two vast roots, the road passed through a gap: an arch of living wood, tall enough for a rider. And the arch was closed.
+
+Not with a door. With *light.* A curtain of it, hanging in the gap: silver threads, thousands of them, woven together so finely that it looked like mist until you got close, and then you could see the pattern, endlessly knotting and unknotting, flowing like water.
+
+Beyond it, faintly, through the shimmer, Emrys could see daylight. Real daylight. Pale and wintry and *outside.*
+
+"That's the way out," Maren said.
+
+"That's the way out."
+
+"Then I'll cut it."
+
+She was already raising the sword. Light ran up the edge, bright and eager.
+
+"*Wait!*" He caught her arm. His teeth sang. "Wait. Don't."
+
+She looked at him, frowning.
+
+"If you cut it," Emrys said, "it doesn't just open a door. You cut the anchor. And the whole spell comes apart. All of it, everywhere in the wood, all at once." He made himself say it slowly. "The echoes. Every one. The feast in the hall. The friends in the tower with the map. The two of them on the road, riding together. Gone. Forever."
+
+Maren's sword didn't move. But it didn't come down, either.
+
+"That's the only proof," he said. "Don't you see? The only proof anywhere in the world that it was ever different. That knights and wizards were ever *friends.* If you cut it, we're the only two people alive who ever saw it, and who would believe us?"
+
+For a long moment, she stood with the oath-steel raised, the light trembling along its edge, the ribbon snapping in the wind that wasn't there.
+
+Then, slowly, she lowered it.
+
+"Then what?" she said.
+
+---
+
+There was a face in the tree.
+
+Emrys found it when he went close to the arch to study the weave. Set into the trunk just above the gap, half swallowed by the bark, there was a carving: a woman's face, in pale stone, grown around by the silver wood the way a tree grows around a nail. She was young, and her eyes were closed, and her mouth was set in a hard, sad line. Beneath the face, in letters the bark had nearly closed over, someone had carved:
+
+*HERE I BIND WHAT WAS LOST,*
+*THAT IT MAY NOT BE FORGOTTEN*
+*UNTIL IT IS MADE RIGHT.*
+*ILSABET OF THE TOWER, SISTER TO CAELAN.*
+
+"His sister," Emrys said softly. "The prince's sister. She did this."
+
+He looked at the curtain of light again. And this time, knowing who had made it, he saw it differently. Not a wall. A *record.* Every thread in the weave was a moment: caught, held, kept. He saw how she'd done it. He saw it the way a carpenter sees the joints in a table. The spell reached out and caught the strongest feelings in a place: joy, terror, love, betrayal. And printed them in light, the way the sun prints a shadow on the ground. And held them there, so they couldn't fade. She'd taken her brother's whole world, everything he'd been and everyone he'd loved and the night it had all ended, and she'd *kept* it.
+
+*Until it is made right.*
+
+"You could do this," he heard himself say, almost to himself. "Smaller. Not a forest. One memory. Take something that really happened, something true, something you saw, and cast it out into the air so other people could see it too. The truth. In light."
+
+"Could you?" said Maren.
+
+"Not here. Not now. It would cost..." He stopped himself. "It doesn't matter. Not here."
+
+He made himself look at the weave again, the part of it filling the arch. He looked for the edge. For a place where the threads were looser. For a way to open a door without cutting the knot.
+
+There.
+
+Low down, near the root on the left side, where the curtain met the bark. A seam. A place where three hundred years of the tree growing had pulled the weave a little crooked, so the threads didn't quite meet. If he could get his fingers into that seam, and spread it, gently, without tearing anything...
+
+"I can open it," he said. "A gap. Big enough for us and the animals. Without breaking the spell."
+
+"How much will it cost?"
+
+He looked at her. He thought about lying. He thought about *rings are very generous.*
+
+"A lot," he said. "This close to the anchor, the forest will drink everything I give it. And more. Maybe a whole turn."
+
+She looked down at her wrist. Seven turns. She looked back at the curtain of light, and through it, at the faint gray daylight beyond. And behind them, down the hill, in the dark under the trees, he saw her eyes flick to the shadows where, tonight, the drum would start again.
+
+"Do it," Maren said. "I'll watch your back."
+
+---
+
+He knelt at the root. He took a breath. He reached for his ember, and then he reached into the seam.
+
+The forest woke up.
+
+He felt it happen. The instant his Spark touched the weave, the whole Hollowwood seemed to turn its head toward him, like a sleeping dog lifting its head at a sound. The hunger came pouring up the hill toward him out of every tree, and with it came something else, a great silent rushing of silver light through the trunks, from every direction at once.
+
+The Hollowed.
+
+They came up out of the roots. They came out of the shadows. They came up the hill in their hundreds, knights and wizards, the boy with the split lip, the girl with the long braid, silent and blank-eyed, and they were not looking for colors anymore. They were coming for *him.* For the thing that was touching their anchor. For the thief at the door.
+
+"Don't stop," said Maren. "Whatever happens. Don't stop."
+
+And she stepped between him and them.
+
+He couldn't watch. He had to watch the seam. He had to keep his fingers in the threads, spreading them, easing them apart, one by one, while the forest drank from him. It was like opening a wound. It was like pulling a splinter out of the heart of a tree with his bare hands. He could feel the hunger reaching up through his fingers, into his chest, into his ember, *pulling.* He could feel the thread around his wrist begin to slip.
+
+Behind him, he heard Maren fighting. He knew the sounds by now: the sharp, bright *ring* of oath-steel cutting spell, the soft *hush* as an echo burst into silver mist. Again. Again. Again. Her breath, hard and fast. The scrape of her boots on the roots. A grunt, as something got through her guard and struck her. *Again,* the ring of steel. She wasn't speaking. She didn't need to.
+
+The seam spread. An inch. A hand's width. Daylight, cold and pale, came through the gap and fell across his hands.
+
+He could feel the turn going. It was like watching a candle burn down in fast motion, the long slide of something precious running out through his fingers. The forest took it, gulped it, *drank* it. Behind him, he heard Maren cry out once, sharp and wordless, as she felt it too, and then the ring of her sword again, not slowing, not stopping.
+
+A foot wide. Two feet.
+
+And in the gap, in the weave, a face.
+
+Not carved this time. An echo. A young woman with dark hair and red-rimmed eyes, kneeling where he was kneeling, with her hands in the light, weaving. Her lips moved. He heard her voice, very close, as if she were whispering in his ear across three hundred years:
+
+*"Until it is made right. Not one moment before. I won't let them forget you, Caelan. I won't let them forget what was true."*
+
+Then she was gone, and the gap was wide enough for a horse, and Emrys took his hands out of the light and fell over backward onto the roots.
+
+"*Maren!*" he croaked. "*Now!*"
+
+She was there. She had the bay's bridle in one hand and her blazing sword in the other, and she was bleeding from a cut along her jaw, and her face was white and fierce and terrifying. Behind her, the hillside was a sea of silver, the Hollowed pressing in, blank faces, raised hands. She shoved the bay through the gap. The mule went through on its own, without being asked, which Emrys would later say was the single smartest decision anyone made all day.
+
+Then Maren grabbed him by the back of his waistcoat and hauled him up off the roots like a sack of grain and threw him through the gap, and came through after him, and the weave closed behind them with a sound like a long, slow breath going out.
+
+---
+
+Sunlight.
+
+Real sunlight, thin and white and freezing, falling out of a pale winter sky. Bare brown hills rolling away south. And beyond them, so tall they seemed to lean over the whole world, white against the blue, the jagged peaks of the Greyspine.
+
+Behind them, the black wall of the Hollowwood stood silent, as if nothing had happened at all.
+
+Emrys lay on his back in the frozen grass and looked up at the sky. It was very bright. It hurt his eyes. Everything hurt. His chest hurt most of all: a deep, hollow ache under the breastbone, worse than the Ford, worse than anything since Merrow. When he lifted his left hand to shade his eyes, it was shaking so hard he couldn't hold it still.
+
+He looked at his wrist anyway.
+
+Six turns.
+
+Six seasons. A year and a half. That was all, now. For both of them.
+
+Maren dropped to her knees beside him in the grass. She was breathing hard. Blood ran down from the cut on her jaw and dripped off her chin. She didn't seem to notice.
+
+"Emrys," she said. "*Emrys.* Look at me."
+
+He tried. Her face kept going blurry at the edges, like an echo, like breath on glass.
+
+"You didn't let me cut it," she said. Her voice was strange, rough. "You gave up a turn so I wouldn't cut it."
+
+"It was worth keeping," he managed. "The friends with the map. Somebody... should remember..."
+
+"*Emrys...*"
+
+She kept saying his name. She'd said it more in the last minute than in the whole week before. He wanted to tell her so. He wanted to make a joke about it, a really good one, the best he'd ever made.
+
+But the sky was very bright and very far away, and the ache in his chest was opening like a door, and then he wasn't anywhere at all.
+
+### Chapter 15: Carrying Him
+
+*Maren*
+
+He weighed nothing.
+
+That was what frightened her most, afterward. More than the gray face, more than the shallow breathing, more than the way his eyes had rolled back as he went under. When she got her arms around him and lifted him up out of the frozen grass to get him onto the horse, he came up off the ground so easily that she staggered, thrown off balance, like someone who reaches for a heavy bucket and finds it empty.
+
+All those long arms and legs, all that talking, all that *noise,* and underneath it, there was barely anything there.
+
+She got him across the bay's saddle on his stomach, which was undignified, and tied him there with the lead rope, which was worse. "Complain later," she told him, though he couldn't hear her. "You can complain all you like. I'll even listen."
+
+Then she took the bridle and walked south.
+
+---
+
+She found the hut late in the afternoon, when the light was already starting to go amber and long across the brown hills.
+
+It was a shepherd's shelter: a single room of piled stone with a turf roof, built into the side of a hill where the wind couldn't reach it. Empty for the winter. But whoever used it had left a neat stack of dry wood against the back wall, and a blackened iron pot, and a sheepskin rolled up on a shelf. Maren could have kissed them.
+
+She untied Emrys and half carried, half dragged him inside, and laid him on the sheepskin by the cold hearth, and built a fire. A real fire, with flint and steel and patience, the way she'd been taught. When it was burning steady, she went back out into the cold and saw to the horse and the mule, and came back in, and only then did she sit down on the packed-earth floor and let herself shake.
+
+The cut on her jaw had stopped bleeding. She cleaned it with snow and a strip torn from her shirt and didn't look at it too closely. Her ribs ached where an echo-knight's sword-hilt had caught her. Her arms ached from swinging. Everything ached.
+
+None of it mattered. She looked at him.
+
+He was burning up.
+
+She'd thought he was cold; he'd been cold since the stream. But when she touched his forehead now, it was hot as a stone left in the sun, and his skin was dry and papery, and his breath came in short, quick puffs. Then, while she was still kneeling over him, the heat broke all at once and he began to shiver: great, racking shudders that made his teeth clatter.
+
+She didn't know anything about wizard sickness. She knew about fever. She knew about cold. She knew what to do with a soldier who'd lost too much blood, and she supposed this wasn't so different. He'd lost something. Just not blood.
+
+She wrapped him in the sheepskin and both their cloaks. She melted snow in the iron pot and dripped water into his mouth a little at a time, and some of it went in. She cut up the last of the dried apples and the cheese from the innkeeper's sack and put them in the pot with more snow and let them stew, because hot and sweet was what the Dawnhold healers gave soldiers in shock. She sat beside him and felt his forehead every few minutes.
+
+And she listened.
+
+---
+
+He talked in the fever. Not much. Bits and pieces, mumbled, sometimes in words she knew and sometimes in what she guessed was the old tongue of the Tower, soft and flowing. Most of it meant nothing to her.
+
+"...Pell, don't... don't try it at home..."
+
+"...the river's so loud... why won't anybody *help*..."
+
+"...Mother... I wrote... every month I wrote..."
+
+She wet a rag in the snow-water and laid it on his forehead. He turned his face into it, the way a cat turns into a hand.
+
+Then, a little later, in a different voice, very clear, very tired:
+
+"...nine turns. Nine seasons. Two winters... if I'm boring..."
+
+Maren went still.
+
+"...I should've told her. I should have *told* her..."
+
+She sat very quietly by the fire and looked at him, and then she looked down at her own left wrist.
+
+Six turns of red thread, pulsing gently in the firelight.
+
+*Nine turns. Nine seasons.*
+
+*How much is a turn?*
+
+*Oh, a good deal. Rings are very generous.*
+
+She did the counting slowly, the way she would have done a sum for the quartermaster at Dawnhold. Nine seasons. Four seasons to a year. Two winters, and a little more.
+
+That couldn't be right. She was half asleep. He was half delirious. He was talking about something else, some old lesson from the Tower, some story she didn't understand. People said all kinds of things in fever.
+
+*Six turns,* she thought. *Six seasons.*
+
+She thought about the river standing up at Hollin's Ford, and the feeling of a whole year falling out of her down a well. She'd called it a year, in her head. She hadn't known why. It had just felt like the right size.
+
+She should wake him. She should shake him awake right now and make him look her in the eye and tell her the truth.
+
+She sat there with her hands clenched in her lap and didn't move.
+
+Because if she asked, he would answer. And she didn't know, sitting in the firelight in an empty shepherd's hut at the end of the world, whether she was brave enough to hear it.
+
+*Coward,* she thought.
+
+She put another log on the fire instead.
+
+---
+
+Sometime in the long dark of the night, she took out her father's sword.
+
+She didn't really know why. She unwrapped it from its oilcloth and laid it on the earth floor beside her own, the dead gray blade next to the living one. In the firelight, her own oath-steel glowed faintly, a soft pulse of light along the edge, like breath. Her father's sword lay beside it and did nothing at all.
+
+*Was he wrong?*
+
+She thought about Concord Keep. About two hundred people who had been friends, standing in a courtyard, looking at each other, while a voice from the shadows shouted *treachery,* and every single one of them believing it. Not one of them stopping to ask: *Are we sure? Who says so? How do we know?* Not one of them saying no.
+
+Her father had said no.
+
+He'd stood in the Dawnhold courtyard with the whole Order watching and said *no,* and lost everything. And Elmsby had burned anyway. And she had spent seven years telling herself that this proved he'd been a fool.
+
+But the courtyard at Concord Keep was full of people who'd said *yes.* Who'd done exactly what they were told, the instant they were told it. And all of them had died. And all of them had been wrong.
+
+She sat looking at the two swords until the fire burned low. Then she wrapped her father's up again and put it away. But she didn't put it as deep in the pack as before. She left it near the top.
+
+---
+
+When she woke, she didn't remember falling asleep.
+
+She was sitting up against the stone wall beside the dying fire, her head tipped against the rough rock, her neck stiff. Gray light was creeping in around the edges of the door. And her hand was warm.
+
+She looked down.
+
+At some point in the night, Emrys had stopped shivering, and his hand had found its way out of the sheepskin, and hers had found its way to it. Their fingers were laced together on the blanket. Left hand in left hand. Their two wrists side by side, the red threads almost touching.
+
+She could feel the heartbeat in his palm. Slow and even. Steady. A half-beat behind hers, and then not behind it at all.
+
+She should let go.
+
+His eyes were open.
+
+He was lying very still, looking at their hands. Then, slowly, he looked up at her. His face was pale and tired, and the silver in his hair had spread wider, a great sweep of it now, white as frost, falling across his forehead and over one eye. But his eyes were clear. The fever was gone.
+
+Neither of them let go.
+
+"You carried me," he said. His voice was a cracked whisper.
+
+"You weigh about as much as the mule's breakfast."
+
+"That's very hurtful. The mule eats a lot."
+
+She didn't smile. She felt it pulling at the corners of her mouth, and she didn't let it. "Don't do that again."
+
+"Which part?"
+
+"Any of it. Fainting. Fevers. Nearly dying." She looked down at their hands. "Opening doors in magic trees."
+
+"I'll try." His fingers tightened, very slightly, around hers. "I'm not very good at not doing things. You may have noticed."
+
+"I noticed."
+
+She had a question in her throat. It had been there all night. *How much is a turn, Emrys? Tell me the truth.* She could feel it there, sharp and hard, like a fishbone. She opened her mouth to ask it.
+
+"Thank you, Maren," he said softly. "For carrying me."
+
+She closed her mouth.
+
+The silver lock of hair had fallen down across his eyes. Without thinking, without deciding to, she reached out with her free hand and brushed it back off his forehead. Gently. The way you'd brush hair out of a child's eyes, or a friend's.
+
+Her fingers were resting against his temple before she understood what she'd done.
+
+She snatched her hand back as if she'd touched a hot pan. Heat poured up her neck into her face. She stared fixedly at the fire.
+
+Beside her, Emrys closed his eyes, and his breathing went slow and deep and even, exactly like a person falling asleep.
+
+He wasn't asleep. She knew he wasn't. He was pretending, on purpose, so she wouldn't have to look at him. So she could pretend she hadn't done it.
+
+It was the kindest thing anyone had done for her in years.
+
+She sat there and let him pretend. She didn't let go of his hand.
+
+---
+
+When the sun was up, she went outside to see to the horse.
+
+The air was sharp and clear and so cold it hurt to breathe. The brown hills ran south, rising and rising toward the white wall of the Greyspine. And there, at the foot of the mountains, where a long valley climbed up into the gap between two great peaks, she saw smoke.
+
+A lot of smoke. Dozens of thin gray columns, rising straight up in the still air. Cookfires. And even from here, even this far away, she could see the color of the banners on the slopes below the pass.
+
+On the western side of the valley: white and gold.
+
+On the eastern side: gray.
+
+Two camps, facing each other across the valley floor.
+
+Maren stood in the frozen grass with her hand on her sword, looking at the white and gold. Home. The Order. Sir Aldric, and the Heart, and her orders.
+
+Then she went back inside, to tell Emrys.
+
+### Chapter 16: Two Camps
+
+*Emrys*
+
+They had one horse between them, and the mule refused to be ridden on principle, so they rode double.
+
+"Hold on," said Maren, swinging up into the saddle in front of him. "Don't make it strange."
+
+"I would never make it strange."
+
+"You're already making it strange."
+
+He held on. He put his arms around her waist, carefully, the way you'd hold something that might bite, and she flicked the reins, and the bay started down the long brown slope toward the valley. Emrys was too tired to sit up straight. After the first mile, he gave up trying, and leaned his forehead against her back, against the rough padded cloth of her gambeson, and closed his eyes. She didn't tell him to stop.
+
+He could feel the heartbeat through her back. Theirs. And something else.
+
+It started as a hum in the ground. He felt it first in his teeth, then in his chest, a slow, deep, enormous *thud* that came up through the horse's hooves and the saddle and his own bones. Then a long pause, longer than any heartbeat should be. Then another *thud.*
+
+He lifted his head. "Do you feel that?"
+
+"Feel what?"
+
+So she didn't. Only him. He felt it again: *thud.* And his ember, his poor, battered, half-empty ember, leaped toward the sound like a dog hearing its master's voice. It *strained* toward it. He felt it pull in his chest like a hook.
+
+"The Heart," he said. "It's the Heart. I can feel it from here."
+
+Maren twisted in the saddle to look at him. "From *here?*"
+
+"It's like..." He groped for it. "Like standing on a beach with your eyes shut. You can't see the sea. You don't need to. You can feel how big it is."
+
+*A dragon's life is vast,* the Archmaster had said. *Older than this Tower. Deeper than the Sunder.*
+
+He felt it beat again, slow and huge, and his ember yearned toward it, and he understood for the first time why someone might want it badly enough to start a war.
+
+---
+
+They came down onto the valley floor a little before noon.
+
+The two camps lay at the head of the valley, on either side of the road that climbed up toward the pass. They'd been built to face each other, and they did, like two dogs with their hackles up. To the west, the knights: rows of white tents, a wooden palisade already half built, the sunburst banner snapping over all of it. To the east, the Tower: gray tents in neat squares, the hourglass banner, and around the edges, the faint shimmer in the air that meant wards had been laid. Between them lay a quarter mile of empty frozen ground that nobody from either side had set foot on. You could feel it, that empty space. It hummed like a drawn bowstring.
+
+And in the knights' camp, at the very center, under a canopy of white and gold, Emrys saw it.
+
+An iron box, on a wagon. Big as a coffin. Black iron, heavy, ugly, bound with bands and studded with rivets. Knights stood around it in a ring, facing outward, swords drawn. And above the box, rising from it into the cold still air, a shimmer, like the heat off a road in summer.
+
+*Thud.*
+
+"There it is," said Maren softly.
+
+They'd been seen. Of course they'd been seen. Horns were blowing in both camps. Riders were coming out, from both sides at once: a dozen knights in white and gold from the west, a dozen wizards in gray from the east, galloping across the empty ground toward the lone horse with two riders on its back.
+
+They met in the middle of the valley, and stopped, and drew up in two ragged lines facing each other with the bay in between. Swords came out on one side. Hands came up on the other, fire flickering pale in the palms.
+
+Emrys's teeth screamed with oath-steel. His ember shrank. Through Maren's back, he felt her heart start to pound.
+
+"*Holt!*" The knight at the front of the line was a big man with a voice like a rusty hinge. Emrys recognized him: the escort from the Neutral Stone, the one who'd told Maren not to do anything stupid. "Holt, get *away* from him! Get down off that horse!"
+
+"Calder!" That was Master Orrin, from the Tower, a thin, sharp man who'd taught Emrys his first wards. "Calder, come here at once!"
+
+"*Hold!*" shouted Maren.
+
+It came out of her like a trumpet. Every head turned. Even the horses' ears went forward.
+
+"Nobody touch anybody," she said into the silence. "We were attacked. In the March. Six nights ago. The Warden's escort is dead. All of them."
+
+"By *wizards,*" spat one of the knights. "We heard. Wizard fire..."
+
+"By *hirelings.*" Maren's voice cracked across the valley like a whip. "Sellswords. Dressed in our colors, Sir Bertram. In white and gold. Throwing bottled fire that *looked* like spell-fire and wasn't. Paid in Span silver. They weren't knights. They weren't wizards. Somebody paid them to look like *both.*"
+
+There was a murmur on both sides. Disbelief. Anger. Uncertainty.
+
+"That's a lie," said a young wizard behind Orrin.
+
+"I was there," said Emrys. He sat up straight behind Maren, though it cost him. "I was there, and it's true. I watched her cut their fire in half. I watched them die with your Order's colors on and no oath-steel in their hands, Sir Bertram. Every word she says is true. On my Spark, it's true."
+
+Master Orrin looked at him. Looked at his hair. Emrys saw the man's eyes go wide.
+
+"Calder," Orrin said slowly. "Your *hair.*"
+
+"Yes. I've been told. It's a bold new look."
+
+---
+
+There was no question of them staying together.
+
+He'd known that, really. He'd known it since they'd seen the smoke. But knowing a thing and watching it happen were not the same at all.
+
+Sir Bertram reached for Maren's bridle. Master Orrin reached for Emrys's arm. And for a long, strange moment, the two of them sat there on the bay in the middle of the empty ground with both their peoples pulling at them, and neither of them moved.
+
+"Well," Emrys said. "This is where we get off."
+
+He slid down out of the saddle. His legs nearly went out from under him when he hit the ground, and Orrin caught him under the arm. He shook him off, gently, and turned back to look up at Maren.
+
+She sat very straight in the saddle. Her face was the closed, hard, guarded face she'd worn at the Neutral Stone, the first day, before anything. But her left hand, resting on the pommel of the saddle, was pressed flat against her right wrist. Over the red thread. Holding it.
+
+He didn't know what to say. He, Emrys Calder, who always knew what to say, who had never once in his life run out of words: he stood in the frozen grass and looked up at her and couldn't find a single one.
+
+"Try not to miss me," he said finally.
+
+"I'll manage," said Maren.
+
+Then Sir Bertram took her bridle and turned the bay, and she rode away west toward the white tents. And she didn't look back.
+
+He watched her the whole way, anyway.
+
+---
+
+Master Orrin and the others walked him toward the gray tents. He let them. His legs were shaking. His chest ached. His ember was a hollow, guttering thing, half of it spent on doors and rivers and fires, and the Heart was beating somewhere behind him, slow and huge, *thud,* and his ember kept turning toward it like a flower toward the sun.
+
+At the edge of the Tower camp, he stopped and looked back across the valley.
+
+He could see the knights' camp clearly from here. He could see the bay, standing riderless by the palisade gate. And he could see Maren, small and straight in her plain quilted coat, standing in front of a man in white and gold.
+
+Even at that distance, Emrys knew who it was. He'd never seen him before. He didn't need to. There was only one man in the world who stood like a wall stands: iron-gray hair, iron-gray bearing, his whole body built like a fortress. Sir Aldric Fane, Knight-Commander of the Order of First Light.
+
+The Knight-Commander gripped Maren by both shoulders. Held her there, at arm's length, looking at her. Even from here, Emrys could see something like relief in the set of his body.
+
+Then he looked down. At her left hand.
+
+At the thread.
+
+He took her wrist and turned it up to the light, the way Emrys had done a dozen times. He stood very still, looking at it. And Emrys watched the relief go out of the man's body, all at once, like water draining out of a basin. Watched his back go rigid. Watched his face, even at that distance, go cold and hard and gray as iron in winter.
+
+The Knight-Commander raised his head, slowly, and looked across the empty valley, straight at the Tower camp.
+
+Straight at Emrys.
+
+Emrys didn't look away. He wanted to. He didn't.
+
+"*Emrys.*"
+
+The voice came from behind him. Quiet. Precise. Cold as the sky before snow.
+
+He knew it before he turned. He'd know it anywhere. He'd been afraid of that voice since he was six years old.
+
+He turned anyway.
+
+Archmaster Ysolde Crane stood at the entrance of the largest gray tent, her cropped white hair bright in the thin winter sun. She had come herself. All the way from the Tower of Hours, to the foot of the Greyspine. He hadn't known. Nobody had told him.
+
+She looked at him without speaking. At his face. At his hair, the great silver sweep of it, half his head gone white since she had last seen him in the Ledger Hall ten days ago. And then, slowly, her pale eyes moved down to his left wrist, to the six red turns of thread around it, glowing faintly in the cold.
+
+Her face didn't change at all. That was the most frightening thing about it.
+
+"Emrys," said the Archmaster. "What have you done?"
+
+---
+
+*End of Part Two*
+
+## Part Three: The Broken Oath
+
+### Chapter 17: The Reliquary
+
+*Maren*
+
+Sir Aldric's command tent smelled exactly like his solar at Dawnhold: ink, cold ashes, sword oil. For one dizzy moment, standing just inside the flap with the canvas walls snapping in the wind, Maren felt as if the last nine days had never happened. As if she'd walk out of this tent and into the practice yard and find the frost still on the sand.
+
+Then she looked down at her wrist, and the moment passed.
+
+"Sit," said Sir Aldric.
+
+She sat. He didn't. He stood at the tent's small brazier with his back to her, the way he'd stood at his window the morning he gave her the orders, and she told him everything.
+
+She told him about the Neutral Stone and Captain Dace and the light on the ridge that wasn't shepherds. About the attack in the hollow, the white and gold tabards, the bottled fire, the knife. About waking up with the thread. About Hollin's Ford and the dying man in the cellar who'd bitten down on poison rather than say a name. *The Ferryman.* About the Hollowwood.
+
+She hesitated there. Then she told him that too. The echoes. The feast. The knight and the wizard in the tower with the map of the Sunder. The courtyard full of friends, and a voice from the shadows shouting *treachery.*
+
+"There's a carving," she said, "over the gate at Concord Keep. Our oath. The first line. Except it doesn't say *By steel and by dawn.* It says *By steel and by flame.*"
+
+Sir Aldric didn't move.
+
+"Sir," said Maren. "Did you know?"
+
+For a long moment, there was only the wind, and the snap of the canvas, and the small hiss of the coals.
+
+"Every Knight-Commander knows," he said at last, without turning around. "It's in the private histories. The ones the squires don't read." He turned then, and his iron-gray eyes were steady. "After the Betrayal, the Order changed the oath. So that no knight of First Light would ever again swear by the wizards' flame. It was the right decision."
+
+"We were *allies,*" Maren said. "Sir. For years. We trained together. We ate together. They were *friends,* and..."
+
+"And then they murdered us." His voice didn't rise. It didn't need to. "Whatever we were before, Holt, it ended in that courtyard. You saw it yourself, you've just told me so. Three hundred years of war is not a misunderstanding. It's a lesson. The lesson is that you cannot trust them."
+
+She thought about the voice in the doorway. *The ferries have served this family for a hundred years.* She thought about the little carved boat under the dagger's crossguard. She opened her mouth to tell him that too.
+
+He crossed the tent in two strides and took her left wrist, the way he had outside, and turned it up to the light.
+
+"Tell me about *this,*" he said quietly.
+
+---
+
+He listened to the rest without interrupting. She explained it as Emrys had explained it to her: one life, shared. If one died, both died. Every spell he cast spent from both of them. She didn't tell him about the fever, about *nine turns, nine seasons.* She didn't know how. She didn't know if it was true.
+
+When she finished, Sir Aldric let go of her wrist and stood looking down at her with an expression she'd never seen on his face before. It took her a moment to understand that it was anger, and that it wasn't for her.
+
+"He's put a leash on you," he said.
+
+"Sir, he saved my *life.*"
+
+"He made you his shield." The words came out low and hard. "Think, Holt. *Think.* He's the Tower's prodigy. Their great weapon. The one person in the world we'd have most reason to kill if the peace fails. And now, by sheer coincidence, his life is tied to the life of a knight. If he dies, you die." He shook his head slowly. "It's clever. I'll give the boy that. It's very, very clever."
+
+"That isn't what happened."
+
+"Isn't it?"
+
+"I was *dying,* sir. He could have left me. He could have ridden for the Ford. He..."
+
+She stopped. She heard her own voice, rising, and stopped it. She'd never once in seven years raised her voice to Sir Aldric Fane.
+
+He watched her. Then something in his face eased, very slightly.
+
+"You've been through a great deal," he said. "Alone, in enemy company, for nine days. It's natural to... feel things. For whoever's beside you in the dark." He put his hand on her shoulder, heavy and warm, the way he had in his solar. "That's why I'm glad you're home."
+
+*Home.* She looked down at the thread and didn't say anything.
+
+"And you needn't worry about the leash," Sir Aldric went on. "We can cut it."
+
+Her head came up.
+
+"The Heart," he said. "Its fire unmakes any spell. Any spell at all. That's what it *is,* Holt. That's what dragonfire does. When the time comes, we'll hold that thread to the flame, and it'll burn away like a cobweb, and you'll be free."
+
+Free. She tried the word in her head. It felt strange, like a key that should fit a lock and somehow didn't.
+
+"When the time comes?" she said.
+
+"When the treaty fails."
+
+"Will it fail?"
+
+He let go of her shoulder and went back to the brazier.
+
+"The Tower demands that the Heart be *shared,*" he said. "As a condition of peace. That every wizard of the Tower be allowed to draw on it. Do you understand what that means? Wizards who don't burn their own lives to cast. Wizards who never tire, never age, never stop. One spell from that boy of theirs held back a river. Imagine a thousand of them, casting all day and all night, forever, for free." His jaw tightened. "We'd be ash inside a year. Every one of us. And they know it. That's why they're asking."
+
+"Maybe that's not why."
+
+He looked at her sharply.
+
+"Maybe," Maren said carefully, "they're tired of their children going gray at eleven."
+
+The silence went on a long time.
+
+"We've been talking here at the pass for two days," Sir Aldric said finally. "The Archmaster and I. Before we even go on to the Span. There's no point dragging the Heart across the Sunder if we can't agree here. And we can't agree." He looked at the tent wall, as if he could see through it, across the valley, to the gray tents on the other side. "There's a storm coming over the Greyspine. A bad one. The scouts say it'll hit tomorrow night. We'll be snowed in here for a day, perhaps two. After that..." He shrugged. "After that, we'll see."
+
+---
+
+Before she left, he did two things.
+
+First, he gave her a new tabard. White and gold, the sunburst bright on the chest, crisp from the quartermaster's chest. "You can't walk around my camp looking like a farmhand," he said, almost kindly.
+
+She put it on. It fit perfectly. It felt like wearing someone else's skin.
+
+Then he took her to see the Heart.
+
+---
+
+It was kept in its own tent at the center of the camp, under a canopy of white and gold, with eight knights standing guard in a ring around it, swords drawn and facing outward. They saluted when Sir Aldric came through. They looked curiously at Maren and the red mark on her wrist, and quickly away.
+
+Inside, the tent was warm. Warm as summer. Warm the way the air is warm near a forge. The iron reliquary sat on its wagon in the center, as long and heavy as a coffin, black iron banded and riveted. Heat came off it in slow shimmering waves.
+
+*Thud.*
+
+She felt it this time. Through the soles of her boots. Through her chest. Slow and enormous.
+
+Sir Aldric nodded to the knight-chaplain, an old man with a scarred face, who stepped forward and slid back a small panel in the lid of the reliquary. Behind it, there was a grille of thick iron bars. And behind the bars...
+
+Maren had imagined it all her life. She'd imagined something like a heart: red, meaty, pulsing. It wasn't like that at all.
+
+It was like looking into the inside of a garnet. A great dark-red shape, the size of a small keg, smooth and faceted and glowing from within, as if a fire burned somewhere deep in its core. As she watched, the glow brightened slowly, slowly, to a deep, pulsing crimson. *Thud.* Then faded, slow, slow, back to a dull ember-red.
+
+It was alive. She could feel that it was alive, the way you can feel that someone is in a dark room with you. Old. Unimaginably old. And very, very tired.
+
+At her hip, her sword blazed.
+
+She hadn't drawn it. It blazed anyway, inside the sheath, so bright that light leaked out around the throat of the scabbard and lit her hand gold. She pulled it out without meaning to, and the oath-steel was *singing,* light pouring up and down the edge like water in a fountain, brighter than she had ever seen it, brighter than when she'd cut the fire in the hollow.
+
+"Yes," said Sir Aldric softly. "It knows."
+
+"Knows what, sir?"
+
+"Its own fire." He looked at the blade in her hand, and something in his iron face softened. "Every oath-blade ever made by the Order was quenched in the Heart's fire on the day it was forged, Holt. Yours. Mine. Your father's. That's why oath-steel can cut a spell, and why dragonfire can't harm it. They're kin. The Heart is where it all comes from."
+
+She stood there with her singing sword and the slow red light of the Heart falling across her face, and something in her chest went very quiet.
+
+*Your father's.* Her father's dead blade, wrapped in oilcloth at the top of her pack, had once blazed like this too. Had once been quenched in this same fire.
+
+The chaplain slid the panel closed. The glow vanished. Her sword dimmed, slowly, reluctantly, to its usual soft pulse.
+
+Outside the tent, Sir Aldric walked with her as far as the edge of the knights' lines, where the palisade ended and the empty ground began. The sun was going down behind the Greyspine, and the valley was filling up with blue shadow.
+
+"At Midwinter," he said, "you'll kneel. On the Span, in front of both nations. Just as I promised you." He put his hand on her shoulder one last time. "Remember your orders, Holt."
+
+"Sir," she said. "If the treaty fails. And you cut the thread with the Heart's fire. And I'm free." She made herself say the rest. "Then you want me to kill him."
+
+His hand didn't move.
+
+"I want you to do your duty," said Sir Aldric Fane. And he turned and walked back into the camp.
+
+---
+
+She stood at the edge of the palisade until it was full dark.
+
+Across the valley, the Tower camp was a scatter of pale lights: lanterns, and the faint blue shimmer of wards. And at its very edge, on the side nearest the empty ground, nearest to her, there was one light by itself. A single lantern, set down on a rock, burning steady. Nobody near it that she could see.
+
+She didn't know if it was his.
+
+She stood and looked at it anyway, until her feet went numb, with her new white tabard bright in the dark and her hand pressed flat over the thread on her wrist. Under her palm, the heartbeat went on. Steady and patient. A half-beat behind her own.
+
+Then, after a long time, not behind it at all.
+
+### Chapter 18: The Arithmetic
+
+*Emrys*
+
+The Archmaster's tent was the plainest in the Tower camp. That was very like her. A cot, a camp chair, a folding table with a lamp on it, a brazier, and a small iron-bound chest with a lock that Emrys could have opened in about four seconds and would never, ever have dared to touch.
+
+She sat in the chair. She didn't offer him anything. He stood.
+
+"Give me your wrist," she said.
+
+He gave it to her.
+
+Her fingers were cold and dry and very strong. She turned his hand palm up under the lamp and studied the red thread, not touching it, just looking, the way she looked at a page in the Ledger. Then, delicately, with one fingertip, she touched the outermost turn.
+
+He felt it. A tiny tug, deep in his chest. Across the valley, he thought, Maren had probably felt it too.
+
+"The Shared Span," said Archmaster Crane. "Forbidden two hundred and six years ago, by order of the Ninth Archmaster, after three apprentices died trying to cast it." She let go of his hand. "You read it in the Locked Hours."
+
+"Yes."
+
+"Of course you did. You've been picking that lock since you were thirteen." She sat back in her chair. "Did you think I didn't know?"
+
+He hadn't thought about it at all. Now he did, and felt a little sick.
+
+"Tell me," she said.
+
+So he told her. Not everything. He didn't tell her about the echoes, or the dagger in his waistcoat with the boat carved under the crossguard, or about the shepherd's hut and a hand brushing his hair back off his forehead. But he told her about the attack. The bottled fire. The knife. Maren on the ground with her life pouring out of her onto the March. The page in his head.
+
+"She was dying," he finished. "There was nothing else."
+
+"There was a great deal else," said the Archmaster. "You could have let her die."
+
+He didn't answer that.
+
+She looked at him for a while. The lamp hissed softly. Outside, the wind was rising, pulling at the canvas.
+
+"Shall I do the arithmetic for you?" she said. "Or would you rather do it yourself?"
+
+"I've done it."
+
+"Then say it out loud."
+
+He looked at the floor of the tent. At the frozen ground under the canvas. "Before I cast it," he said, "I had nine seasons. Maybe ten. My ember was..." He touched his chest. "It was low. After Merrow. You know that. You've known since I was twelve."
+
+"I have."
+
+"She was dying. Her life was going out. So I gave her mine. Tied her to it." He made himself say the rest. "So now she's living on *my* life. Not hers. Mine. The nine seasons I had. And I've spent three of them since. On fires and rivers and doors. And she felt every one of them go."
+
+"Six turns," said the Archmaster quietly. "A year and a half. For both of you. And every spell you cast from now on spends it faster."
+
+"I know."
+
+"Does she?"
+
+The wind pulled at the tent.
+
+"No," said Emrys.
+
+---
+
+For a long time, neither of them spoke.
+
+Then the Archmaster leaned forward and put her elbows on her knees, which he had never once seen her do, and said, in a voice that was almost gentle, "Do you know what her own life would have been? The girl's?"
+
+He shook his head.
+
+"Long," she said. "I watched her walk into the knights' camp this afternoon. I watched how she moved. That knife wound has healed clean. Your binding healed it, poured your life into it until it closed. She's young and strong and stubborn. If she were her own again, if she weren't tied to *you,* she would live sixty years. Seventy. She'd be an old woman, with grandchildren, telling them stories about the time she rode through the Hollowwood with a wizard." The pale eyes held his. "Instead, she has a year and a half. Because of you."
+
+He'd known that. He'd known it every night since the March. He'd done the arithmetic over and over in the dark until the numbers wore grooves in his head. But hearing it out loud, in the Archmaster's cold, careful voice, in this plain tent, was like being struck.
+
+"If the thread were cut," the Archmaster went on, "her body would take back its own years. All of them. And you would keep whatever's left of yours. Which, I'm sorry to say, wouldn't be much."
+
+"It can't be cut. That's the whole... It's a stitch, not a knot. You can't pull it out without..."
+
+"Not with magic, no. Not with steel." She tilted her head. "Dragonfire unmakes any spell, Emrys. That's the oldest thing we know about it. That's why the knights quench their swords in it. That's why it's worth three hundred years of war."
+
+*Thud.* He felt it, far away across the valley. The Heart, beating. His ember turned toward it, aching.
+
+"Hold the thread to the Heart's fire," said the Archmaster, "and it burns away like a hair in a candle. And she lives."
+
+---
+
+"The talks are finished," she said, a little later. She'd gotten up and gone to the brazier, and stood with her thin hands held out to the coals. "Fane will never agree to share the Heart. Not today, not at the Span, not ever. He'd sooner throw it into the Sunder. Tomorrow or the next day, the knights will pack up their precious box and march back to Dawnhold, and we'll march back to the Tower, and the war will start again exactly where it left off. Except that this time, both sides will be telling everyone that the other attacked the hostages." She turned her head. "Unless."
+
+He knew what she was going to say. He'd known since the Ledger Hall.
+
+"There's a storm coming over the Greyspine," she said. "It'll hit tomorrow night. Snow, wind, no visibility. Every guard in that camp will be huddled in his cloak with his back to the weather, praying for dawn. That's when you go."
+
+"And do what? Walk into the middle of a knights' camp and pick up a box the size of a coffin?"
+
+"The Heart isn't the box. The box is just iron. The Heart is small enough to carry, if you're strong enough. And you'll have help." She nodded toward the tent flap. "Master Orrin will be waiting at the edge of their lines with a sledge. You only have to get it out of the tent."
+
+"There are eight knights around that tent. With oath-steel."
+
+"There are eight knights around that tent who've been told that the girl tied to you is under the Knight-Commander's protection. They know your face now. They know you're bound to her. They won't strike first at someone whose death would kill one of their own." Her mouth thinned. "You've made yourself very hard to kill, Emrys. It's the one sensible thing you've done all month."
+
+He thought about that. He hated that she was right.
+
+"And then?" he said. "When I've got it?"
+
+"Then you burn the thread in its fire. The girl goes free. And you bring the Heart to me, and I keep my promise. I strike your debt, every line of it. You get your star." She came back from the brazier and stood in front of him. "And every child in the Tower of Hours, every first-year who'll ever walk through that gate, gets to cast without burning their own life away. Do you understand? *Every one of them.* No more feasts for eleven-year-olds who've just given up four years. No more gray hair on children. No more Ledger. That's what's in that iron box."
+
+*Pell,* he thought. Freckled, eleven, still saying please to the doors.
+
+"Pell asked after you," said the Archmaster, as if she'd heard him. "Every single day since you left. He wanted to know if you'd made any more trees bloom."
+
+He closed his eyes.
+
+"Do you know how many children I've watched go gray, Emrys?" Her voice had dropped, almost to a whisper. "I've been Archmaster for eleven years. I've signed every page in that Ledger. Every single cost. Every hour, every day, every year spent. I've watched them come in at six, bright as sparks, and go out at thirty looking sixty. I've buried more of them than Fane has buried knights." She drew a breath. "If you think I want the Heart so that I can conquer Dawnhold, you don't know me at all."
+
+He opened his eyes and looked at her. And he saw, for the first time, that she was tired. Not just tonight. Tired all the way through. As tired as the Heart.
+
+"You care for the knight's girl," she said.
+
+It wasn't a question. He didn't deny it.
+
+"Good." She stepped back. "Then you have two reasons instead of one. Two reasons make steady hands."
+
+---
+
+He walked out of her tent into the dark and the rising wind, and didn't go back to the tent they'd given him.
+
+Instead, he went to the edge of the camp. The eastern edge, where the gray tents ended and the empty frozen ground began, a quarter mile of it, stretching away toward the white palisade and the white tents on the other side. He took a lantern from a peg as he passed and nobody stopped him.
+
+He set the lantern down on a flat rock at the very edge of the camp and stood beside it.
+
+He didn't know why. It was a stupid thing to do. It wasn't a signal. She wouldn't know it was him. She probably wasn't even looking.
+
+But when he lifted his eyes, there was someone standing at the end of the knights' palisade, across the valley. A small, straight figure, alone. He couldn't see her face. He couldn't see anything but the shape of her, dark against the white tents, and a faint pale gleam that might have been a new tabard.
+
+He knew it was her. The way you know your own handwriting.
+
+They stood there, the two of them, a quarter mile apart, on opposite edges of three hundred years, and didn't move.
+
+He'd do it. He knew that now. He'd go into the knights' camp tomorrow night, in the storm, and take the Heart. Not for the star. Not even for the Tower. For the thread. He'd hold it to the fire and burn it away and give her back her sixty years, her seventy, her grandchildren, all of it.
+
+And then he'd tell her the truth. When it couldn't hurt her anymore.
+
+He'd lose her, probably. She'd never forgive him for the lie, or for the theft, or for being the wizard who'd almost stolen her whole life without asking. But she'd be *alive.* She'd be old. She'd tell stories.
+
+That would have to be enough.
+
+Across the valley, the small figure at the palisade turned, and walked away into the white tents, and was gone.
+
+Emrys stood by his lantern a while longer, with his hand pressed over the thread on his wrist, feeling the heartbeat in it. Theirs. Then he picked up the lantern, and blew it out, and went to bed, and didn't sleep at all.
+
+### Chapter 19: The Stream Between the Camps
+
+*Maren*
+
+She went out to the practice ground before dawn, the way she always did.
+
+There was no proper yard in the knights' camp, only a trampled square of frozen mud behind the horse lines, but it was cold enough and empty enough, and that was all she needed. She drew her sword in the dark and said the oath.
+
+"By steel and by dawn, I swear."
+
+*Flame,* said a voice in the back of her head. *It used to say flame.*
+
+She cut, high to low. Light ran along the edge.
+
+"I will shield the weak and spare the innocent."
+
+*Tamsin, barefoot in the mud, with a coin in her pocket.*
+
+"I will obey my Order without question."
+
+The line stuck in her throat. She'd never felt that before. Seven years, every morning, and it had always gone down smooth and clean, the easiest line in the oath. This morning it caught, like a bone, and she had to push it out.
+
+She finished the oath. She finished the drill. When she turned around, there were four knights standing at the edge of the practice ground, watching her, arms folded. Young ones, a year or two past their swearing. She knew them all. She'd scrubbed floors next to two of them.
+
+Nobody said anything. They just looked at her wrist. Then at each other.
+
+"What?" Maren said.
+
+"Nothing," said one of them. "Wizard-bound." And they walked away.
+
+---
+
+It went on like that all day.
+
+She hadn't expected a welcome. She'd been the disgraced knight's daughter at Dawnhold for seven years. She knew what it was to have people stop talking when you came into a room. But this was different. At Dawnhold, they'd talked about her father. Here, they talked about *her.* She heard it everywhere she went, behind tent flaps, around the cook-fires, at the horse lines. *Wizard-bound.* *Tied to the Tower's boy.* *Can you trust her? Whose side is she on now?*
+
+At midday, Sir Bertram found her mending a strap in the lee of the supply wagons and stood over her, chewing his lip.
+
+"Holt," he said finally. "You're a good squire. You always were. Best I ever trained."
+
+She looked up, surprised. Sir Bertram had never in his life said anything nice to anybody.
+
+"But the men don't trust you," he said. "Not with that on your wrist. I'm not saying I agree with them. I'm saying watch yourself."
+
+"Yes, sir."
+
+He went away. She sat there with the strap in her hands and found she couldn't remember what she'd been doing with it.
+
+All day, the sky in the west got heavier. The peaks of the Greyspine disappeared one by one into a wall of cloud the color of old iron. The wind came in gusts, then steadily, cold enough to make her eyes water. By late afternoon, the first flakes of snow were drifting down, small and dry and hard, like salt.
+
+At dusk, Sir Aldric sent for her.
+
+---
+
+He didn't make her sit this time. He came straight to it.
+
+"The talks are over," he said. "The Archmaster and I met for the last time this afternoon. She won't give up her demand, and I won't give her the Heart. There's nothing more to say." He looked at her steadily. "When the storm passes, we march for Dawnhold. At dawn tomorrow, the Tower will be informed that the Order of First Light no longer considers itself bound by any truce."
+
+Maren stood very still.
+
+"Tonight," Sir Aldric went on, "at midnight, while the storm's at its worst and the Tower can't see what we're doing, you'll come to the Heart's tent. The chaplain will be waiting. He'll open the reliquary, and you'll hold your wrist to the fire, and that leash will burn off you like a cobweb." His face softened, very slightly. "You'll be free, Holt. Your own woman again."
+
+"And at dawn," Maren said.
+
+"At dawn, the treaty is dead." He didn't look away. "And you'll do your duty."
+
+*If the treaty fails, the wizard does not return to his Tower.*
+
+There it was. Simple. Clean. No corners.
+
+She thought about the courtyard at Concord Keep, and two hundred friends turning on each other because a voice in the dark told them to. She thought about her father's dead blade, wrapped in oilcloth at the top of her pack. She thought about a thin hand in hers, in a shepherd's hut, and a silver lock of hair falling across closed eyes, and someone pretending to be asleep so she wouldn't be embarrassed.
+
+"Yes, sir," said Maren Holt.
+
+She didn't know, as she said it, whether it was true.
+
+---
+
+She went out into the snow.
+
+She didn't decide to. She just found herself walking, past the cook-fires, past the horse lines, past the last of the white tents, to the gap at the end of the half-built palisade. Nobody stopped her. Nobody was looking. Everyone had their backs to the wind and their heads down, hurrying to get under canvas before the real storm hit.
+
+Then she was out on the empty ground.
+
+The quarter mile between the two camps. The bowstring. Nobody had set foot on it since the camps were built. The snow was coming thicker now, slanting in from the west, and the lights of both camps were already blurring behind her and ahead of her, gold and blue, like lamps seen through frosted glass.
+
+In the middle of the empty ground, there was a dip. A shallow hollow in the valley floor, with a thin frozen stream running along the bottom of it, the ice gray and cracked. From down in the hollow, you couldn't see either camp. And neither camp could see you.
+
+He was already there.
+
+He was sitting on a flat rock by the frozen stream, with his knees drawn up and the green scarf wound around his neck and a borrowed Tower coat that didn't fit him, too short in the arms. Snow was collecting on his hair, on the silver and the black alike. He looked up when she came down the bank, and he didn't look surprised at all.
+
+"I thought you might come," he said.
+
+"How?"
+
+"I don't know." He shrugged. "I came anyway. I was going to wait an hour. Then another hour. Then probably all night." He looked at her new tabard. "That's very white."
+
+"Sir Aldric gave it to me."
+
+"It suits you." He tilted his head. "It doesn't, actually. You looked better in the farmhand coat."
+
+She sat down on the rock beside him. Not touching. A hand's width apart. The snow fell between them.
+
+---
+
+For a while, neither of them said anything.
+
+Then he reached into his coat and took out a bundle wrapped in green wool. He unwrapped it and laid it across his knees: the rusted dagger from the prince's tomb. The sunburst on the pommel. The little carved boat, hidden under the crossguard.
+
+"I keep looking at it," he said. "I keep thinking there's something I'm missing."
+
+"Sir Aldric knew," Maren said. "About the oath. *By steel and by flame.* The Order changed it on purpose, after. Every Knight-Commander knows. They just don't tell the squires."
+
+He looked at her.
+
+"He said we can't trust you. That three hundred years of war isn't a misunderstanding, it's a lesson." She heard her own voice go thin. "He said it like he was sure. He's always sure. I've never once heard him not be sure."
+
+"And the Archmaster thinks your Order would throw the Heart into the Sunder before they'd let a single first-year cast without burning." He turned the dagger over in his hands. "Everybody's so *sure.*"
+
+"The man in the doorway was sure, too," said Maren. "*Treachery.* He shouted it like he was sure."
+
+They sat with that. The snow came down. The wind hissed through the dry grass at the edge of the hollow.
+
+She wanted to tell him. She could feel it in her chest, pushing to get out. *Don't be in the knights' camp tonight. Don't come near me tomorrow. At dawn, they'll tell me to kill you, and I don't know what I'll do.* But it was her orders. It was Sir Aldric. It was the oath. *I will obey my Order without question.* She'd never told anyone her orders. She'd burned them, both times, the way she'd been told.
+
+Beside her, she felt him draw in a breath, the way a person does when they're about to say something hard. She waited.
+
+He let it out again, slowly, and didn't say anything.
+
+She knew, then, that he had something too. Something he'd been carrying since the March. She thought of *nine turns, nine seasons,* in a fevered voice in the firelight, and she opened her mouth to ask him, finally, straight out.
+
+"Maren," he said, before she could. "Can I ask you something?"
+
+"You always ask that."
+
+"I'll ask anyway." He wasn't looking at her. He was looking at the thread on his wrist. "If you could cut it. The thread. If someone handed you a way, right now, tonight, to be free of it, to be your own again." His voice was very careful. "Would you?"
+
+She thought about it. She thought about it the way she'd been taught to think about everything: carefully, honestly, all the way through.
+
+Free. Her own heartbeat, alone in her chest. No second rhythm, no half-beat behind. No wondering, every time she felt something about him, whether it was really *her* feeling it, or just the thread. No one to call her wizard-bound. Free to choose.
+
+Free to choose *him,* if she did. Or not. Without magic deciding for her.
+
+"Yes," said Maren.
+
+He went very still.
+
+"I think I would," she said. "I want to know what I'd... I want to know what I'd do if it were just me. Without it. I want to *know.*"
+
+She meant: *I want to know I'd still choose you.*
+
+She heard, as soon as the words were out, how they sounded instead.
+
+"Good," said Emrys quietly. He was smiling. It wasn't his real smile. It was the one from the Neutral Stone, the bright one, the one that was all surface. "That's good. That's honest. I'd want the same thing." He wrapped the dagger back up in the scarf, carefully. "Then I hope you get your wish."
+
+"Emrys, that's not what I..."
+
+The storm hit.
+
+It came down the valley like a wall. One moment, there was snow falling. The next, there was nothing *but* snow: a roaring white blindness, wind so hard it shoved her sideways off the rock, cold so sharp it stopped her breath. The far bank of the hollow vanished. Emrys vanished, two feet away. She grabbed for him and caught his sleeve.
+
+"*Go back!*" he shouted, close to her ear, his voice nearly torn away by the wind. "Go back to your camp! Now! Before you can't find it!"
+
+"Emrys..."
+
+"*Go!*"
+
+She was still holding his sleeve. She held it one more second.
+
+"Stay in your camp tonight," she shouted back. "Whatever happens. Promise me. Stay *there.*"
+
+There was a pause. In the roaring white, she couldn't see his face.
+
+"I'm not very good at staying," he said.
+
+And then his sleeve pulled out of her hand, and he was gone into the storm.
+
+---
+
+She found the palisade by walking into it.
+
+She followed it along, hand over hand, the wood rough and icy under her gloves, until she came to the gap, and went through, into the knights' camp. It was a different place now. A world of white noise and blurred shapes. Tents shuddering and booming in the wind. Lanterns swinging, their light thrown wildly across the snow. Somewhere a horse was screaming. Somewhere, a man was shouting for someone to secure a line.
+
+At the center of it all, the canopy over the Heart's tent was snapping and cracking like a sail in a gale. The eight knights stood around it in their ring, hunched against the wind, swords drawn, shapes of white and gold half buried in snow.
+
+It was nearly midnight.
+
+Maren pulled her new white cloak tight around her shoulders, and put her hand on her sword hilt, and walked toward the Heart.
+
+### Chapter 20: Both Secrets
+
+*Emrys*
+
+Master Orrin was waiting at the edge of the Tower camp with a sledge, two shivering apprentices, and a face like a man about to be sick.
+
+"The Archmaster says go now," he shouted over the wind. "While it's at its worst. We'll be here. Don't come back without it."
+
+Emrys didn't answer. He walked past them, out onto the empty ground, into the white.
+
+He couldn't see anything. That was the first thing. He couldn't see his own hand in front of his face. The snow came at him sideways, out of nowhere, stinging, blinding, and the wind roared so loud that he couldn't hear his own feet. Within ten steps, he'd lost the Tower camp behind him. Within twenty, he had no idea which way he was facing.
+
+It didn't matter.
+
+*Thud.*
+
+He stopped, and closed his eyes, and turned his face slowly, like a sunflower, until the beat was straight ahead of him.
+
+*Thud.*
+
+The Heart. Calling across the valley like a bell. His ember strained toward it so hard it hurt. He didn't need eyes. He'd never needed eyes. He put his head down into the wind and walked toward the sound, the way you'd walk toward a fire in a dark house.
+
+He didn't think about Maren. He'd decided he wasn't going to think about Maren until it was done. He'd decided that so firmly, so many times since the hollow by the stream, that he was nearly sure it was working.
+
+*Yes. I think I would.*
+
+He walked faster.
+
+---
+
+The palisade loomed up out of the white so suddenly he nearly walked into it. He followed it along until he found a place where the logs hadn't been set yet, a gap between two posts, and slipped through.
+
+The knights' camp was chaos. Tents shuddering and booming. Lanterns swinging wildly on their poles, throwing light in mad arcs across the snow. Men shouting to each other over the wind, invisible. Nobody saw him. Nobody was looking. He went between the tents with the Heart drawing him on like a fish on a line, and the closer he got, the stronger it pulled, until he could feel it in his teeth, his ribs, the soles of his feet. *Thud.* And his teeth started to sing with oath-steel. Eight blades, close by.
+
+There. The canopy, cracking like a sail. The ring of guards: eight hunched white shapes in the snow, facing outward, backs to the tent, swords drawn, heads down against the storm.
+
+They were watching the front. He went around the back.
+
+The tent's rear wall was pegged deep into the frozen ground, the canvas taut and humming. He dug at the bottom edge with his bare fingers until he'd made a gap, lay flat on his stomach in the snow, and wriggled through.
+
+Warmth hit him like a wave. After the storm, it was like falling into a bath. He lay there for a moment on the warm, trampled ground inside, just breathing.
+
+Then he lifted his head.
+
+The reliquary was open.
+
+Not just the little panel in the lid. The whole lid, swung back on its great iron hinges. And inside the black iron box, resting on a bed of something that looked like ash, lay the Heart. Dark red. Faceted. Glowing from within, slowly brightening. *Thud.* Slowly fading. Heat poured off it. His ember leaped toward it so hard it almost lifted him off the ground.
+
+And standing beside it, with her back to him, her white cloak wet with melting snow and her sword drawn, was Maren.
+
+---
+
+She turned at the sound of him getting up.
+
+He saw it all go across her face in less than a heartbeat: alarm, recognition, confusion, and then something much worse.
+
+"*Emrys?*"
+
+He couldn't think of anything to say. He stood there with snow on his shoulders, caught. Completely caught.
+
+"What are you doing here?" Her voice was low and shaking. The point of her sword had come up, without her seeming to notice.
+
+He could lie. He'd been lying his whole life. He was very, very good at it.
+
+He looked at her face and found he couldn't.
+
+"I came for the Heart," he said.
+
+She stared at him.
+
+"To steal it," she said slowly.
+
+"Yes."
+
+"For your Tower. For your *Archmaster.*" Her voice cracked on the word.
+
+"For you."
+
+"*What?*"
+
+"Its fire." He took a step toward the iron box. Her sword came up another inch, and he stopped. "Dragonfire unmakes any spell, Maren. It can cut the thread. That's why I'm here. To cut it. To give you back..."
+
+"I *know* it can cut the thread." She laughed, a horrible short sound. "That's why *I'm* here. Sir Aldric sent me. At midnight. The chaplain's gone to fetch the oil for the rite. He was going to open the box and hold my wrist to the fire and burn it off me like a cobweb, and then..."
+
+She stopped.
+
+"And then," said Emrys.
+
+She didn't answer.
+
+He looked at her. At the white tabard. At the sword in her hand, pointed at his chest. At her face, which had gone completely still, the way it had in the Neutral Stone, the first day, before anything.
+
+"And then at dawn," he said slowly, "the treaty's dead. And you have your orders."
+
+Her eyes went wide. "How do you know about my orders?"
+
+"The letter. In the Hollowwood. *My commander's blessing.*" He heard his own voice, strange and flat. "You're a terrible liar, Maren. Your ears go red. They went red then. What were they? The orders. Tell me."
+
+She told him. She said it in a voice like a stone falling into a well.
+
+"*If the treaty fails, the wizard does not return to his Tower.*"
+
+The Heart beat. *Thud.* Red light rose and fell across both their faces.
+
+Emrys laughed. He couldn't help it. It came out of him cracked and awful.
+
+"You were sent to kill me," he said.
+
+"*Before.*" Her voice broke. "Before I knew you. Before the March, before..."
+
+"And now?"
+
+She opened her mouth. Nothing came out.
+
+He waited. He gave her a long time. She didn't answer.
+
+"Well," Emrys said. "I suppose that's fair." He pushed his hands into the pockets of his too-short borrowed coat to stop them shaking. "Because I was sent to rob you. The Archmaster's orders. At the Span, at the summit, when they set the Heart on the table in front of us all. Steal it. Bring it home. In exchange, she wipes my debt clean, every line of it, and gives me my Master's star." He tried to smile. "So we're even. You were going to kill me, and I was going to rob you blind. Isn't that romantic."
+
+Maren had gone white.
+
+"The whole road," she whispered. "The whole way. The March, the Ford, the Hollowwood. You were planning to steal from us."
+
+"Yes."
+
+"And you never said."
+
+"Neither did you."
+
+---
+
+The tent was very quiet. Outside, the storm roared. Inside, there was only the slow, enormous beat of the Heart.
+
+"Then why tonight?" she said finally. "You said *for you.* Why?"
+
+He'd known this was coming. He'd known since the Archmaster's tent, since the shepherd's hut, since the March. He'd known since the moment the thread finished drawing itself around his wrist. He had imagined this moment a hundred different ways, at night, staring at the dark, and in none of them had he ever found the right words.
+
+So he just said it.
+
+"Because you're living on my life."
+
+She didn't move.
+
+"When I cast the binding, you were dying. You had nothing left. So I tied you to *me.* To my life. Not yours. Mine." He pulled his left hand out of his pocket and held it up between them, the wrist turned to the red light, six thin turns of thread glowing on it. "And I didn't have much. I haven't had much since Merrow. Nine seasons, when I cast it. Two winters, give or take. That was all."
+
+"Nine seasons," she said. Her voice was very far away.
+
+"One turn, one season." He made himself go on. "Six turns now. A year and a half. That's what we've got left. Both of us. Because of me."
+
+He watched her understand. He watched it go into her, slowly, like cold water rising.
+
+"*Rings are very generous,*" she said.
+
+"I lied."
+
+"Every day. For ten days."
+
+"Yes."
+
+"You let me ride next to you. You let me sit with you in the dark and tell you about my *father,* and you..." She was shaking. Her sword was shaking. "You said *enough to annoy you for years and years.* You *said* that. I asked you, and you looked at me, and you *said...*"
+
+"I know what I said."
+
+"And my own life? If it were cut?"
+
+"Long," said Emrys. "The Archmaster says sixty years. Seventy. The wound's healed. You'd get it all back. Grandchildren. Stories." His voice wobbled, and he steadied it. "That's why I'm here. Not for the star. Not for the Tower. To give it back to you. And then tell you. When it couldn't hurt you anymore."
+
+"*It couldn't hurt me?*"
+
+She took a step toward him. The sword came up between them, and her face was something he had never seen before, not even in the hollow when she'd held the blade to his throat.
+
+"You *stole my life,*" Maren said. "Without asking. And then you lied to me about it. Every single day. Just like you came here tonight to steal *this.*" She jerked her chin at the Heart. "That's what wizards *do,* isn't it? That's what the Tower teaches you? Take what you want, and smile, and lie about it after?"
+
+He didn't say anything. There was nothing to say. Every word of it was fair.
+
+She turned her back on him.
+
+"Get out," she said.
+
+He didn't move.
+
+"*Get out,* Emrys."
+
+"No," he said quietly. "Not yet. It's open, Maren. It's right there." He nodded at the iron box, at the slow red glow. "You don't need the chaplain. You don't need me. Hold your wrist to it and be free. Right now. Then do whatever you want. Do your duty, if that's what you decide." He held out his own left wrist, the thread toward the fire. "I won't stop you. I promise."
+
+She stood with her back to him. Her shoulders were shaking.
+
+He waited. The Heart beat. The red light rose and fell.
+
+Slowly, she turned around.
+
+He never found out what she would have done.
+
+Because outside the tent, over the roar of the storm, a man began to shout, and the shout stopped. Not trailed off. *Stopped.* Cut off in the middle, like a rope cut with a knife.
+
+Then another.
+
+Then silence. Nothing but the wind.
+
+Maren's head snapped toward the front of the tent. Emrys felt his skin go cold all over. He knew that silence. He'd heard it in a hollow in the March, six nights ago, when a warden at the edge of the camp stopped standing up.
+
+The front wall of the tent split open from top to bottom with a long tearing scream of canvas.
+
+Snow roared in. And out of the snow, out of the white, came men. Masked men, faces wrapped in dark cloth, ordinary steel in their hands. A dozen. More. And Emrys felt nothing from any of them, no Spark, no life being spent. Sellswords.
+
+At the front of them came a man so big he had to stoop to get through the torn canvas. A gray mask over his whole face. Shoulders like a bear's. Something heavy and familiar in the way he moved.
+
+Maren's sword blazed.
+
+Emrys turned toward the Heart, toward her, toward anything, and something struck the back of his head like the whole sky falling, and the red light went white, and then black.
+
+The last thing he saw was Maren, white and gold and blazing, turning to meet them.
+
+### Chapter 21: The Ferryman
+
+*Maren*
+
+Emrys went down without a sound.
+
+She saw it happen. She saw the club come out of the snow behind him, saw it strike, saw him fold at the knees and drop onto the trampled ground beside the reliquary like a coat falling off a peg. And in the same instant, she felt it: a jolt deep in her own skull, a burst of white behind her eyes, as if the blow had landed on her too.
+
+Not pain, exactly. A *lurch.* Like a missed step on a stair.
+
+*If he dies, you die.*
+
+She stepped over him and planted her feet on either side of his body, with the open reliquary at her back and the Heart's red light pouring over her shoulders, and raised her sword.
+
+They came at her all at once.
+
+---
+
+She had never fought like that before. Not in the hollow, not at the Ford, not under the great tree. Those times, she'd been fighting to live. Tonight she was fighting to keep a boy on the ground behind her breathing, a boy who had lied to her every day for ten days, a boy she'd just told to get out, because if he stopped breathing, so would she, and because, under all that, under the fury and the hurt, she simply *would not let them have him.*
+
+The oath-steel blazed so bright in the Heart's presence that it threw her shadow huge across the canvas walls. Every cut sang. The first man who reached her went down. The second. The third came at her low and fast and she turned his blade and he went down too. They were good. They were very good, better than the ones in the March. But in that tent, with the Heart beating behind her and her blade singing with its fire, she was better.
+
+It didn't matter. There were too many.
+
+While she fought the ones in front of her, the big man walked around them.
+
+He didn't hurry. He walked past the fighting, past her, to the open iron box. He pulled on a pair of enormous gloves, thick leather wrapped in layers of wet sacking that steamed in the heat. Then he reached into the reliquary, put both hands around the Heart, and *lifted.*
+
+It came up out of its bed of ash, glowing, enormous, beating. *Thud.* The big man grunted under the weight of it. Steam poured off his gloves. He swung it into a heavy canvas sling that one of his men held open, and the light of it shone through the cloth like a lantern through a sack.
+
+"*No!*" Maren shouted.
+
+She went for him. She cut down the man in front of her and went straight over the top of him and swung at the big man's back.
+
+He turned and caught her blade on his.
+
+Ordinary steel. It should have shattered. It didn't. He was too strong, his arm like a tree trunk, and the shock of the blow came back up through her wrists into her shoulders and her still-healing side, and she staggered. He pushed her back, almost lazily. Swung. She caught it. Barely.
+
+And he laughed.
+
+It was a big, booming, delighted laugh. A laugh you could hear from the bottom of a hill. A laugh she'd heard before, at the Neutral Stone, on a gray noon ten days ago.
+
+*They told me you'd be serious. They undersold it.*
+
+Maren knew.
+
+She didn't block his next swing. She ducked under it, came up inside his reach, and cut upward, not at his body but at his face. The tip of her blade caught the edge of the gray mask and sliced it clean through, and it fell away into the snow.
+
+Red beard. Broad, friendly, ruddy face. Small, bright, amused eyes.
+
+"*Dace,*" she breathed.
+
+"Squire Holt," said Captain Oriel Dace, of the Warden's Own. "What a pleasure."
+
+"You're *dead.* You went into the ravine..."
+
+"Did I?" He grinned through the beard. "You saw me go over the edge. You didn't see the ledge ten feet down, or the rope I'd tied there that afternoon while the boy was kicking stones in." He shook his head almost fondly. "Serious people stay alive, squire. I told you that."
+
+"*You're* the Ferryman."
+
+"The Ferryman always gets paid," said Dace. "The Ferryman always gets across."
+
+He hit her.
+
+Not with the sword. With his free hand, the gloved one, still steaming from the Heart. A backhand, so fast and so heavy it lifted her off her feet. She hit the side of the iron reliquary with her shoulder and went down hard on the trampled ground, and her sword spun out of her hand, and for a moment the whole world was red light and ringing.
+
+She heard him, through the ringing, say to someone: "No. Leave the boy."
+
+"He's the Tower's..."
+
+"I know what he is. Leave him. *They need a thief.*" A rustle of cloth. Something soft falling on the ground beside her. "There. Gray. That'll do. Let's go."
+
+She got her hands under her. Got her sword. Got up.
+
+The tent was empty except for the dead and the unconscious. The torn front wall flapped and boomed in the wind. The iron reliquary yawned, black and hollow, with nothing in it but ash. And beside it, across Emrys's legs where he lay still and white on the ground, someone had thrown a cloak.
+
+A gray cloak. Tower gray.
+
+---
+
+She ran out into the storm after them.
+
+She could see nothing. The wind tore at her. The snow came at her face like thrown sand. But she could see the light, just for a moment: a dull red glow moving away through the white, like a coal carried in a sack. And she ran toward it.
+
+She lost it twice. Found it again. It was moving fast, too fast, faster than men carrying something heavy through a blizzard should be able to move. It went past the edge of the camp, past the horse lines, out onto the open slope toward the mountains. She followed it, floundering through drifts up to her knees.
+
+It stopped.
+
+She ran harder. Her lungs burned. Her shoulder screamed.
+
+When she reached the place, there was nothing there. Only a lip of rock at the edge of a steep gully, dropping away into blackness. A rope, tied off around a boulder, running down over the edge into the dark. She grabbed it and leaned out and looked down.
+
+Far below, very faint, a red glow, swinging. Going down. Going away.
+
+Then the snow closed over it, and it was gone.
+
+She knelt at the edge of the gully with the rope in her hands and the storm screaming around her and the thread on her wrist pulsing, steady, alive. Emrys was alive. She could feel that much. Somewhere back there in the dark.
+
+She'd lost the Heart.
+
+---
+
+By the time she found her way back, the knights' camp was awake.
+
+Torches everywhere, hissing in the snow. Men shouting. Knights in half-buckled armor running toward the center of camp. The ring of eight guards around the Heart's tent: Maren saw them as she came through, and stopped, and made herself look. Four lay in the snow and didn't move. Four more were sitting up, dazed, being helped by their brothers, blood on their faces.
+
+And inside the torn tent, in the torchlight, a crowd of knights stood around the empty reliquary.
+
+And around Emrys.
+
+He was awake. Barely. Two knights had hauled him up off the ground and were holding him by the arms, and his head hung forward, blood matting the hair at the back of it, black and silver both. The gray cloak still lay at his feet.
+
+"*It wasn't him,*" Maren said.
+
+Every head turned.
+
+"It wasn't him. It was *Dace.* Captain Dace, of the Warden's Own. He's alive. He faked his death in the March. He's the Ferryman, the one who hired the assassins. He had a dozen men. They killed the guards. They took the Heart down a rope into the gully north of the horse lines. I *saw* him, I cut his mask off, I..."
+
+"The Warden's captain," said a voice. "Who died a week ago."
+
+"*Yes!* He..."
+
+"The Warden's dead captain," said the voice, "came back to life, and climbed through a snowstorm into the middle of our camp, and stole the Heart. And left a Tower wizard lying beside the box." It was one of the young knights from the practice ground, the one who'd said *wizard-bound* that morning. "That's what she's telling us."
+
+"*It's the truth!*"
+
+"She's tied to him," someone else muttered. "She'd say anything."
+
+"Holt."
+
+Sir Aldric came through the crowd. The knights parted for him without a word, the way water parts for a ship. He'd come straight from his bed; his iron hair was wild and his cloak was thrown over a nightshirt. He didn't look ridiculous. He looked like the Knight-Commander of the Order of First Light, and the tent went silent.
+
+He looked at the empty reliquary. His face didn't change. Then he looked at the dead guards outside. Then at Emrys, hanging between the two knights. Then, at last, at her.
+
+"Holt," he said quietly. "Was the wizard here? In this tent? Tonight?"
+
+She opened her mouth.
+
+She could lie. She could say no. She could say he'd come running in after the attack, trying to help.
+
+She'd never lied to Sir Aldric in her life. And Emrys had stood right there, not an hour ago, by the open box, and said, *I came for the Heart.* She'd heard him. She'd asked him, *to steal it?* and he'd said *yes.*
+
+"Yes, sir," said Maren.
+
+Something went through the crowd, a sound like wind in dry grass.
+
+"Before the attack?"
+
+Her throat closed. "Yes, sir."
+
+"Why?"
+
+She didn't answer. She couldn't. She stood there in the torchlight with her sword in her hand and every knight in the tent looking at her, and she couldn't make a single word come out.
+
+Sir Aldric looked at her silence for a long time. Then he nodded slowly, as if she'd answered.
+
+"Chain him," he said.
+
+"*Sir!*"
+
+"Chain him to the supply wagon, under guard. Twelve men. Nobody speaks to him. Nobody touches him." He turned back to her, and his iron eyes were cold and steady and terribly sad. "At dawn, we'll have the truth, Holt. All of it."
+
+They dragged Emrys out past her into the storm. As he went by, he lifted his head, just for a moment, and looked at her.
+
+He didn't say anything. He didn't look angry. He just looked at her, with blood on his face and snow in his silver hair, the way he'd looked at her across a quarter mile of empty ground the night before, standing by his lantern.
+
+Then they took him out into the dark, and she heard the chains.
+
+### Chapter 22: Trial at Dawn
+
+*Emrys*
+
+They chained him to the back wheel of a supply wagon, sitting in the snow, with his arms pulled back around the spokes and iron on both wrists. The left cuff closed right over the thread. He could feel the red turns pulsing against the cold metal. Twelve knights stood around him in a ring, facing in this time, swords drawn. Nobody spoke to him. Nobody touched him. Just as the Knight-Commander had said.
+
+The storm blew itself out sometime after three. The wind dropped. The snow thinned, then stopped. The clouds tore apart, and behind them the stars came out, hard and white and enormous, and the cold came down out of the clear sky like a hammer.
+
+Emrys sat in it and shook and thought.
+
+He thought about the back of his head, which hurt more than anything had ever hurt, including the binding. He thought about Dace's big laugh echoing in the tent before the dark came down. *They need a thief.* He'd heard that, just before he went under. He'd heard it and understood it perfectly: a Tower wizard, found beside the empty box, a gray cloak across his legs. A gift, wrapped and ribboned, for the knights to find.
+
+He thought about Maren in the torchlight, saying *yes, sir.*
+
+He didn't blame her. That surprised him. He kept turning it over, looking for the place where he blamed her, and couldn't find it. She'd told the truth. Of course she had. He'd stood beside that open box and told her *I came for the Heart,* and she had asked him if he meant to steal it, and he'd said *yes.* She'd only repeated what he'd told her. And Maren Holt didn't lie. Not to her commander. Not to anyone. Not unless her ears went red.
+
+He thought about the last thing she'd said to him before the tent wall tore open. *That's what wizards do, isn't it? Take what you want, and smile, and lie about it after.*
+
+He thought she was probably right.
+
+The dagger was still in the lining of his waistcoat, where he'd sewn it in a little pocket three nights ago in the shepherd's hut, while she slept. They hadn't searched him well. He could feel it against his ribs, rusted and patient, with its tiny carved boat.
+
+*The ferries have served this family for a hundred years.*
+
+Dace. The Ferryman. *Ferry.*
+
+He sat in the snow with his head pounding and his hands going numb and turned it over and over and over, and he was almost there, he was *almost* there, when the sky in the east began to go gray, and the knights came to take him to his trial.
+
+---
+
+They held it in the open, on the empty ground between the two camps.
+
+That was deliberate, Emrys understood. The Knight-Commander wanted the Tower to see. They dragged him out into the middle of the frozen valley floor, still chained, and threw him down on his knees in the snow, and the knights of the Order of First Light formed up behind him in long lines, white and gold, in full armor, oath-steel drawn, their breath smoking in the frozen air. Two hundred of them. More.
+
+And across the valley, the Tower came out to watch.
+
+They came slowly, in gray, in a long line, and stopped at the edge of their own camp, a hundred yards off. Wards shimmered in the air in front of them. Hands were raised, palms out, ready. And at the very front, alone, stood the Archmaster.
+
+She looked at him, kneeling there in chains. Her face didn't change.
+
+Then she raised her voice, and it carried across the valley like a bell in the frozen air.
+
+"Knight-Commander. That boy is a hostage of the Tower of Hours, held under the Warden's terms. Any harm done to him is an act of war."
+
+"The treaty is dead, Archmaster." Sir Aldric Fane stood in front of his knights, in full armor now, his iron-gray head bare. "It died last night, when the Heart was stolen from my camp. The Warden's terms died with it."
+
+"The Tower had no part in any theft."
+
+"Then the Tower won't mind," said Sir Aldric, "when I deal with a thief."
+
+He turned his back on her. He looked down at Emrys, kneeling in the snow.
+
+"Emrys Calder," he said. "You were found in the Heart's tent beside the empty reliquary, under a cloak of the Tower. A squire of this Order has sworn that you were there before the attack, alone, by the open box." He paused. "Have you anything to say?"
+
+Emrys lifted his head. It took some doing.
+
+"Only that I didn't take it," he said. "Which you won't believe, so it hardly seems worth the breath. Captain Dace took it. Of the Span. He's not dead, by the way, you'll want to update your records."
+
+There was a ripple of angry laughter among the knights.
+
+"Under the laws of the Order," said Sir Aldric, as if Emrys hadn't spoken, "a thief of the Heart dies."
+
+The valley went very quiet.
+
+"Holt."
+
+---
+
+She came forward out of the ranks.
+
+She was in full white and gold, like the rest of them. Somebody had found her armor. She looked like every painting of a knight Emrys had ever seen: tall and straight and shining, her sword in her hand, her face pale and set. The faded red ribbon still hung from the crossguard. It was the only thing about her that looked like her.
+
+She stopped in front of the Knight-Commander and didn't look at Emrys at all.
+
+"The Heart is gone, Holt," said Sir Aldric quietly, so quietly that only the three of them could hear. "There's no fire to cut your thread anymore. You know what that means. If he dies, you die." His iron face was very still. "I know. I'm sorry. I'm sorrier than I can say."
+
+Emrys watched her face. Nothing moved in it.
+
+"But a knight's life belongs to the Order," Sir Aldric said. "Yours always has. And I will see to it that your sacrifice is honored above any other. Your name will be cut in gold on the wall of the chapel at Dawnhold. And your father's sword..." He paused. "Your father's sword will be taken down from the Wall of the Broken and hung beside yours. The Holt name will be clean, Maren. Forever. I swear it."
+
+Emrys saw that land. He saw it go into her like a blade. Everything she had ever wanted, held out to her in the cold dawn.
+
+"Those were your orders," said Sir Aldric. "From the beginning. *If the treaty fails, the wizard does not return to his Tower.*" He stepped back. "The treaty has failed. Carry out your orders, Squire Holt."
+
+She turned around.
+
+For the first time, she looked at Emrys. Kneeling in the snow, chained, bleeding, his hair white and black and wild. She looked at him for a long time. Her sword was in her hand. Light ran softly along its edge.
+
+He found that he wasn't afraid. That surprised him too.
+
+"It's all right," he said to her quietly. "Maren. It's all right."
+
+She raised her sword.
+
+Two hundred knights watched it go up. The whole Tower watched it, across the valley, in silence. The blade caught the first light of the sun coming over the eastern ridge and blazed gold.
+
+Then Maren Holt turned on her heel, and walked three steps, and stood in front of him.
+
+Between him and the Knight-Commander. Her back to Emrys. Her sword raised toward her own Order.
+
+"*No,*" she said.
+
+---
+
+The silence was so complete that Emrys heard a crow call, somewhere far up on the mountain.
+
+"He didn't steal it," said Maren. Her voice was clear and steady and carried across the whole valley. "Captain Oriel Dace stole it. I saw him. I cut the mask off his face. He's alive and he's the Ferryman and he hired the men who attacked us in the March, and he took the Heart down a rope into the north gully, and I don't know where he's taking it, but I know who has it. And it isn't *him.*"
+
+"Holt," said Sir Aldric. His voice was very quiet. "You swore an oath."
+
+"I swore to spare the innocent," said Maren.
+
+"You swore to *obey.*"
+
+"I know," she said. "I know I did."
+
+And her sword went out.
+
+Emrys knew it before anyone else. Before anyone saw. Because for eleven days, every moment he'd been near her, his teeth had ached with oath-steel, that thin bright tinfoil hum that never stopped. And now, between one heartbeat and the next, it simply *stopped.* Like a sound you don't notice until it's gone. His jaw went quiet. His ember, for the first time since the Neutral Stone, uncurled.
+
+Then everyone saw.
+
+The light went out of her blade. No crack. No flash. No sound. It went out the way a candle goes out when you pinch it between two fingers. The bright steel turned gray, flat and dull and lifeless as old ice, as dishwater, as fish left too long in the sun. In the full light of the rising sun, it lay in her hand like a piece of wood.
+
+A sound went through the ranks of knights behind her, a long low groan, like a wind.
+
+Maren looked down at her dead blade. Emrys saw her shoulders shake once. Then she straightened them. She didn't lower the sword.
+
+"*Take them,*" said Sir Aldric Fane. "Both of them."
+
+---
+
+Everything happened at once.
+
+The knights surged forward. Across the valley, the Tower's line broke into motion, wizards running, hands raised, fire blooming pale in their palms. Somebody screamed an order. Somebody screamed *treachery,* and Emrys thought, wildly, *not again, not again, not like the courtyard.*
+
+Maren spun, and struck the iron pin of his chains with the flat of her dead sword, hard, once, twice. Not magic. Just steel and fury and seven years of practice. The pin sheared. The chain fell away from the wagon wheel. She dragged him to his feet.
+
+"*Do something,*" she said.
+
+He'd never been asked before. Not by her. Not like that.
+
+He reached for his ember. It was guttering and half empty and he dragged on it anyway, all the way down, and *threw* it.
+
+The snow on the valley floor rose up.
+
+All of it. Every flake that had fallen in the night, a whole storm's worth, lifted off the ground in a great white roaring wall and went spinning up into the air, around them, around everyone, a blizzard in the clear dawn. The sun went out. The knights vanished. The Tower vanished. The whole world was white and screaming.
+
+And as it went, he felt the turn go.
+
+He felt it slide away out of both of them, a whole season, falling down the dark well. He heard Maren gasp beside him in the white. He felt her hand tighten on his arm.
+
+Five.
+
+"*This way,*" she said. And somehow, in the blindness, she found her horse.
+
+He never knew how. He'd ask her later and she'd only shrug. She simply put her hand out into the white, and the bay was there, and she threw Emrys up behind the saddle and swung up in front of him. Somewhere in the storm, a voice he knew shouted his name. *Calder!* The Archmaster. And then, he would swear afterward, though he could never prove it, a second voice, cold and quick, right beside his ear, though there was no one there: *Go. South. Go now.*
+
+They went.
+
+The bay plunged up out of the valley, up the steep road toward the pass, into the mountains. Behind them, the white wall of whirling snow began to settle, and through it, faintly, Emrys heard shouting, horses, the clash of steel on steel, the hiss of fire. He held on to Maren's waist and pressed his face against her back and didn't look.
+
+Neither of them said a word. She rode. He held on.
+
+At her hip, in its sheath, her sword hung gray and silent.
+
+And for the first time since he'd met her, his teeth didn't ache at all.
+
+He found that he missed it.
+
+### Chapter 23: Two Dead Blades
+
+*Maren*
+
+The road up to the Greyspine Pass had been built three hundred years ago for carts and traders, and nobody had mended it since. It switched back and forth across the face of the mountain in long, steep zigzags, half buried in fresh snow, with the drop on the outside edge getting longer and longer the higher they climbed. The bay labored up it with his head low and his breath steaming, carrying two riders and no complaint, and Maren thought she had never loved a horse more in her life.
+
+Neither of them talked.
+
+There was too much to say, and none of it would fit into words, and so they didn't try. Emrys rode behind her with his arms around her waist and his forehead against her back, and every so often, she felt him shiver. She didn't know if it was the cold, or the blood still crusted in his hair, or the fifth turn of thread that had just gone sliding down into the dark.
+
+She didn't ask. She rode.
+
+The sun came up over the ridge behind them and climbed and crossed the sky and began to come down again on the other side, and still the road went up. The wind came back in the afternoon, thin and sharp, blowing snow off the peaks in long white banners. Twice she looked back and saw nothing following them on the switchbacks below. She didn't know if that meant no one was following, or that they hadn't been seen yet. She didn't know what was happening in the valley. Whether the knights and the Tower had stopped at shouting, or gone on to worse.
+
+*Not like the courtyard,* she thought. *Please. Not like the courtyard.*
+
+Just before dark, near the top of the pass, they found the hut.
+
+It had been a waystation once, for travelers caught by weather: a squat stone house with a slate roof, built into the shoulder of the mountain where the road leveled out. The door had fallen in years ago. Snow had drifted across half the floor. But there was a hearth, and a few sticks of old firewood stacked beside it, gray and dry as bone, and the walls were thick, and the wind couldn't get in.
+
+She got the bay inside too. There was room. He stood in the corner with his head down, steaming, too tired even to eat.
+
+She built the fire. Emrys sat against the wall and watched her, and still didn't say anything, which she was beginning to understand meant more than all his talking.
+
+When the fire was going, she sat down on the other side of it, and drew her sword, and laid it across her knees.
+
+---
+
+It was gray.
+
+She'd known it would be. She'd felt it go, out there on the valley floor, at the exact moment it happened: something leaving the steel and leaving *her,* a warmth she'd carried at her hip every day for four years without ever once noticing it was there. Like the second heartbeat in her wrist, except the other way around. You don't notice a thing until it's gone.
+
+She ran her thumb along the edge. Cold. Dead. Silent. When she tapped it against the stone of the hearth, it didn't ring. It *thudded,* like wood.
+
+*Let my steel break with it.*
+
+She sat looking at it for a long time. Then she reached into her pack, and took out the long bundle in its oilcloth, and untied the twine, and laid her father's sword down on the floor beside her own.
+
+Two dead blades. Side by side in the firelight. The same flat, lifeless gray. Hers a little longer, his a little worn at the grip. They looked as if they'd been made to go together. A matched pair.
+
+And she understood.
+
+She didn't know how else to describe it afterward. It wasn't like working something out. It was like turning a corner in a house you've lived in all your life and finding a window you never knew was there, and looking out of it, and seeing everything outside from a different angle.
+
+Her father hadn't broken his oath because he was weak. He hadn't broken it for *nothing.* He'd stood in the Dawnhold courtyard with the whole Order watching and been told to do something that was wrong, and he had looked at it, and he'd *known* it was wrong, the way she had known this morning, kneeling in the snow, with Sir Aldric's voice in her ear offering her everything she had ever wanted. And he'd said no. Not because it would change anything. Not because it would save Elmsby. Because it was the only thing he could do and still be himself.
+
+Elmsby had burned anyway. That had never made him wrong. It had only made him alone.
+
+*I swore to spare the innocent.*
+
+*You swore to obey.*
+
+*I know. I know I did.*
+
+She'd said the same words he had. She'd stood where he stood. Seven years she had spent being sure he'd been a fool, and all that time, she had only been waiting to find out whether she was brave enough to be one too.
+
+She didn't notice she was crying until a drop fell on the dead steel and ran down it.
+
+She hadn't cried since she was ten. Not at the funeral, not after, not once in seven winters at Dawnhold. She'd been very proud of that. Now she sat on the floor of a ruined hut at the top of the world, with two dead swords across her knees, and couldn't stop. It came up out of her chest in great ugly gulps, and she pressed her hand over her mouth to keep the sound in, and it came out anyway.
+
+Across the fire, Emrys didn't make a joke.
+
+He got up, slowly, painfully, and came around the hearth, and sat down beside her. Not touching. Just there. Close enough that she could feel the warmth of him on her left side.
+
+She didn't lean on him. For a while.
+
+Then she did.
+
+---
+
+"I'm sorry," he said.
+
+It was much later. The fire had burned down to coals. Her face was stiff and hot, and her head was on his shoulder, and she didn't know when that had happened.
+
+"I took your life without asking," Emrys said quietly. "And then I lied to you about it. Every day. For eleven days. I looked you in the face and lied, over and over, because I was afraid of what you'd look like when you knew." He drew a breath. "Not *I'm sorry you're upset.* Not *I'm sorry it happened.* I'm sorry I did it. It was the worst thing I've ever done. And I've done some really spectacular things."
+
+She didn't say anything.
+
+"You saved my life," she said.
+
+"I took it, too."
+
+"Both." She lifted her head and looked at him. "You did both. That's the problem. If you'd only done one, I'd know what to feel."
+
+He looked back at her. His face was gray with exhaustion, and there was dried blood down one side of his neck, and his hair was more silver than black now, a great white sweep of it over his eyes. He looked a hundred years old and seventeen at once.
+
+"In the hollow," Maren said. "By the stream. When you asked me if I'd cut it. And I said yes."
+
+He went very still.
+
+"I didn't mean I wanted to be rid of you," she said. "I've been trying to tell you since. I meant I wanted to *know.* What I'd choose. If it was just me. Without your heartbeat in my wrist telling me what to feel." She looked down at the two gray swords across her lap. "I wanted to know that if I chose you, it was really me choosing."
+
+The silence went on for a long time.
+
+"And?" said Emrys, very carefully.
+
+"I just broke my oath for you," said Maren, "in front of two hundred knights of my Order and the entire Tower of Hours and a crow. My sword is dead. My commander wants to arrest me. I will never, ever be a knight." She looked at him sideways. "Draw your own conclusions, wizard."
+
+He stared at her.
+
+Then, slowly, helplessly, he started to laugh. Not his bright, sharp, Neutral Stone laugh. A different one: cracked, and quiet, and astonished, like someone laughing at the end of a very long day because there was nothing left to do but laugh.
+
+And she laughed too. Properly. Out loud. In a ruined hut on top of a mountain, with tears still drying on her face and her whole life in pieces at her feet.
+
+He reached down and found her left hand with his, and held it. Their wrists lay side by side on the dead steel. Five red turns on each.
+
+She didn't let go.
+
+---
+
+"Five," he said, after a while, looking at the threads. "Fifteen months."
+
+"I know."
+
+"The Heart's gone. Dace has it. Without its fire, there's no cutting this. Ever." His voice was steady. "I want you to know that. I want you to know exactly what I've done to you."
+
+"I know exactly what you've done to me." She squeezed his hand. "Where's he taking it?"
+
+"Dace?"
+
+"The Heart. Where is he going with it?"
+
+Emrys was quiet. Then he let go of her hand, and reached into the lining of his waistcoat, and drew out the rusted dagger. He'd sewn a pocket in there. She hadn't known. He held it up in the last of the firelight, and turned it, so she could see the little carved boat beneath the crossguard.
+
+"The man in the doorway at Concord Keep," he said slowly. "*The ferries have served this family for a hundred years.* Three hundred years ago, the only way across the Sunder was by ferry. And someone, a family, owned the ferries. And two friends were going to build a bridge that would have put them out of business." He turned the dagger. "Then a prince was murdered with a knight's dagger. A dagger with a boat on it. And the bridge never got built. Not by them."
+
+"But it *did* get built," said Maren. She heard her own voice go thin. "The Span. Three hundred years ago."
+
+"By whom?"
+
+She knew. She'd learned it at Dawnhold, in the histories, the way every squire did. She'd never thought about it once in her life.
+
+"By the Vells," she said. "The Vell family built the Span. That's why they still call it Vell's Span. That's why a Vell has always been Warden."
+
+They looked at each other.
+
+"Span silver," Emrys said. "In the assassins' purses. The Warden chose our route through the March, *for secrecy.* The Warden's own captain hired the killers, faked his death, and stole the Heart. *The Ferryman always gets paid. The Ferryman always gets across.*" He put the dagger down very carefully on the stone. "It's the Span, Maren. It's always been the Span. Three hundred years ago and now."
+
+"We can't prove it."
+
+"Not yet."
+
+"And the war..."
+
+"Is very, very good for whoever owns the only bridge." He rubbed his face with both hands. "Every army that marches across the Sunder pays a toll. Every sword that's sold, every ransom that's paid, every truce that's brokered. All of it goes across the Span. Of course they don't want peace. Peace would mean anybody could cross anywhere, the way Caelan and Aldane wanted. Peace would make them *nobody.*"
+
+Maren looked down at her dead sword. At her father's.
+
+Three days to Midwinter.
+
+"I'm going to get it back," she said.
+
+Emrys turned his head. "The Heart?"
+
+"The Heart. The truth. All of it." She wrapped her father's blade back up in its oilcloth, carefully, the way she always had. Then, after a moment, she slid her own dead blade back into its sheath at her hip. She didn't wrap it up. She didn't hide it. "I'm going to the Span, and I'm going to find Dace, and I'm going to take it back."
+
+"With a dead sword."
+
+"With a dead sword," said Maren. "And you."
+
+He looked at her for a long time in the light of the coals. Then he smiled. Not the bright one. Not the Neutral Stone one. The real one, slow and crooked and tired, the one she'd only seen a few times, in firelight, when he thought no one was looking.
+
+"Well," said Emrys. "When you put it like that."
+
+### Chapter 24: Over the Pass
+
+*Emrys*
+
+He woke before dawn to find her already gone.
+
+For one cold, lurching second, he thought she'd left. That she'd woken in the dark and looked at him, at the boy who'd lied to her every day for eleven days, at the five thin red turns on her wrist, and decided she was done, and taken the horse and gone.
+
+Then he felt the heartbeat in his wrist. Close. Steady. Just outside.
+
+He let out a breath he hadn't known he was holding, and got up, slowly, every bruise on his body complaining at once, and went to the door.
+
+She was standing on the flat shoulder of rock outside the hut, where the road leveled out at the very top of the pass. Her back was to him. She was looking east, where the sky above the Greyspine was just beginning to go from black to deep blue to the faintest wash of gray. She had her dead sword at her hip. Her hand rested on its hilt.
+
+She was standing exactly the way she must have stood every morning of her life, in the practice yard at Dawnhold, waiting for the light.
+
+He watched her wait for it. He watched the gray turn to pale gold along the edge of the world, and the first sliver of the sun come up over the ridge, and the light spill down across the snow toward her.
+
+And she didn't say anything.
+
+Her lips didn't move. She didn't draw. She just stood there with her hand on the dead hilt and the dawn on her face and said nothing at all, and the silence where the oath should have been was louder than any words.
+
+He went and stood beside her.
+
+"You didn't say it," he said quietly. "This morning."
+
+"No."
+
+"Why not?"
+
+She was quiet for a long time. The sun came up a little more.
+
+"It isn't mine anymore," she said. "I broke it. I'm not a squire of the Order. I'm not anything of the Order." She looked down at the gray sword. "Every morning since I was ten years old, I've said those words. I don't know who I am in the morning if I don't say them."
+
+He thought about it.
+
+"Then write a new one," he said.
+
+She turned her head and looked at him.
+
+"I'm serious. You're not a squire of the Order. Fine. You're still *you.* You still believe things. You still do things you'd die before you'd stop doing. Spare the innocent, shield the weak, all of that. You did it yesterday, in front of everybody. That didn't come from the Order. That came from you." He shrugged. "So write it down. Your own words. You can swear by whatever you like. Dawn, steel, flame, toast. I'm not fussy."
+
+"*Toast,*" Maren repeated.
+
+"It's a perfectly good thing to swear by. Very reliable. Always there in the morning."
+
+The corner of her mouth moved. Then the other corner. She turned back to the sunrise, and her face in the gold light was thoughtful, and strange, and very young.
+
+"Maybe," she said.
+
+---
+
+They rode on as soon as the bay had eaten.
+
+The road crossed the saddle of the pass and then, all at once, the ground fell away in front of them, and Emrys pulled up and stared, and forgot to breathe.
+
+The whole of the south lay spread out below them, gold and blue and white in the morning light. Long slopes of snow running down from the mountains. Dark forests. Frozen rivers like silver threads. And beyond all of it, cutting across the world from horizon to horizon like a wound, the Sunder.
+
+He'd seen it on maps his whole life. A black line. It wasn't a line. It was a *gulf.* A crack in the earth miles wide, so deep that its bottom was lost in blue haze and drifting cloud, its walls falling away in cliffs and ledges and black scree, down and down and down. Rivers ran to its edge and fell off into nothing in long white plumes of spray. Birds wheeled in the empty air over it, tiny as dust.
+
+And at one place, where the two walls of the chasm leaned in toward each other, close enough almost to touch, there was a bridge.
+
+There was a *city* on a bridge.
+
+It leaped across the gulf in a single great arch of pale stone, so long and so slender that it shouldn't have been able to stand. And on top of it, crowded along its whole length, there were towers and roofs and domes and chimneys, bridges on the bridge, terraces stepping up one above the other, a forest of masts and spires and banners. Blue and silver, all of them, snapping in the wind. The morning sun caught a thousand windows at once, and the whole city blazed, hanging over the abyss like a necklace of fire.
+
+The Span.
+
+"Oh," said Maren softly, beside him.
+
+He'd never seen anything so beautiful. He'd never seen anything that made him so afraid.
+
+Three hundred years ago, two friends had stood over a map in a tower room and dreamed of a bridge. *Two lands, one road. Anybody could cross.* And someone had killed them for it, and taken their dream, and built it out of stone, and charged a toll.
+
+"Look," said Maren.
+
+She wasn't looking at the Span. She was looking back the way they'd come, down the long switchbacks of the road on the north side of the pass.
+
+There were riders on the road. A lot of them. Far below, still, but climbing, in two long columns, one behind the other. The first column was white and gold. Banners. Armor flashing. And behind it, half a mile back, the second column, gray, with a faint blue shimmer of wards around it in the cold air.
+
+"Both of them," Emrys said slowly. "They're both coming."
+
+"After us?"
+
+"Maybe." He shaded his eyes. "Or maybe..." He frowned, thinking. "If I were the Warden, and I had the Heart, and I wanted a war. What would I do?"
+
+Maren looked at him.
+
+"I'd send word to both camps," he said. "Today. Right now. *Terrible news. Shocking theft. But good news too: the Warden's people have recovered the Heart! It's safe at the Span! Come at once, both of you, for Midwinter dawn, as planned, and let us see if peace can still be saved.*" He spread his hands. "And they'd come. Both of them. The knights, because they want their Heart back. The Tower, because they think the knights hid it themselves and they want to see the Warden make them hand it over. Everybody comes to the Span. Everybody's angry. Everybody's sure the other side's to blame. And then..."
+
+"Then what?"
+
+"I don't know," Emrys said. "But I wouldn't have gone to all this trouble if I didn't have something planned for the grand finale."
+
+She looked down at the two columns climbing the road behind them. Then at the city blazing on its bridge in front of them.
+
+"How do you know all that?" she said.
+
+"I don't. It's what I'd do." He made a face. "If I were a ferryman."
+
+---
+
+They went down the south side of the pass all morning.
+
+It was easier than the climb, and harder, because now they had to hurry. The columns behind them were too far off to see them yet, but they wouldn't be for long, and there was only one road. Twice Maren pulled the bay off into the trees when she thought she heard hooves. Twice it was nothing.
+
+Somewhere around noon, Emrys pressed his hand flat against his chest, under his coat, where she couldn't see it.
+
+The ache was back. It had never really gone, not since the Ford. It just came and went, like a tide. This morning it sat there steadily, low and deep, a fist pressed into the place where his ember lived. He breathed through it, slow, the way the old masters taught. In. Out.
+
+Five turns. Fifteen months, for both of them.
+
+He'd done the sums again in the night while she slept on his shoulder, and this time he'd done a different sum. Not *how long have we got?* but *how much can I still spend?* How much magic, how many spells, before there was nothing left to spend at all?
+
+Not much. One big one. Maybe. If it really mattered. If there was nothing else.
+
+After that, nothing. He'd be a tall, underfed person who was bad with horses and talked too much, and that was all.
+
+*That's the whole of me,* he'd said to her, in the shrine in the Hollowwood. *Without the river trick.*
+
+*Emrys,* she'd said. *Stop.*
+
+He thought about that, riding down the mountain with his arms around her waist and the ache in his chest and the city on its bridge growing larger and brighter ahead of them. And he decided, quietly, that he would save it. The last big one. Whatever it turned out to be. He would hold on to it, and hold on to it, and not spend it on fires or doors or anything else, until the moment came when it would buy the one thing that mattered most.
+
+He didn't know yet what that would be.
+
+He thought he'd know it when he saw it.
+
+---
+
+They came down out of the mountains as the sun was setting, onto the long open slopes above the Sunder. The wind came up out of the chasm, cold and strange, smelling of stone and depth and nothing. From here, the Span filled half the sky: a wall of lights, rising in tier after tier against the dusk, blue banners turning purple, every window lit, music drifting up faintly on the wind from somewhere in its crowded streets.
+
+At the near end of the bridge, where the great arch met the land, there was a gate. A tall gatehouse of pale stone, with the bridge-and-water sign of the Span carved over it. Guards in blue and silver, a long line of carts and travelers waiting to go through.
+
+And beside the gate, pasted on the wall, fluttering in the wind, he could just make out paper. Big sheets of it. Notices. With something drawn on them.
+
+Maren drew the bay up in the shadow of a stand of pines. They sat there in silence, looking down at the gate. At the city. At the two of them, probably, drawn on those notices in ink.
+
+"Two days to Midwinter," she said.
+
+"Two days."
+
+"Only we know Dace is alive."
+
+"Only we know."
+
+She was quiet for a moment. Then she reached back without looking and found his hand where it rested on her waist, and held it, the way she had in the hut. Their two threads pressed together. Five turns each.
+
+"Then we'd better not get caught," said Maren, and touched her heels to the horse.
+
+---
+
+*End of Part Three*
+
+## Part Four: The Bridge of Dawn
+
+### Chapter 25: The City on the Bridge
+
+*Maren*
+
+The notices were worse up close.
+
+They'd left the bay hobbled in the pines and walked down to the gate road in the dusk, hoods up, to see. There were six of them pasted to the gatehouse wall, one beside another, flapping in the wind off the chasm. Each one was the same: big black letters across the top, and underneath, two drawings.
+
+The girl in the drawing had a hard, square jaw and a scowl that could have curdled milk. The boy had a long, clever face and a sweep of white hair drawn in with bold strokes, so that it looked like a flame.
+
+*WANTED BY ORDER OF THE WARDEN OF THE SPAN,* said the letters.
+
+*THE OATHBREAKER SQUIRE MAREN HOLT*
+*AND THE TOWER WIZARD EMRYS CALDER.*
+*THIEVES OF THE DRAGON'S HEART.*
+*MURDERERS OF CAPTAIN ORIEL DACE AND THE WARDEN'S OWN.*
+*FIVE HUNDRED SILVER, ALIVE OR DEAD.*
+
+"*Murderers of Captain Dace,*" Emrys breathed. "Oh, that's *good.* That's really very good. You have to admire it."
+
+"I don't have to admire anything."
+
+"He fakes his death, steals the Heart, and then *we* get blamed for killing him. And for the theft. Everyone who sees this will think the Heart's been stolen twice, once by us and once back by the Warden's heroic people." He shook his head slowly. "It's like watching someone play chess with your hands."
+
+"My jaw isn't that square," said Maren.
+
+He looked at the drawing. He looked at her. He opened his mouth.
+
+"*Don't.*"
+
+He closed it.
+
+At the gate, the guards in blue and silver were checking every face that went through. Every single one. Hoods pushed back. Carts searched. A line of travelers stretched back down the road, hundreds of them, farmers and traders and peddlers, coming in for the Midwinter fair, stamping their feet in the cold.
+
+"We'll never get through," Maren said.
+
+"We'll go over the side. Climb the arch from underneath..."
+
+"*Over the Sunder?*"
+
+"It's only a few thousand feet down. You'd have plenty of time to think on the way."
+
+She was about to answer that when a voice behind them said, "Well, I'll be. If it isn't my two worst guests."
+
+---
+
+It was the innkeeper from Hollin's Ford.
+
+She sat on the driver's bench of a big flat wagon piled high with round cheeses wrapped in cloth, her ham-like forearms folded, her disappointed face looking down at them from under a knitted hat. Behind her, wedged between two cheeses, a small figure with a cloud of brown hair sat up and shrieked.
+
+"*Maren! Emrys!*"
+
+"Hush, Tamsin," said the innkeeper, not taking her eyes off them. "Hush now. You'll have the whole road down on us." She glanced at the notices on the gatehouse wall, and back. "Thieves of the Dragon's Heart, is it?"
+
+"No," said Maren.
+
+"Murderers?"
+
+"*No.*"
+
+The innkeeper looked at them for a long, long moment. At the dried blood in Emrys's hair. At the hilt of the sword, sticking up under Maren's cloak.
+
+"Didn't think so," she said. "You'd have done a better job of it." She jerked her head at the back of the wagon. "Get in. Under the cloths. Lie flat and don't sneeze. If anybody pokes, you're a cheese."
+
+Maren stared at her. "Why?"
+
+"Because you put the fire out," said the innkeeper. "Get *in.*"
+
+---
+
+Maren had been in a lot of uncomfortable places in her life. The bottom of a cheese cart, wedged between a wheel of ripe goat's cheese and Emrys Calder's elbow, while a Span guard poked at the cloths above her face with the butt of his spear, was in the top three.
+
+"What's in here?"
+
+"Cheese," said the innkeeper.
+
+"All of it?"
+
+"Do I look like I'd bring anything to the Span that wasn't cheese?"
+
+A pause. The spear-butt poked again, an inch from Maren's nose. Beside her, she felt Emrys go rigid, holding his breath. Above them, she could hear Tamsin humming.
+
+"Go on, then," said the guard.
+
+The cart lurched, and rolled forward, and the wheels changed sound beneath them: from the soft crunch of frozen road to the hollow, ringing rumble of stone. Stone with nothing under it. Stone with a mile of air below.
+
+They were on the bridge.
+
+---
+
+The innkeeper's name, it turned out, was Brenna, and her cousin kept a tavern called the Lantern on a crooked street halfway up the Span, and there was a room at the back that nobody used, with a window that looked straight out over the edge of the city into nothing.
+
+Maren stood at that window for a long time after they arrived. She couldn't help it.
+
+The Span went on forever in both directions, a long glittering ridge of light, rising toward the middle and falling away toward the ends. It was built in tiers: streets on top of streets, terraces stepping down the sides of the great arch, houses hanging off ledges, walkways strung between towers on ropes and chains. Lanterns everywhere. Bells ringing. Music from three or four directions at once. And the whole city moved. Very slightly. A slow, gentle swaying, like a ship at anchor, that she felt in the soles of her feet.
+
+And beneath it all, beneath the window, there was nothing. Just dark air, going down and down and down. Far below, so far it might have been a dream, she could see a thread of silver in the blackness, and tiny lights moving along it. The river at the bottom of the Sunder, and the barges on it. And between the bridge and the river, ropes and chains and baskets, swaying in the wind: the lifts that ran down to the low markets, the ones under the bridge, where the river barges tied up.
+
+*You go down there with a sword and an empty purse, and sometimes somebody finds you.*
+
+"It's beautiful," said Emrys, behind her.
+
+"It's built on a murder."
+
+"I know." He came and stood beside her. "It's still beautiful. That's the worst part."
+
+---
+
+They went out the next morning, hooded, with Tamsin.
+
+That was Brenna's idea. Nobody looked twice at two young people out with a little sister. Tamsin took the job very seriously. She held both their hands, one on each side, and walked between them with her chin up, and every time a guard in blue and silver passed, she pointed at something in a shop window and said loudly, "*Look,* cousin! *Look* at the *ribbons!*"
+
+The Span was even stranger by daylight. Every street was a market, and every market was full: farmers with geese, weavers with blankets, cooks with steaming carts, traders from places Maren had only seen on maps. Knights' coins and Tower coins and Span coins all clinking across the same counters. Bells ringing for the Midwinter fair. Children running. And everywhere, every few hundred yards, the blue and silver banners, and the guards, and the notices with her face on them.
+
+At midmorning, a herald came through the streets on a white horse, crying the news.
+
+"*Hear ye! Hear ye! By order of the Warden! The Dragon's Heart, stolen by traitors from the camp of the Order, has been recovered by the Warden's Own and lies safe in the Keystone! At Midwinter dawn tomorrow, it will be restored to the Order of First Light before the eyes of both nations! The Warden calls on knights and Tower alike to come in peace, that peace may yet be sworn! Hear ye!*"
+
+"There it is," Emrys murmured. "Just like I said."
+
+"I hate when you're right."
+
+"You must hate me all the time, then. That's very sad."
+
+By noon, they'd made their way to the center of the city, to the very top of the great arch, where the bridge was highest. And there, Maren stopped walking.
+
+It was a plaza. A wide, open square paved in pale stone, the highest flat ground on the whole Span, with the wind coming straight up out of the chasm on both sides. On its far side rose a palace: tall, narrow, elegant, all white columns and blue glass, built right on the crown of the arch. *The Keystone,* Brenna had called it. The Warden's house. The treaty would be sworn there tomorrow at dawn, in its great hall.
+
+And in the middle of the plaza stood a statue.
+
+It was bronze, twice the height of a man, green with age. A tall figure in a long cloak, standing in the stern of a small flat boat, holding a long pole like an oar, as if pushing off from a shore. His face was handsome, smiling, generous. His other hand was raised in welcome.
+
+Carved into the stone plinth beneath his feet, in big proud letters, were words.
+
+*CORVANE VELL*
+*THE FERRYMAN*
+*WHO BUILT THE SPAN*
+
+Maren stood in the wind and read it three times.
+
+She heard Emrys, beside her, draw a long breath. Just one word, very quiet.
+
+"*Oh.*"
+
+She looked at the little flat boat under the bronze man's feet. A flat hull. A single pole at the back. A boat for crossing a river.
+
+Or a chasm.
+
+She thought of the dagger in Emrys's waistcoat. The tiny boat carved under its crossguard, no bigger than a grain of rice.
+
+*The Ferryman always gets paid. The Ferryman always gets across.*
+
+"It's a family name," she said. Her voice came out very strange. "It's not just Dace. It's a *title.* It's a family..."
+
+"Tradition," said Emrys.
+
+Tamsin was looking from one of them to the other. "What?" she demanded. "What is it? What does it *mean?*"
+
+Emrys crouched down in front of her, in the middle of the plaza, in the wind. His hood had slipped a little, and a lock of white hair blew across his forehead. Maren reached over without thinking and tucked it back in.
+
+"Tamsin," he said. "Remember what you asked me? At the Ford? To find out what really happened, with the knight and the prince?"
+
+Tamsin nodded hard.
+
+"We're very close," he said. "Very, very close. We just need one more thing."
+
+"What thing?"
+
+He looked up, past the statue, at the white palace on the crown of the bridge. At its tall blue windows, catching the noon sun.
+
+"Proof," said Emrys. "Families like that keep records, Tamsin. Ferrymen keep ledgers. It's what they do. They write down every crossing, and every coin."
+
+Maren looked up at the Keystone too. Somewhere inside, behind those blue windows, the Heart was beating. She couldn't feel it. Her dead sword couldn't feel it. But Emrys could. She saw it in his face, in the way his eyes kept going to the palace as if drawn by a string.
+
+And somewhere in there, too, there would be a room full of very old books.
+
+"Tonight," she said.
+
+"Tonight," Emrys agreed.
+
+Tamsin squeezed both their hands at once, very hard.
+
+"I'll keep watch," she said.
+
+### Chapter 26: Corvane's Ledger
+
+*Emrys*
+
+The Keystone had wards.
+
+He felt them as soon as they came around the corner of the plaza after midnight: that crawling, knotted itch in the air, like on the March but neater, newer, more expensive. Someone had laid them across every door and every ground-floor window of the white palace, in a fine invisible net.
+
+"Wizard-made," he whispered. "Tower-trained, by the look of it. Someone's paying a renegade very well."
+
+"Can you get through them?"
+
+"Through them? No. Around them?" He tilted his head, feeling the shape of the net. Tight across the doors. Tight across the windows. And then, toward the back of the palace, where the white walls ran right up to the edge of the bridge and dropped away into the dark... nothing. No knots at all. "They didn't ward the back."
+
+"Why not?"
+
+"Because nobody," said Emrys, "is stupid enough to climb up the outside of a building hanging over the Sunder at midnight in December."
+
+Maren looked at him. Then she looked at the edge of the bridge.
+
+"Right," she said, and started unbuckling her sword belt, so she could strap both dead blades across her back: her own and her father's. She didn't leave her father's anywhere now.
+
+---
+
+Tamsin stayed in the plaza, tucked into a doorway across from the statue of Corvane Vell, with a tin whistle on a string around her neck. One blast if anyone came. Two if it was a lot of anyones. She took the whistle with the solemn face of a knight receiving a sword.
+
+"If they catch you," she said, "I'll tell everybody. I'll tell the *whole bridge.*"
+
+"They won't catch us," said Maren.
+
+"If they do."
+
+"Then tell the whole bridge," said Emrys, and she nodded, satisfied.
+
+The back of the Keystone was the worst ten minutes of his life, and he had held back a river for eleven hours.
+
+There was a ledge. It was about a foot wide. It ran along the base of the palace's back wall, right at the edge of the bridge, and beyond it there was simply nothing. A black, howling emptiness, with the wind coming up out of it so hard it plucked at his coat and his hair and his breath. Far, far below, the silver thread of the river. Tiny lights crawling along it. He looked down once and then didn't look down again.
+
+Maren went first. Of course she did. She went along that ledge with her back to the wall and the two dead swords strapped across her shoulders and her hands flat on the stone, sideways, one step and then the next, as steadily as if she were walking along the top of the practice-yard wall at Dawnhold. Every few feet, she stopped and looked back at him.
+
+"Don't look down," she said.
+
+"I wasn't *going* to look down. Now I'm thinking about looking down."
+
+"Look at me."
+
+He looked at her. He kept looking at her. He went along the ledge an inch at a time, with the wind trying to peel him off the wall like a sticker, looking at her face, and somehow, he didn't fall.
+
+Halfway along, there was a window. Small, high, round, with the shutter left open a crack for air. Maren got her fingers into the gap and hauled herself up and in like a cat. Then her arm came back out, reaching.
+
+He took her hand. She pulled. And then they were both on their hands and knees on a cold stone floor, inside, in the dark, and he was breathing like a bellows and his legs had turned to water.
+
+"That," he said, "was horrible."
+
+"You did well."
+
+He looked up. "Did you just pay me a *compliment?*"
+
+"Get up, wizard."
+
+---
+
+The archives were on the second floor, down a long cold corridor lined with portraits. Emrys felt for wards at every doorway and found only two, both easy to step around. The portraits watched them pass. Men and women in blue and silver, painted in the styles of a dozen different centuries, all of them with the same long, handsome Vell face, the same generous smile. The same eyes.
+
+The archive door was locked. He knelt and took out the two bent wires he'd carried since he was thirteen, and listened to the lock, and talked to it softly, and four seconds later it clicked.
+
+"You've done that before," Maren murmured.
+
+"Only about four hundred times."
+
+Inside, the room was long and low and smelled of dust and old leather and cold candle-wax. Shelves ran from floor to ceiling down both walls, and on every shelf stood books. Hundreds. Thousands. Big, flat, heavy books, bound in blue leather, each with a year stamped in silver on its spine. Emrys pulled one out at random and opened it under the shielded lantern.
+
+*The ninth of Thaw. Crossed: forty carts of wool, west to east. Toll: two silver the cart.*
+*Crossed: one company of the Order of First Light, ninety horse. Toll: one silver the horse, three the knight.*
+*Crossed: Tower supply train, eleven wagons, east to west. Toll: five silver the wagon.*
+
+"Every crossing," he breathed. "For three hundred years. Every cart, every horse, every army. Every coin." He turned a page. "Look. Here. They charged both sides to go to war, and then they charged them both again to come home."
+
+Maren took the lantern and walked slowly down the long room, reading the years on the spines. Back and back. The silver numbers got older. The leather got darker, more cracked. At the very end of the room, against the far wall, there was a small glass-fronted case, locked, with a single book inside it on a stand.
+
+It was older than all the rest. Black leather, not blue. No year on the spine. Just a tiny mark, stamped in faded gold.
+
+A flat boat, with a pole at the stern.
+
+Emrys was at the case before he knew he'd moved. The lock was old and fiddly and took him eleven seconds, and his hands were shaking for every one of them.
+
+He lifted out the book and opened it on the floor between them, under the lantern.
+
+The handwriting was beautiful. Small, even, elegant, in the old common script that nobody had written for two hundred years. He'd learned it in the Tower to read old spellbooks. His lips moved as he read it out, half to himself, half to her.
+
+*Corvane Vell. His accounts. Private.*
+
+Lists, at first. Crossings. Coin. The business of a ferry-lord, three hundred years ago, when the only way across the Sunder was a fleet of flat boats hauled up and down the cliffs on chains. Then, about a third of the way into the book, the entries changed.
+
+*Paid to the cook at Concord Keep, that he may tell me what is said at the high table: twenty silver.*
+
+*The knight and the prince speak again of their bridge. They have drawn plans. They mean to bring masons from Dawnhold and wizards from the Tower and span the Sunder at the Narrows. If they do this, the ferries are finished, and my house with them. My father's house, and his father's. A hundred years of the ferry, ended by two boys and a map.*
+
+*This will not be.*
+
+Emrys heard Maren draw in a breath beside him. He turned the page.
+
+*Paid, for a knight's dagger from the armory at Concord, and for a smith to set the mark of my house upon it, beneath the guard, that I may know my own work: twelve silver.*
+
+*Paid to the wine-steward, for his silence: fifty silver.*
+
+And then, by itself, in the middle of an empty page, in the same small, beautiful, steady hand:
+
+*The prince is dead. The knight burns tomorrow.*
+*The bridge will not be built. Not by them.*
+
+Emrys couldn't speak. He just sat there on the cold floor with the book in his hands and stared at those two lines, and thought about a friendly, ordinary face across three hundred years, laughing over a map. *The ferry-lords will have to learn to swim.*
+
+Maren reached past him and turned the page. Her hand was perfectly steady. Her face was white.
+
+*Begun this day, the Span. At the Narrows. Let them cross on my road, and pay my toll, forever. Let the war keep them apart, and the bridge keep my house.*
+
+*It is a better bridge than theirs would have been. Mine charges.*
+
+---
+
+"There's more," Maren said.
+
+She'd gone to a door at the end of the archive, a narrow one, half hidden behind the last shelf. Emrys hadn't even noticed it. It led into a small study: a writing desk, a chair, a cold hearth, a window over the chasm. On the desk lay a neat stack of letters, held down by a paperweight shaped like a bridge.
+
+She held the lantern while he read them. They were recent. The ink was fresh. The handwriting was different from Corvane's: elegant, slanting, sure.
+
+*To the Ferryman.*
+
+*The hostages travel by the March. I have seen to it. Use the colors and the bottles; let each side find its own proof. No survivors. — I. V.*
+
+The next one:
+
+*To the Ferryman.*
+
+*They live. They are tied together by some Tower filth and walking south. No matter. If the hostages cannot be killed, the Heart can be taken. Fane is bringing it to the Greyspine. Go to the pass. Leave the boy for them to find. — I. V.*
+
+And the last one. Dated two days ago.
+
+*To the Ferryman.*
+
+*Well done. The Heart is in the Keystone and both fools are coming to fetch it. At dawn, when it is set before them in the great hall and the seals are opened, break the seals the rest of the way. Let the dragonfire do what it does. The hall will burn with both delegations inside it. Whoever crawls out will swear the other side did it, and they will believe it with all their hearts, the way they always have.*
+
+*You and I will be on the far side of the door. And the Span will mourn, and the war will go on for another three hundred years.*
+
+*As it should. Someone must hold the scales.*
+
+*— Isaura Vell, Warden of the Span*
+
+Emrys put the letter down on the desk very gently, as if it might go off.
+
+"Both delegations," Maren whispered. "Sir Aldric. The Archmaster. Every knight. Every wizard. In one room. With *dragonfire.*"
+
+"And then every survivor screaming *treachery,*" said Emrys. "Just like Concord Keep. Just like the courtyard." He felt sick. "She doesn't even have to win. She just has to start it again."
+
+Maren was already gathering up the letters. She folded them and pushed them inside her coat. Emrys picked up Corvane's black book from the archive floor and tucked it under his arm.
+
+"We take these to Sir Aldric," she said. "And the Archmaster. Tonight. Before dawn. We make them *read* it..."
+
+"Will they believe us?"
+
+"They'll believe *this.*" She touched her coat over the letters. "It's her hand. Her seal. They can't argue with..."
+
+The Heart beat.
+
+He felt it so suddenly and so strongly that he gasped and put his hand on the desk. *Thud.* Close. So close. Right above them, somewhere in the palace overhead. His ember leaped toward it, aching.
+
+And under the beat, softer, much closer, there was a sound from the doorway behind them.
+
+A small, dry, pleasant sound.
+
+Someone, slowly, was applauding.
+
+"You've found my family's books," said a woman's voice. Warm. Gracious. Delighted. "Oh, how *lovely.* Nobody's read those in years."
+
+### Chapter 27: The Warden
+
+*Maren*
+
+She stood in the narrow doorway between the archive and the study, holding a single white candle, and she was smiling.
+
+Maren had imagined the Warden of the Span a dozen different ways since the March. A cold, gaunt figure. A spider in a web. Someone who *looked* like what she was. Isaura Vell looked like none of them. She was tall and straight-backed, perhaps fifty, with silver-gold hair braided in a crown around her head and a long gown of deep blue velvet that moved like water when she did. Her face was the face from the portraits in the corridor, and from the bronze statue in the plaza. Long. Handsome. Generous. Kind.
+
+Behind her, in the dark of the archive, Maren counted six guards in blue and silver. Every one of them held a loaded crossbow. Every crossbow was pointed at Emrys.
+
+"Please," said the Warden, "don't get up on my account. You must be *exhausted.* That ledge!" She pressed a hand to her chest. "I watched you from my bedroom window. I couldn't believe it. In this wind! I said to myself, Isaura, those two are either very brave or very foolish, and I suspect it's both." She smiled at Maren. "It usually is, at your age."
+
+Maren didn't move. Her hand was on the hilt of her dead sword, over her shoulder. She didn't draw it. There was no point.
+
+"I'll take those now," said the Warden pleasantly. "The letters, dear. And my great-great-*great*-great-grandfather's little book."
+
+"No," said Maren.
+
+The Warden sighed, gently, as if Maren were a child refusing to put on her boots.
+
+"I understand the Tower's binding very well, you know," she said. "I make it my business to understand things. One life between you, isn't it? Shared?" She glanced at the crossbows, all aimed at Emrys's chest. "So one bolt would do for both of you. Very economical. I'd rather not, honestly. It's so *messy,* and these books are irreplaceable." She held out her hand. "The letters, please."
+
+Maren looked at Emrys. He looked back at her. He was very pale. He shook his head, a tiny movement: *don't.*
+
+She took the letters out of her coat and put them in the Warden's hand.
+
+---
+
+"Sit," said Isaura Vell. "Please. Both of you. We have a little time before dawn, and I'd like to talk. I so rarely get to talk to anyone *honestly.*"
+
+They sat, on the floor of the study, because there was only one chair and the Warden took it. Two guards came in and stood behind them. The others waited in the archive. The Warden set her candle on the desk, beside the bridge-shaped paperweight, and leafed through the letters, nodding to herself, the way you'd check a shopping list.
+
+"You think I'm a monster," she said, without looking up.
+
+"You're going to burn two hundred people alive," said Maren.
+
+"Two hundred *soldiers.* Who would otherwise kill each other in a field somewhere, by spring, with or without me." She set the letters down. "Let me tell you something, Maren Holt. May I call you Maren? Your Order will tell you that the war is three hundred years old. Your Tower will tell you the same. And they're right. But what neither of them will tell you, because neither of them has ever *noticed,* is that in three hundred years, neither side has ever won."
+
+She leaned forward in her chair.
+
+"Never. Not once. Not in three centuries. Have you ever wondered why? Two great powers, hating each other with everything they have, and neither one has ever been strong enough to destroy the other?" She smiled. "That's my family. That's what we do. When the Order grows too strong, the Tower's supply trains find our tolls are suddenly very cheap. When the Tower grows too strong, the knights' horses cross for free. A little war, always. Never a big one. Never an ending."
+
+"You keep them fighting," said Emrys slowly.
+
+"I keep them *alive.*" Her voice sharpened, just for a moment, then smoothed again. "Do you know what peace would mean, child? Real peace? One road, open, anyone crossing anywhere. Do you know what would happen inside a generation? One side would get the Heart. Fane's people or Crane's, it hardly matters which. And then the other side would *burn.* All of them. Every knight, or every wizard. That's what that iron box is. It isn't a relic. It's the end of the world, waiting for someone to pick it up." She sat back. "My family has stood between them and that box for three hundred years. Someone has to hold the scales."
+
+"And it pays," said Maren.
+
+"And it pays very well." The Warden didn't blink. "I don't pretend otherwise. Virtue and profit aren't enemies, dear. They're merely rarely introduced."
+
+---
+
+She took Corvane's black book from Emrys. He held on to it for a moment too long, and a guard put a crossbow against the back of his neck, and he let go.
+
+The Warden opened it on her lap and turned the pages fondly.
+
+"He was a remarkable man," she said. "Corvane. People think it was greed, but it wasn't, not really. He looked at those two boys with their bridge, and he saw what they couldn't. That they'd open the door to a slaughter. So he closed it." She turned a page. "And then he built a better door. One with a lock. And a key. And a family to keep it."
+
+"He murdered Caelan," said Emrys. "In his sleep. And let Aldane burn for it."
+
+"Yes," said the Warden. "He did. And three hundred years of children have grown up instead of being burned to ash in the one great war that would have ended everything. I think that's a very good trade, don't you?" She looked at Maren. "You do. I can see it. You were raised to obey, weren't you, child? The Order's best squire. You understand. The world needs someone to give the orders. Someone who sees the whole board, so that everyone else can just get on with doing as they're told." She tilted her head. "You'd have made a marvelous Warden's captain. Better than Dace."
+
+Maren thought about the morning in Sir Aldric's solar. *Your father lacked the stomach for orders. You don't.* She thought about how clean that had felt. No corners. Someone else deciding, and you just doing it, and being good.
+
+"I used to think so," she said.
+
+The Warden studied her. Something moved behind the kind, handsome face. Not anger. Something more like disappointment.
+
+"Pity," said Isaura Vell.
+
+And she tore the pages out of Corvane's book, the ones about the dagger and the cook and the prince, and fed them one at a time into the candle flame.
+
+---
+
+Maren watched them burn.
+
+She watched the flame catch the corner of the first page, and run along it, quick and yellow, and the small beautiful handwriting go black and curl and vanish. *The prince is dead. The knight burns tomorrow.* She watched the Warden hold each page until the fire reached her fingertips, then drop it, smoking, into the cold hearth. Then the letters. One by one. *Use the colors and the bottles.* Gone. *Leave the boy for them to find.* Gone. *Let the dragonfire do what it does.* Gone.
+
+She'd done this. She'd stood in Sir Aldric's solar and held a letter to the brazier and watched it burn exactly like this. *If the treaty fails, the wizard does not return to his Tower.* She'd thought it was the right thing. Burn your orders. Keep your secrets. Obey.
+
+The last letter curled into ash.
+
+"There," said the Warden, dusting her fingers. "Now it's your word against mine. A disgraced squire who broke her oath in front of her whole Order, and a wizard found beside an empty reliquary. Against the Warden of the Span." She smiled. "I think I know who they'll believe."
+
+---
+
+The door at the far end of the archive opened, and someone laughed.
+
+Maren knew the laugh before she saw him. She'd heard it at the Neutral Stone. She'd heard it in a burning tent, in a storm.
+
+Captain Oriel Dace came down the long room between the shelves, big and red-bearded and delighted, in the blue and silver of the Warden's Own, with a fresh bandage on his cheek where her blade had nicked him through the mask.
+
+"Squire," he said warmly. "Wizard. Here we all are again."
+
+"*You.*"
+
+"Me." He grinned. "I did tell you. Serious people stay alive."
+
+He held out a big hand, and Maren understood what he wanted. She sat there a moment longer, just to make him wait. Then she unbuckled the straps across her chest and handed him the two dead swords: her own, and her father's.
+
+Dace hefted them, one in each hand. He tapped one against the other. They *thudded,* like wood.
+
+"Dead," he said. "Both of them. Huh." He looked at her with something almost like sympathy. "That must have been a hard morning, squire."
+
+She didn't answer.
+
+"And for you," said the Warden to Emrys, and nodded to a guard. The guard came forward with a pair of heavy iron manacles, and Maren saw the faint, familiar gleam run along their edges as they caught the candlelight.
+
+Oath-steel.
+
+They closed the cuffs on Emrys's wrists. He flinched, hard, his whole body jerking as if he'd been struck. Then he sat very still, his face gone gray, breathing carefully through his teeth.
+
+"My renegade tells me those keep a wizard quiet," said the Warden. "No spells, no tricks. Quenched in dragonfire. I had them made years ago, just in case. One so rarely needs them, but when one does." She stood, and smoothed her velvet skirts. "Well. It's been lovely. Truly. I'm sorry it has to end like this."
+
+"Like what?" said Emrys. His voice was thin.
+
+"You'll be my guests until dawn, under the bridge. My nicest cells. Very quiet." She picked up her candle. "And after the ceremony, when all the excitement's over, my guards will find you dead. Poor things. Trying to escape. Fell. It's such a long way down." She smiled, gently, like a mother tucking in a child. "Two more bodies for the story. It'll be a very good story. People will sing about it."
+
+She went to the door. She paused there, with the candlelight on her kind, handsome face.
+
+"Goodnight, Maren Holt," she said. "You'd have made a marvelous captain."
+
+Then she was gone. And Dace was hauling them both up by the collars, and laughing, and the guards were closing in, and the candle went out.
+
+### Chapter 28: Under the Bridge
+
+*Emrys*
+
+The Warden's nicest cells turned out to be a cage.
+
+It was iron, round, about the size of a cart, and it hung on a single great chain from the underside of the bridge, a hundred feet below the lowest street, over nothing at all. To get to it, Dace's men had marched them down a long spiral stair cut into the stone of the arch, and out along a narrow wooden catwalk slung under the bridge on ropes, swaying in the wind, with the whole black gulf of the Sunder yawning underneath. Then they'd pulled the cage in with a hooked pole, shoved them both inside, slammed and locked the door, and pushed it back out over the dark.
+
+It swung. Every gust of wind out of the chasm set it turning slowly on its chain, creaking, so that the catwalk and the stair and the great pale curve of the bridge's underbelly swung past, and then the empty dark, and then the catwalk again.
+
+Dace had stood on the catwalk and watched them for a while, grinning.
+
+"Get some sleep," he'd said. "I'll be back before dawn. Then we'll all go for a little walk."
+
+And then he'd gone back up the stair with his lantern, whistling, and they were alone in the dark.
+
+---
+
+The oath-steel cuffs were the worst of it.
+
+He hadn't known it would be like this. Near Maren's sword, it had been an ache in his teeth: thin, bright, annoying. These were *on* him. Wrapped around his wrists, pressed against his skin, one of them right over the thread. And they didn't ache. They *gripped.* He could feel his ember shrinking away from them, curling up tight under his breastbone like a fist, and every time he reached for it, even a little, out of pure habit, the iron bit down and the ember flinched back and there was nothing there at all.
+
+For the first time since he was six years old, he couldn't feel his own magic.
+
+"Does it hurt?" Maren asked, in the dark.
+
+"Like biting tinfoil," he said. "All over. All the time." He tried to laugh. "I used to complain about your sword. I'd give anything for your sword now. Your old sword. The live one."
+
+She was quiet for a moment.
+
+"I know," she said.
+
+He heard her moving. A small, careful scraping sound. Metal on metal.
+
+"What are you doing?"
+
+"The lock." Her voice was low and concentrated. "The buckle-pin from my belt. They took the swords. They didn't take the belt."
+
+"You can pick locks?"
+
+"No," said Maren. "But I've watched you do it three times now. And it's a very old lock."
+
+He sat in the swinging dark and listened to her work. Scrape. Click. A small sound of frustration. Scrape. It was the most hopeful thing he'd ever heard.
+
+---
+
+The cage swung. The wind moaned up out of the chasm. Somewhere far above, a bell rang the hour: three. Then, a long time later, four.
+
+"Maren," he said.
+
+"Mm."
+
+"I've been saving one."
+
+The scraping stopped.
+
+"A spell," he said. "A big one. The last big one, probably. I've been holding on to it since the pass. Not spending it on anything. Not fires, not doors." He looked down at his cuffed wrists in the dark. "I didn't know what it was for. I think I do now."
+
+"What?"
+
+"The echoes," he said. "In the Hollowwood. Ilsabet's spell. I saw how she did it. You take something true, something that really happened, something you *saw,* and you cast it out into the air so other people can see it too. Like a window." He swallowed. "The Warden burned the letters. She burned Corvane's pages. But she can't burn what we saw. What we *heard.* Her, in that study, telling us all of it."
+
+The cage creaked.
+
+"How much would it cost?" Maren asked quietly.
+
+He didn't answer for a moment. He'd made himself a promise, in the hut on the pass: *no more lies.*
+
+"A lot," he said. "Maybe everything I've got left. I don't know."
+
+She was quiet. When she spoke again, her voice was very steady.
+
+"Promise me something."
+
+"Anything."
+
+"Ask me first," said Maren. "Before you spend it. Don't decide alone. Not this time." The scraping started again, harder. "You don't get to decide alone anymore."
+
+He thought about the hollow in the March, and a dying girl, and a page in his head. *I'm sorry. You're going to be so angry.*
+
+"I promise," he said.
+
+---
+
+A little later, he realized she was talking under her breath. Very softly. Just a murmur, between the scrapes of the pin. He couldn't make out the words.
+
+"What are you saying?"
+
+The murmuring stopped. "Nothing."
+
+"It wasn't nothing. Your ears are going red. I can *hear* your ears going red."
+
+A pause.
+
+"Practicing," said Maren.
+
+He didn't ask what. He thought he knew. He sat in the swinging dark with the iron biting his wrists and smiled anyway.
+
+Then, with a small, rusty, triumphant *clack,* the lock gave.
+
+---
+
+They waited.
+
+She didn't open the door. That was the clever part, and it was entirely hers. She left it closed, with the broken lock hanging just as it had been, and sat down beside him with her back to the bars and her hands in her lap, and they waited for Dace.
+
+He came a little before five.
+
+They heard him whistling on the stair first, and then saw his lantern, swinging down the spiral, and then he came out along the catwalk, big and cheerful, with a coil of rope over one shoulder. Across his back, in a bundle, Emrys could see two sword-hilts sticking up. One of them had a faded red ribbon tied to the crossguard.
+
+"Morning, all," said Dace. "Lovely night for it."
+
+He hooked the cage with the pole and pulled it in to the edge of the catwalk, and held it there with one big boot against the bars.
+
+"Here's how this goes," he said, friendly as a man giving directions. "I open the door. You two make a run for it, very brave, very desperate, up the catwalk toward the stair. And somewhere along the way, *whoops,* the ropes are old, it's dark, you slip." He patted the bundle on his back. "And down you go. And your swords go after you, so whoever finds what's left will know you were trying to escape." He sighed. "Tragic. I'll say a few words."
+
+"You're very kind," said Emrys.
+
+"I am, actually. People don't appreciate it." Dace reached for the cage door. "Come on, then. No sense dragging it..."
+
+The door, which was not locked, flew open in his face.
+
+Maren came through it like a crossbow bolt.
+
+---
+
+She didn't go for Dace. She went for the bundle on his back.
+
+She hit him shoulder-first in the chest, hard, and he staggered back along the catwalk, and the whole thing lurched and swung on its ropes, and as he went, her hands closed on the hilt with the red ribbon on it, and she *pulled.* The sword came out of the bundle with a scrape. Her father's sword.
+
+Dace caught himself on the rope rail. He laughed, a big, startled, delighted bark. He drew his own sword, a long one, good bright ordinary steel.
+
+"With *that?*" he said. "It's *dead,* squire. It's a stick."
+
+"It's steel," said Maren. "Steel's enough."
+
+And she went at him.
+
+Emrys had seen her fight in a lot of places now. In a hollow in the March, by firelight. In a burning street. Under a magic tree with an army of ghosts coming up the hill. He had never seen her fight like this. There was no light along the blade. No singing edge. No dragonfire behind her. Just a gray sword, and a girl who had been getting up an hour before dawn every single morning for seven years to practice, in the cold, alone, with no one watching.
+
+Dace was bigger. Dace was stronger. Dace had been killing people for money since before she was born. On solid ground, he'd have won.
+
+They weren't on solid ground.
+
+The catwalk swung and bucked under them, and Dace fought like a big man on a ship's deck, feet planted wide, using his weight. Maren fought like someone who'd walked along the top of the practice-yard wall at Dawnhold every morning for fun. She went *with* the swing. She stepped where the boards were about to be. Every time the walk lurched, she was already there, and he was half a step behind. His sword came at her head; she wasn't there. It came at her legs; she was already over it, landing light. And every time, her gray blade came back at him, and every time, he had to give ground.
+
+Emrys came out of the cage onto the catwalk behind them. His hands were cuffed in front of him. He had no magic. He had no sword. He had a pair of long, clever fingers that had been taking coins out of other people's ears since he was seven.
+
+He watched Dace's belt. The big ring of iron keys that hung there, bouncing with every step.
+
+*You'd be surprised what you can do with your hands when you're not allowed to do anything else with them.*
+
+Dace drove Maren back along the walk toward him. One step. Two. The big man's back was right in front of Emrys now, his whole attention on the gray blade flickering at his face.
+
+Emrys reached out with both cuffed hands, light as a feather, as a breath, and lifted the key ring off Dace's belt.
+
+Dace never felt it. He was busy.
+
+Maren saw. Emrys watched her see. Watched her eyes flick, just once, to the keys in his hands, and then back to Dace. And something changed in her face.
+
+She stopped giving ground.
+
+She stepped *in.* Inside the long reach of his sword, where a sword that long was no use at all. Dace swung, too late. Her dead blade came up under his guard and struck his sword-hand, flat and hard, and his sword flew out of his fingers and went spinning away over the rope rail into the dark.
+
+He grabbed for her. She ducked. And the catwalk, which had been swinging the whole time, swung the other way.
+
+Dace was standing on the outside edge, his weight thrown forward, reaching. And the boards went out from under his heels, and the rope rail was suddenly at the back of his knees, and for one long moment, Captain Oriel Dace of the Warden's Own hung there against the dark with his arms wide, like a man about to dive into a lake.
+
+He looked at Maren. He didn't laugh this time.
+
+Then he went over backward.
+
+His hand caught the bundle on his own back as he went, as if to save himself, and Emrys saw the second sword in it, Maren's own, the dead one, go with him. There was no shout. There was no ledge, this time, ten feet down. No rope tied there that afternoon. There was only a big shape falling away into the black, smaller and smaller, and the faint glint of a sword turning over and over beside it.
+
+Then nothing.
+
+Maren stood on the swinging catwalk with her father's gray sword in her hand and looked down into the Sunder for a long time.
+
+"Serious people," she said quietly, "stay alive."
+
+---
+
+The keys fit the cuffs on the third try. His hands were shaking too much for the first two.
+
+When the second cuff came off, his ember came back all at once, like breath into a drowning man. He sat down on the catwalk and put his head between his knees and gasped. It was weak. It was small. It was guttering at the bottom of a well. But it was there. It was his.
+
+Five turns, still. He hadn't spent a thing.
+
+He felt the Heart. Far above them. *Thud.* Beating in the great hall of the Keystone. Waiting.
+
+Maren hauled him to his feet. "Can you climb?"
+
+"I can do anything," said Emrys, "now that I know you can win a sword fight with a stick."
+
+They climbed. The spiral stair, then a ladder, then a narrow service way bolted to the underside of the arch, all of it swaying, all of it dark. And then a trapdoor, and cold air, and gray light, and they came up out of the ground into an alley behind a fishmonger's, high on the Span, just as every bell on the whole bridge began to ring at once.
+
+A small, wild-haired figure came pelting down the alley toward them, the tin whistle bouncing on its string.
+
+"*There you are!*" Tamsin cried. "I *saw* them take you, I saw them take you down the stairs, I've been waiting *all night,* I was going to tell the *whole bridge...*" She grabbed both their hands. "The bells! Can't you hear? Everybody's going up to the Keystone! The knights are there, and the wizards, and the Warden, and the *Heart!* It's starting!"
+
+Emrys looked east. Over the rooftops, over the edge of the world, the sky was turning from black to gray.
+
+Midwinter dawn.
+
+### Chapter 29: My Own Oath
+
+*Maren*
+
+The whole Span was going up the hill.
+
+They came out of the alley into a river of people. Farmers, traders, fishwives, children on their fathers' shoulders, apprentices with their aprons still on, all of them streaming up the steep streets toward the crown of the bridge, toward the bells. Everyone wanted to see. A peace, after three hundred years. The Dragon's Heart, set out in the light for anyone to look at. Nobody wanted to miss it.
+
+Nobody looked twice at two more hooded figures and a little girl.
+
+Tamsin led them. She didn't go up the main streets. She went *through* things: under washing lines, down a stair between two houses so narrow Emrys had to turn sideways, across a rooftop, along a ledge behind a baker's chimney. "I've been *everywhere,*" she panted over her shoulder. "All night. Waiting. I know *all* the ways."
+
+The plaza at the top was packed so tight there was no room to fall down. People stood on the plinth of Corvane Vell's statue, on the rims of fountains, on each other. And at the far side, the great doors of the Keystone stood wide open to the dawn, so the whole city could see in, just as the Warden had promised. Guards in blue and silver held the crowd back from the steps with crossed spears.
+
+"There," Tamsin said, and pointed. Under the guards' spears, low down, between their legs and the doorframe, there was a gap. Just big enough for a child.
+
+Or for someone who didn't care what she looked like, crawling.
+
+Maren went first, on her hands and knees, with her father's dead sword dragging behind her on its strap. Emrys came after her. A guard shouted. Somebody grabbed at her cloak, and it tore. And then she was through, and up, and running into the great hall of the Keystone.
+
+---
+
+It was the most beautiful room she'd ever seen.
+
+Long and high and white, with columns like the trunks of the silver trees in the Hollowwood, rising to a vast dome of blue glass. The whole east wall was windows, tall and blue, and through them, the sky over the Sunder was going from gray to rose to gold. In a few moments, the sun would come up, and pour straight down the length of the hall.
+
+On the left side, the knights. Two hundred of them, in full white and gold, in long silent rows, their oath-steel sheathed. Sir Aldric at the front. On the right side, the Tower. Gray robes, pale faces, a faint shimmer in the air in front of them, wards raised, just in case. The Archmaster at the front, small and straight and white-haired.
+
+Between them, an empty aisle, and at the end of it, on a dais under the dome, the Heart.
+
+It sat in a new case: not the knights' black iron box, but something taller and more beautiful, glass and silver bands, sealed with great circles of blue wax pressed with the bridge of the Span. Through the glass, the Heart glowed, dark red, slow. *Thud.* Maren felt it through the soles of her boots even now, even with her sword dead.
+
+And beside it, in blue velvet, with her silver-gold hair in its crown of braids, the Warden of the Span was speaking.
+
+"...and so, on this Midwinter dawn, I return to the Order of First Light its most sacred treasure, recovered by the courage of my people from the hands of those who would have used it to destroy us all..."
+
+Her voice rang through the hall, warm and rich and full of feeling. Maren saw knights nodding. She saw wizards' faces tighten.
+
+"*Stop!*"
+
+---
+
+Her voice came out of her like it had on the valley floor. Like a trumpet.
+
+Four hundred heads turned at once.
+
+"She's lying!" Maren ran up the empty aisle between the two armies. Her feet rang on the white stone. "She's going to break the seals! She's going to let the dragonfire out and burn this whole hall with all of you in it! She hired the killers in the March! She hired Dace! She..."
+
+"*Holt!*" Sir Aldric's voice cut across hers like a blade.
+
+"The *thieves!*" The Warden's voice rose over both of them, high and shocked and perfectly frightened. "Oh, heaven help us, it's them! The thieves of the Heart, the murderers of Captain Dace! Guards! *Guards!*"
+
+Everything happened at once.
+
+Guards came running in from the doors. Knights were turning, staring, some of them drawing. Someone on the Tower side shouted Emrys's name. *Calder!* Somebody else shouted *oathbreaker!* And through it all, Maren saw Sir Aldric's face: iron-gray, shocked, *grieving,* looking at her as if she'd walked into the hall and struck him.
+
+They didn't believe her. Of course they didn't believe her. She'd known they wouldn't. A disgraced squire, a thieving wizard, against the Warden of the Span.
+
+But the Warden was looking at her too.
+
+And in that face, that long, kind, handsome face, Maren saw something she hadn't seen in the study by candlelight. A flicker. A tiny tightening around the eyes.
+
+*She's not sure.* Maren saw it as clearly as she'd ever seen anything. *She thought we were at the bottom of the Sunder. She didn't plan for this. And she won't wait to find out if anyone listens.*
+
+The Warden turned to the glass case beside her. From the folds of her blue velvet gown, she drew something long and thin that caught the first light from the windows: a key, or a dagger, or both, its edge gleaming faintly gold.
+
+Oath-steel.
+
+"*No!*" Maren screamed.
+
+Isaura Vell drove the blade down through the wax seals, one, two, three, and the silver bands around the case sprang apart with a sound like a bell cracking. Then the Warden stepped back. Lightly, gracefully, as if stepping away from a dance. A panel in the wall behind the dais slid open. She stepped through it.
+
+The Heart's fire came out.
+
+---
+
+It was not like any fire Maren had ever seen.
+
+It didn't burn like wood or oil or even spell-fire. It *poured.* It came up out of the broken case in a great slow rising torrent, red and gold and white at the heart, the color of a sunrise seen through closed eyelids, and it made no sound at all except a deep, vast, rising hum, like the lowest note of the biggest bell in the world. The air above the dais shivered and bent. The blue glass of the dome above it began to glow.
+
+And it *unmade.*
+
+She saw it happen. The Tower's wards, the faint protective shimmer in the air in front of the gray ranks, touched the edge of the fire and simply *stopped existing.* Not broken. Not burned. Gone, as if they'd never been cast. A wizard on the front row had raised her hand to cast something, a shield, a wall, and the light in her palm went out like a pinched candle, and she stared at her empty hand with her mouth open.
+
+Dragonfire unmakes any spell.
+
+The torrent rolled down off the dais toward them. Toward the knights on one side and the wizards on the other and the open doors and the plaza beyond, packed with people. With farmers and fishwives and children on their fathers' shoulders.
+
+With a small barefoot girl with a tin whistle.
+
+Knights drew. Oath-steel blazed up in two hundred hands, every blade in the Order of First Light lit gold at once, singing in the presence of their mother-fire. They raised them. They'd turn it. Some of it. The fire would wash around those blades like water around a rock.
+
+And pour on past them, into everyone else.
+
+Maren stood in the empty aisle with the torrent coming at her, and her father's dead sword in her hand, and knew that it wasn't enough. Nothing in this hall was enough.
+
+She thought about a courtyard in the Hollowwood, full of people who'd been told what to do and done it.
+
+She thought about her father, standing in the mud at Dawnhold with the whole Order watching. *There were children in those houses.*
+
+She thought about a boy in a shepherd's hut, with his eyes closed, pretending to be asleep, so she wouldn't have to be ashamed.
+
+She lifted her father's sword. Gray. Dead. A stick.
+
+And she said the oath. *Her* oath. The one she'd been practicing all night in the dark of a cage, under her breath, until the words had worn smooth.
+
+She didn't say it quietly.
+
+"*By steel and by flame, I swear!*"
+
+The words rang off the white columns and the blue glass and the whole hall stopped.
+
+"*I will shield the weak and spare the innocent.*
+
+*I will ask what is right, and do it, though no one orders me.*
+
+*I will not yield to fear, nor bow to a lie.*
+
+*My word is my own. And my blade is my word.*
+
+*If I break this oath...*"
+
+She planted her feet in front of the fire.
+
+"*...let my steel break with it!*"
+
+---
+
+The light came back.
+
+It didn't come slowly. It came all at once, the way a dawn comes over a mountain. It came up out of the hilt into the blade, out of her hand into the steel, gold and white and blazing, running along the edge like fire racing along a fuse. Her father's sword. Sir Corwin Holt's sword. Dead for nine years. Gray for nine years. Hanging on no wall, wrapped in oilcloth in the bottom of a squire's pack.
+
+It *woke.*
+
+It blazed so bright that the whole great hall went gold. Brighter than her own had ever burned. Brighter than any blade in the room. It sang, a high clear ringing note that went up and up and up until it filled the dome, and every knight in the hall turned to look at it, and somewhere on the left side of the aisle, in the front row, Maren heard Sir Aldric Fane make a sound she had never heard from him in her life.
+
+The dragonfire reached her.
+
+She didn't cut it. You couldn't cut something that big. She did what she'd done in the hollow in the March, the very first night, with a wave of bottled fire: she set her feet, and she *met* it. Blade first. Oath-steel, quenched in this same fire long before she was born, meeting its mother.
+
+The torrent split around her father's sword like a river around the prow of a ship.
+
+It was heavier than anything. It was like holding up the sky. The force of it drove down through her arms into her shoulders into her spine into her heels, and her heels slid back across the white stone, an inch, two inches, and her arms screamed, and her side where the knife had gone in screamed louder. She didn't let go.
+
+She *turned* it.
+
+Not aside. Up.
+
+She dragged the blazing blade around and up, the way you'd turn a horse, and the whole roaring torrent of dragonfire turned with it, like water following a channel, and went up. Away from the knights. Away from the wizards. Away from the open doors and the plaza and the people. Straight up, in a single vast pillar of red and gold, into the dome.
+
+The blue glass of the dome went white. Then it *shattered,* all of it, at once, outward, into the sky, a great bursting crown of glittering blue shards flung up into the dawn.
+
+And the fire went up through it.
+
+Up and up, out of the broken dome, above the Keystone, above the whole Span, a column of flame a mile high standing on the crown of the bridge, burning red and gold and white against the rising sun. People in the plaza screamed and fell to their knees. People in the streets below stopped and stared up. On the far side of the Sunder, in the hills, in the mountains, anyone awake at that hour would see it and remember it all their lives: a pillar of fire at Midwinter dawn, rising out of the city on the bridge.
+
+She held it. She didn't know how long. She held it until her arms were nothing but pain and her eyes were full of gold, and the fire began, slowly, slowly, to thin. To dim. To falter. The torrent became a stream. The stream became a trickle. The pillar above the Span flickered, and shrank, and went out.
+
+Behind her, on the dais, the Heart sat in the wreck of its glass case. Dark red. Dimmer than before. Still beating.
+
+*Thud.*
+
+The broken glass of the dome came pattering down out of the sky over the whole hall like blue rain.
+
+---
+
+The great hall of the Keystone was utterly silent.
+
+Maren stood in the middle of the aisle with her father's sword in her shaking hands, light still running softly along its edge, and four hundred people staring at her. Knights. Wizards. Guards in blue and silver with their spears forgotten in their hands. At the doors, the faces of the crowd, packed shoulder to shoulder, white with shock.
+
+She couldn't feel her arms.
+
+"She's gone," Maren said hoarsely. Nobody moved. She raised her voice, and it cracked. "The Warden. She's *gone.* Through the wall. Behind the dais. She's getting away..."
+
+Nobody moved.
+
+Then someone was beside her. A hand on her elbow, holding her up. Thin, long-fingered, cold. She knew it without looking.
+
+"Maren," said Emrys quietly, very close to her ear. His voice was strange. Steady and gentle and terribly calm. "Maren. I need to ask you something."
+
+She turned her head and looked at him.
+
+He was looking at the room. At the knights, staring. At the wizards, staring. At Sir Aldric and the Archmaster, at the front of their two armies, still not moving, still not *sure,* still waiting for someone to tell them what had happened here and whose fault it was. At the open door behind the dais, where the Warden had gone.
+
+"You said I don't get to decide alone anymore," he said. "So I'm asking."
+
+She knew what he meant. She knew it the way she knew her own heartbeat. *Their* heartbeat.
+
+The last big one.
+
+### Chapter 30: The Echo
+
+*Emrys*
+
+She didn't hesitate.
+
+He'd thought she might. He'd thought, standing beside her in the ringing silence of the great hall with blue glass still falling out of the sky, that she'd look at him and look at her wrist and do the arithmetic, the way he had a hundred times in the dark. Five turns. Fifteen months. And whatever was left after this.
+
+She didn't do the arithmetic. She looked at his face, and that was all.
+
+"Yes," said Maren.
+
+She shifted her father's blazing sword into her right hand. And with her left, she reached down and found his left hand, and laced her fingers through his, and turned their wrists so the red threads pressed together, pulse to pulse.
+
+"Together," she said. "This time."
+
+He nodded. He couldn't speak.
+
+He closed his eyes and reached for his ember.
+
+---
+
+It was so small now.
+
+He found it at the bottom of the well, where it had always been, but the well was deeper than it had ever been, and the ember was a coal, a spark, a single red point of warmth glowing in the dark. He could feel the edges of it. He could feel exactly how much was left. And around it, wound through it, he could feel the thread: the place where his life ran into hers and hers ran into his, the place where there was no edge between them at all.
+
+*I'm going to spend most of it,* he told her, without words. He didn't know if she could hear.
+
+Her hand tightened on his. *I know.*
+
+He took a breath. And he remembered.
+
+Not the way you usually remember. Not in pieces, the way memories come back, faded and out of order. He remembered the way Ilsabet had, under the great tree: completely. Every detail. Every word. He reached back into his own head and found the study behind the archive in the Keystone, at midnight, by candlelight, and held it, and *opened his hands.*
+
+The air of the great hall changed.
+
+He heard the gasps. He didn't open his eyes. He didn't need to. He could feel it happening, the way you can feel a sail fill: the spell going out of him, *pouring* out of him, through his chest, through his hands, into the air above the aisle, and taking shape there. Silver. Luminous. Vast. A window hanging in the middle of the hall, three times the height of a man, as clear as glass.
+
+And in it, a small, cold study. A desk, with a paperweight shaped like a bridge. A single white candle. A woman in blue velvet with her silver-gold hair in a crown of braids, sitting in the only chair, leafing through a stack of letters and nodding to herself.
+
+The Warden of the Span.
+
+"*You think I'm a monster,*" said the echo of Isaura Vell. Her voice filled the hall. Warm, rich, gracious, every syllable perfectly clear. "*Let me tell you something. In three hundred years, neither side has ever won. Never. Not once. Have you ever wondered why?*"
+
+He heard someone in the knights' ranks make a sound like they'd been struck.
+
+"*That's my family. That's what we do. When the Order grows too strong, the Tower's supply trains find our tolls are suddenly very cheap. When the Tower grows too strong, the knights' horses cross for free. A little war, always. Never a big one. Never an ending.*"
+
+The turn went.
+
+He felt it slide out of him, out of both of them, down into the dark. Felt Maren jerk beside him and hold on. Four.
+
+He didn't stop.
+
+He reached further back. Into the archive. Into a black book on a cold floor, and his own voice reading by lantern-light, and his own eyes seeing every line. And the window in the air grew, and divided, and beside the Warden in her study, there was a page, written in small, beautiful, even letters, huge and luminous above four hundred upturned faces:
+
+*Paid, for a knight's dagger from the armory at Concord, and for a smith to set the mark of my house upon it, beneath the guard, that I may know my own work.*
+
+*The prince is dead. The knight burns tomorrow.*
+
+*The bridge will not be built. Not by them.*
+
+*Let the war keep them apart, and the bridge keep my house.*
+
+The turn went. Three.
+
+He reached further. Further back than the Span. Back into the Hollowwood, into the broken tower at Concord Keep, into gray light three hundred years old. And there they were, above the aisle, beside the page and the study: two young men bent over a map of the Sunder. A big fair-haired knight with a broken nose. A slim dark wizard with a little lantern-light floating at his shoulder.
+
+"*Four hundred feet of stone,*" said Prince Caelan, his voice warm and hoarse, filling the hall, "*if your masons and my wizards work together. A bridge, Aldane. Two lands, one road.*"
+
+"*The ferry-lords won't like it,*" said Sir Aldane.
+
+"*The ferry-lords will have to learn to swim.*"
+
+And their laughter rang out over the great hall of the Keystone, over the knights and the wizards and the guards and the crowd packed at the doors, two friends laughing together across three hundred years. And then, in the doorway of the tower room, a tall smudged figure in a dark cloak, setting down a jug of wine, murmuring as he turned away:
+
+"*...the ferries have served this family for a hundred years...*"
+
+He felt the next turn going. He felt it start to slide, and he held on to the spell, because there was one more thing, the last thing, the one that mattered most. The study again. The Warden again. The last letter, in her own voice:
+
+"*At dawn, when the Heart is set before them in the great hall, break the seals. Let the dragonfire do what it does. The hall will burn with both delegations inside it. Whoever crawls out will swear the other side did it, and they will believe it with all their hearts.*"
+
+A pause. A gentle, regretful smile.
+
+"*The way they always have.*"
+
+Two.
+
+Maren's hand crushed his. *Enough.*
+
+He felt it, through the thread, clearer than words. *Emrys. Enough. They've seen. Stop.*
+
+He'd promised. He didn't get to decide alone anymore.
+
+He let go.
+
+---
+
+The window in the air faded. Slowly, like breath from glass. The study, the page, the two friends laughing over their map, the smudged figure in the doorway: all of it went silver, and then pale, and then thin as mist, and then it was gone, and there was only the white hall and the blue sky above the broken dome and four hundred people standing in absolute silence.
+
+Emrys opened his eyes.
+
+His legs folded under him. Maren caught him. She went down with him onto the white stone, holding him up, her blazing sword clattering down beside them, and for a moment there was nothing in the world but her arm around his shoulders and the heartbeat in his wrist, weak and slow, and hers, matching it.
+
+He looked down at their joined hands. At the thread.
+
+Two turns.
+
+Six months.
+
+He'd known. He'd done the sum. It still hit him like a fist.
+
+"*Seal the bridge.*"
+
+The voice rang out across the hall. Iron. Absolute.
+
+Sir Aldric Fane had stepped out into the empty aisle. He stood alone between the two armies, his gray head bare, his face like a cliff after a storm. He wasn't looking at Maren. He wasn't looking at Emrys. He was looking at the open panel in the wall behind the dais, where the Warden had gone.
+
+"Seal every gate. Every lift. Every stair to the low markets," he said. "Find the Warden of the Span, and bring her here."
+
+The knights moved.
+
+And then, before they'd gone three steps, a second voice, cold and precise and carrying, from the other side of the aisle:
+
+"There are wards on that passage. A great many of them." The Archmaster had stepped forward too. She stood across the aisle from the Knight-Commander, small and straight, her white hair bright in the sun now pouring through the broken dome. "Your knights will walk straight into them. Mine can see them." A pause. "Shall we go together, Knight-Commander?"
+
+Sir Aldric looked at her. Across the empty aisle. Across three hundred years.
+
+"Yes," he said.
+
+They went together.
+
+---
+
+They found her at the bottom of the bridge, at the head of the great chain-lift that went down to the low markets and the river barges, waiting for the basket to come up. She had a satchel over her shoulder, a traveling cloak over her blue velvet, and three guards with her. The guards surrendered as soon as they saw the knights and the wizards coming down the stair side by side. The Warden didn't run.
+
+They brought her back up to the great hall in the sunlight, between a knight and a wizard, her hands bound with an oath-steel cuff she'd had made herself. The crowd at the doors parted to let her through, in total silence, and closed behind her.
+
+She walked up the aisle as gracefully as she'd walked everywhere. Her braids were coming loose. Her velvet was dusty at the hem. Her face was perfectly calm.
+
+She stopped in front of Maren and Emrys, still sitting on the white floor with Maren's arm around him, and she looked down at them.
+
+"You have no idea," said Isaura Vell softly, "what you've done. No idea at all. Three hundred years, I kept those scales. Three hundred years my family stood between them and the end of the world. And now you've opened the door." She shook her head, almost gently. "Someone has to hold the scales, children. Who's going to do it now?"
+
+Emrys looked up at her.
+
+He thought about two friends over a map. About a small, beautiful, steady handwriting in a black book. About a skinny barefoot girl at the Ford, singing *and nobody's put it right.*
+
+"I don't know," he said. "But I've got some news for the ferry-lords."
+
+The Warden raised her eyebrows.
+
+"They'll have to learn to swim," said Emrys.
+
+Something moved in Isaura Vell's face, for just an instant. Then the knight and the wizard on either side of her took her arms, and turned her, and led her away down the long white hall, out through the doors, into the morning.
+
+---
+
+When she was gone, the Archmaster crossed the aisle.
+
+She knelt on the white stone beside Emrys, in her plain gray robe, without any ceremony at all. She took his left wrist in her cold, dry fingers and turned it to the light, and looked at the thread.
+
+Two turns.
+
+Her face didn't change. But her fingers, holding his wrist, tightened very slightly.
+
+"Two," she said quietly.
+
+"I know."
+
+She looked at Maren, still holding him up, the blazing sword lying beside her on the floor. She looked a while. Then she turned her head and looked up at the dais under the shattered dome, where, in the wreck of its broken glass case, the Heart still lay.
+
+Dark red. Dimmer than it had been. But glowing.
+
+*Thud.*
+
+"Its fire," said the Archmaster, "can still cut it."
+
+### Chapter 31: Cutting the Thread
+
+*Maren*
+
+By midmorning, the great hall of the Keystone was nearly empty.
+
+The knights had gone out to take charge of the gates. The wizards had gone with them, to find and break every ward the Warden's renegade had ever laid on the Span. Both at once, side by side, which was so strange to see that people kept stopping in the streets to stare. The crowd had been sent home. The broken blue glass had been swept into glittering heaps along the walls. Sunlight poured down through the shattered dome onto the white floor, and the wind from the Sunder came in through it, cold and clean.
+
+Only a few people were left.
+
+Emrys sat on a bench by the wall, wrapped in someone's cloak, gray-faced and silver-haired and very still. Maren sat beside him. She hadn't let go of his hand since the aisle. She hadn't really noticed she was holding it until the Archmaster glanced down at their fingers and then away, and by then it was too late to let go without it meaning something, so she didn't.
+
+Sir Aldric stood by the dais with the old knight-chaplain, the one with the scarred face who'd opened the reliquary in the camp at the pass. The Archmaster stood a little apart from them, her thin hands folded. And at the great doors, in a patch of sunlight, the innkeeper Brenna stood with her arms crossed, and Tamsin sat on the threshold with her knees up and her chin on them, watching everything with enormous eyes.
+
+She'd come running up the aisle after the Warden was taken, straight past two knights and a wizard who tried to stop her, and flung her arms around Maren's neck and then around Emrys's, and said, fiercely, into his shoulder: "*You did it. You found out what really happened.*"
+
+"I promised," Emrys had said.
+
+"I'm going to sing it," Tamsin had told him. "The right way. The *whole* thing. I'm going to sing it all the way home."
+
+---
+
+"I'll say it plainly," said the Archmaster. "Because I don't think either of you has had the plain truth said to you in quite a while."
+
+She looked at Maren.
+
+"When the thread is cut, your body takes back its own life. Your wound is healed. You're young and strong. You'll live a long time, Maren Holt. Sixty years. Seventy. It all comes back, at once, the moment the fire touches the thread."
+
+Then she looked at Emrys. Her face didn't soften, exactly. But something in it went still and careful, the way you'd handle something cracked.
+
+"And you keep what's left. Two turns."
+
+"Two seasons," said Emrys quietly.
+
+"*At the pace you've been burning,*" said the Archmaster. "Fires and floods and doors in magic trees. Every spell fanning the coal." She shook her head. "A wizard's ember isn't a candle, Emrys. It never was. It's a coal. Stop blowing on it, and it lasts far longer than anyone's arithmetic. I've known one master who stopped casting at thirty and lived to see sixty." She paused. "If you never cast again, a year. Perhaps more. Perhaps a good deal more. I can't promise you."
+
+"Two winters," said Emrys, "maybe three. If I'm very careful and very boring." He smiled crookedly. "I've said that before. I don't think I've ever once managed boring."
+
+"Then learn," said the Archmaster.
+
+Maren looked down at their two hands. At the two red turns of thread on each wrist, side by side.
+
+She didn't want to cut it.
+
+That was the thing that surprised her. She'd wanted it gone so badly, at the start. In the hollow, with her sword at his throat. In the March, every time she felt a breath go out of her. In the hollow by the stream, when he'd asked her and she'd said *yes.* But now that the moment was here, all she could think about was the heartbeat. The second one, half a step behind hers, and then not behind at all. The steadiest thing she'd felt in weeks. When it was gone, it would be gone. Her chest would have just one heart in it again, all alone, like before.
+
+"Maren," said Emrys.
+
+She looked up.
+
+"Let me do one thing," he said, "that isn't magic. Just one. Let me give it back to you. Your life. Your sixty years, your grandchildren, all of it." His voice wobbled, and he steadied it. "I took it without asking. Let me give it back. Please."
+
+She held his eyes for a long moment.
+
+"You don't get to decide alone," she said.
+
+"I know. I'm *asking.*"
+
+She looked at the thread. Two turns. Hers and his.
+
+"Cut it," said Maren. And then, before he could say anything: "And then I'm staying anyway. So don't start."
+
+He opened his mouth. Shut it again. Looked at her.
+
+"*Right,*" said Emrys faintly.
+
+---
+
+The fire was the problem.
+
+Dragonfire unmade any spell, which meant the Archmaster couldn't touch it with magic. Her magic would simply stop existing the instant it came near. And it would burn any ordinary hand that tried to hold it. Only one thing in the world could carry dragonfire safely: the steel that had been born in it.
+
+So Sir Aldric drew his sword.
+
+He stood at the broken case on the dais, with the Heart glowing dimly in its wreck of glass and silver, and held the tip of his oath-blade just over it, very carefully, the way you'd hold a taper to a hearth. And the Heart beat, *thud,* and a single thread of red-gold fire rose up out of it like smoke and curled around the steel, and clung there, burning.
+
+He carried it down off the dais. Slowly. The flame burned on the tip of his blade like a candle.
+
+The Archmaster walked beside him. She didn't cast. She simply watched the fire, and the thread, and talked to him in a low steady voice: *Lower. Slower. Not there. There. Where the turns cross. Do you see? That's the root.* She knew exactly where to touch it. She'd read the binding in the Locked Hours, too, a long time ago.
+
+The Knight-Commander of the Order of First Light, and the Archmaster of the Tower of Hours, walking together up the white hall with a thread of dragonfire burning between them.
+
+Maren held up her left wrist. Emrys held up his. They pressed the insides together, pulse to pulse, the way he'd done in the hollow in the March, on the first night, when she was dying.
+
+"Ready?" said Sir Aldric.
+
+She looked at Emrys. He looked back at her.
+
+"Yes," they said.
+
+The fire touched the thread.
+
+It burned away like a hair in a candle. There was no other way to describe it. One instant, two red turns wound around their joined wrists, glowing. The next, a tiny bright flare, a whisper like silk tearing, and they were gone. Just gone. Two wrists, side by side, with nothing on them at all. Not even a mark.
+
+And her life came back.
+
+It came all at once, the way the Archmaster had said. It came up from somewhere deep inside her that she'd forgotten was there: a rush, a flood, a great warm tide pouring up through her chest and out into her arms and her legs and her face. Like breath after a long dive. Like spring. She heard herself gasp. She felt her heart give one huge, hard, startled *knock* against her ribs, as if waking up.
+
+And then beat on.
+
+Alone.
+
+She listened for the other one. The half-step behind. The echo. It wasn't there. There was only her own heart, strong and steady and fast, in her own chest, and silence where his had been.
+
+She hadn't known it would feel like grief.
+
+Beside her, Emrys let out a long, slow breath and sagged back against the wall. His face was gray. His hands were shaking. But his eyes, when he turned them to her, were clear.
+
+"Hello," he said softly. "There you are."
+
+She couldn't speak. She took his hand. His left hand, in her left hand. No thread now. No magic in it at all. Just his hand, cold and thin, and hers, warm.
+
+"This is me," Maren said. "Choosing."
+
+He looked at their hands for a long time.
+
+"You know," he said finally, a little unsteadily, "you don't get to decide alone either."
+
+"I know."
+
+"Good." His fingers tightened around hers. "I just wanted that on the record."
+
+---
+
+Sir Aldric lowered his sword. The last thread of dragonfire on its tip went out.
+
+He didn't sheathe it. He stood there in the sunlight on the white floor, looking at Maren, and at the sword lying across her knees: her father's sword, with the faded red ribbon on its crossguard, light still running softly along its edge.
+
+"May I?" he said.
+
+She hesitated. Then she nodded.
+
+He didn't take it. He just knelt, slowly, stiffly, the way old men kneel, there on the white floor in front of the bench, and looked at it. At the worn leather on the grip. At the light.
+
+"Corwin's," he said.
+
+"Yes, sir."
+
+He was quiet.
+
+"Elmsby," said Sir Aldric Fane. "The torch your father refused."
+
+Maren went very still.
+
+"You never asked me who carried it, after," he said. "Not once, in seven years. I was always grateful for that." He didn't look up from the sword. "I did. I carried it myself. The next morning. I told myself I was obeying. That I'd given the order, so I should be the one to carry it out, so no other knight would have to. I told myself that was duty." His voice didn't rise. It didn't need to. "Your father was the better knight. I knew it the day his blade died. I've known it every day since. I took you in because of it. And then I spent seven years teaching you to be the knight *I* was, instead of the one he was." He looked up at her, finally. His iron eyes were wet. "I'm sorry, Maren. I'm more sorry than I can say."
+
+She didn't know what to say. She didn't say anything. She just sat there with the sword across her knees and Emrys's hand in hers and looked at him.
+
+"I can still knight you," he said. "Today. Here. As I promised. The Holt name..."
+
+"I already swore," said Maren.
+
+He looked at the blade. At the light.
+
+"Yes," he said slowly. "You did." He bowed his gray head. "And I'll see your father's name cut in gold in the chapel at Dawnhold, where it should have been all along. And his sword..."
+
+"His sword's not going on any wall," said Maren. "It's coming with me."
+
+Sir Aldric looked at her. Then, for the first time in the seven years she'd known him, he smiled. Really smiled. It changed his whole face.
+
+"Yes," he said. "I suppose it is."
+
+---
+
+The Archmaster came last.
+
+She didn't kneel. She stood in front of Emrys with something in her hand: a single page of thick, cream-colored paper, folded once. Maren knew what it was before he did. She'd seen him look at the Ledger Hall in his head, every time he talked about it.
+
+"I carry them with me," said the Archmaster. "The pages of anyone I send out of the Tower. In case."
+
+She unfolded it. Maren could see the handwriting. A hundred lines of it. And at the bottom, in larger letters, a sum.
+
+The Archmaster tore it in half.
+
+Then she tore it in half again. And again. And let the pieces go, and the wind from the broken dome took them, and they went whirling up into the bright cold air like the cherry blossoms in the Tower's inner court, and were gone.
+
+"Your debt is paid," she said. "Every line."
+
+Emrys stared up at the empty sky where the pieces had gone.
+
+"And Pell's?" he said. "And all the others? Every first-year? Every page?"
+
+The Archmaster looked at him. Then she looked across the hall at Sir Aldric, still kneeling on the white floor beside Maren's father's sword. Then at the Heart on the dais, glowing in its broken glass.
+
+"One page at a time," said Ysolde Crane. "But yes. All of them. Eventually."
+
+At the doors, in the sunlight, Tamsin had started to sing. Very softly, to herself, trying out new words.
+
+> *Oh, the knight and the prince were the best of friends,*
+> *one wore the dawn and one carried the flame...*
+
+Maren leaned her head back against the cold white wall, and closed her eyes, and listened to her own heart beat, alone, strong, hers.
+
+And held on to his hand.
+
+### Chapter 32: Dawn
+
+*Emrys*
+
+They swore the treaty the next morning, at dawn.
+
+There had been an argument about that, of course. There had been arguments about everything, all day and most of the night, in the great hall with no roof, around a long table carried in from somewhere and set right under the broken dome. Sir Aldric said a thing like this ought to be sworn at dawn, as the Order had always sworn things. The Archmaster said it ought to be sworn by flame, as the Tower always had. They went back and forth about it for an hour, very politely, in the way of two people who had been enemies for their entire lives and were trying very hard not to be.
+
+In the end, Maren, who had been sitting at the end of the table not saying anything, said, "Why not both?"
+
+They both looked at her.
+
+"*By steel and by flame,*" she said. "It used to be both. Before."
+
+Nobody had an answer for that. So it was both.
+
+---
+
+Emrys sat on the bench by the wall and watched them write it.
+
+He wasn't allowed to do anything more strenuous than that. The Archmaster had looked at him once, sharply, when he tried to get up to fetch a jug of water, and he'd sat back down again so fast he nearly missed the bench. *If you never cast again,* she'd said. *A year. Perhaps more.* He found he had developed, overnight, a very great interest in sitting still.
+
+He listened instead. And it was the strangest thing he'd ever listened to.
+
+The Span would be governed by a council now. Not a Warden. Three seats: one for the Order, one for the Tower, and one for the people who actually lived on either side of the Sunder. The farmers and the fishwives and the innkeepers. Brenna had been asked to sit in that seat for the first year, and had said *absolutely not* four times, and then *fine, but I'm not wearing a hat.*
+
+There would be no more tolls.
+
+That was the line that made him stop breathing for a moment, when Sir Aldric read it out. *No more tolls. The Span is open to all, from either side, at any hour, without fee.* Two lands. One road. Anybody could cross. Farmers, merchants, children.
+
+Three hundred years late. But built.
+
+The Tower would begin, starting this winter, to close the Ledger. Not all at once. *One page at a time,* the Archmaster said again, and wrote it into the treaty in her small, precise hand, and Emrys saw Sir Aldric watching her write it with an expression he couldn't read.
+
+And the Heart.
+
+That was the longest argument of all. Who would keep it. Where it would go. Whether it would go back to the chapel at Dawnhold, or across to the Tower, or neither. Whether anyone had the right to it at all. Somewhere around midnight, the old knight-chaplain, who hadn't said a word all day, cleared his throat and said, quietly, "It's alive, you know. It's been alive this whole time. Has anyone asked whether it was ever ours?"
+
+Nobody had an answer for that either.
+
+So the Heart would stay on the Span, under the broken dome, in the open air, where anyone could come and look at it. And it would be guarded.
+
+Not by knights. Not by wizards.
+
+By both.
+
+---
+
+They called it the Bridgewatch.
+
+That had been Tamsin's idea, actually. She'd been sitting under the table for most of the night, listening, and when the grown-ups started arguing about what to call it, she'd stuck her head out between Sir Aldric's boots and said, "*The Bridgewatch.* Because you watch the bridge. *Obviously,*" and gone back under. And nobody could think of anything better.
+
+Knights and wizards. Together. Sworn to guard the Span and the Heart and the road and anyone on it, from anything at all. Answering to the council, and to no Order and no Tower.
+
+And at the bottom of the treaty, after all the long lines of terms and conditions and signatures, there were two more names. The first two members of the Bridgewatch.
+
+*Maren Holt.*
+
+*Emrys Calder.*
+
+"I'm not sure about this," he'd said, when the Archmaster put the pen in his hand. "A wizard who isn't allowed to do any magic. In a guard. I'm going to be extremely ornamental."
+
+"You'll keep the books," said the Archmaster. "You'll read the wards. You'll talk to people. You're very good at talking to people." A pause. "And you'll keep that girl from doing anything stupid."
+
+"Nobody," said Emrys, "can keep that girl from doing anything stupid."
+
+"Then you'll do it with her," said Ysolde Crane. "Sign."
+
+He signed.
+
+---
+
+The sun was coming.
+
+The hall was full again. Knights on one side, wizards on the other, in long rows, the way they'd stood the morning before. But it was different now. It took him a moment to see how. Then he saw it: they weren't in two neat blocks anymore. At the edges, where the rows met in the middle, they'd blurred. A young knight was standing next to a young wizard and showing her the hilt of his sword. Two old masters from the Tower were talking to Sir Bertram, who was looking deeply uncomfortable and nodding. The aisle down the middle was still there. But it was narrower.
+
+The doors were open. The plaza beyond was packed. Brenna was at the front in her knitted hat, which she had said she wouldn't wear. Tamsin was on her shoulders.
+
+The east windows went from gray to gold.
+
+And Maren walked out into the middle of the hall, alone, in her plain quilted coat with no colors on it at all, and drew her father's sword, and stood facing the dawn.
+
+Emrys had seen her do this once before. On top of the Greyspine Pass, three days ago, with her hand on a dead hilt, saying nothing. He thought about that morning now, watching her. Her straight back. Her chin up. Waiting for the light.
+
+The first sliver of the sun came over the edge of the world and poured straight down the length of the great hall, through the tall blue windows, across the white floor, and onto the blade in her hands.
+
+It blazed.
+
+"*By steel and by flame, I swear,*" said Maren.
+
+Her voice was quiet. It didn't need to be loud. The whole hall had gone silent.
+
+"*I will shield the weak and spare the innocent.*"
+
+Somewhere in the rows, very softly, another voice joined in. A young knight's.
+
+"*I will ask what is right, and do it, though no one orders me.*"
+
+Then another. A wizard, this time, in gray.
+
+"*I will not yield to fear, nor bow to a lie.*"
+
+Then three more. Then a dozen. Knights and wizards both, from both sides of the narrow aisle. Not all of them. Not even most. But some. Enough. Saying it with her, the words still new and strange in their mouths, stumbling a little, catching up.
+
+"*My word is my own. And my blade is my word.*"
+
+"*If I break this oath,*" said Maren, and twenty voices with her, "*let my steel break with it.*"
+
+The light ran up and down the blade like water in a fountain. She stood there in it, in the sunrise, with her father's sword blazing in her hands and her own oath ringing in the air, and she wasn't alone.
+
+The first morning he'd ever imagined her, she'd been drilling alone in a frozen yard before dawn, with nobody watching. He knew that, the way he knew so many things about her now.
+
+She wasn't alone anymore.
+
+---
+
+That was when he felt it.
+
+Far away. So far it took him a moment to understand what it was. North. Hundreds of miles north, over the Greyspine, past the brown hills, in the black heart of a silent forest. A great old spell he'd once knelt in front of, with his hands in its light.
+
+Letting go.
+
+Not breaking. Not tearing. *Unknotting.* Slowly, gently, all at once. Like a held breath going out. He felt the whole vast weave of it loosen and lift and dissolve, thread by thread, into the morning, and he knew, the way you know things in dreams, that in the courtyard at Concord Keep, two hundred silver soldiers who had marched in as friends every night for three hundred years would not be marching in tonight. Or ever again.
+
+*Until it is made right,* Ilsabet had written. *Not one moment before.*
+
+Emrys put his hand flat over his chest, over his small, careful, guttering ember, and closed his eyes.
+
+"*Thank you,*" he whispered to her. To all of them.
+
+---
+
+When he opened his eyes, Tamsin was standing in front of him.
+
+She'd slipped off Brenna's shoulders and wriggled through the crowd, and now she stood there with her tin whistle around her neck and her hands behind her back and her enormous eyes fixed on him.
+
+"Can you do a spell?" she said. "A little one? For the treaty? Like flowers?"
+
+He looked at her. He thought about cherry trees in the dead of winter, blooming in a frozen courtyard, and a whole tower full of masters gasping. He thought about how easy it would be. Just a little one. Just a day or two.
+
+"No," said Emrys.
+
+Tamsin's face fell.
+
+"But," he said, and held up an empty hand, front and back, and reached out, and plucked a silver coin from behind her ear.
+
+She shrieked. Half the hall turned around. He made the coin walk across his knuckles, and vanish, and appear in his other hand, and vanish again, and turn up, finally, in the pocket of Tamsin's own dress, where she found it with a gasp of pure outrage and delight.
+
+And he laughed.
+
+He hadn't known he was going to. It came up out of him from somewhere deep and warm and surprised, the way the river had stood up at the Ford. Not his bright laugh. Not the Neutral Stone laugh, the one that was all surface. A real one. It went on longer than he meant it to. He couldn't stop it. He didn't want to.
+
+Maren had come back from the middle of the hall. She was standing beside the bench with her blazing sword sheathed at her hip, looking down at him. Her face was doing something complicated.
+
+"What's funny?" she said.
+
+"Nothing," said Emrys. "Everything. I don't know." He wiped his eyes. "I'm just *very* happy, Sir Grim."
+
+"I'm not a sir."
+
+"Squire Grim, then."
+
+"I'm not a squire either."
+
+"Then what are you?"
+
+She thought about it. Seriously, the way she thought about everything. All the way through.
+
+"Just Maren," she said.
+
+She held out her hand. Not to help him up. Just held it out.
+
+He took it. And she didn't let go, there in front of the whole hall, the knights and the wizards and the council and the crowd and a small girl with a coin in her pocket. She just stood there, holding his hand, in the sunrise, as if it were the most ordinary thing in the world.
+
+"Just Maren," Emrys repeated softly.
+
+The corner of her mouth moved. Then the other corner.
+
+It was not a baby smile. It was the real thing.
+
+---
+
+Behind them, on the dais under the open sky, the Heart beat.
+
+*Thud.*
+
+He felt it, as he always did. Slow and vast, like the sea.
+
+*Thud.*
+
+Then faster. Just a little. He frowned.
+
+*Thud. Thud.*
+
+Faster. Brighter. Nobody else seemed to notice. The old knight-chaplain, standing guard beside it with a young wizard of the new Bridgewatch, was looking out at the sunrise. But Emrys saw the red glow inside the Heart brighten, and quicken, and brighten again, like a fire someone had breathed on. Like something waking up. Like something *listening.*
+
+And then, from far, far below, from somewhere deep beneath the Span, beneath the bridge and its cages and its lifts and its swaying catwalks, beneath the silver thread of the river at the bottom of the Sunder, deeper than anyone had ever gone, deeper than anyone had ever thought to look...
+
+Something answered.
+
+*Thud.*
+
+Emrys went very still.
+
+He felt Maren's hand tighten on his. He looked up at her, and she was looking at him, and he saw in her face that she hadn't heard it. Not with her ears. But she'd felt *him* go still. She knew him that well now. Thread or no thread.
+
+"What?" she said quietly.
+
+Across the hall, the Archmaster had turned her head. She was looking at the Heart. And then, slowly, she looked down, at the white floor, as if she could see straight through it, through the bridge, into the depths of the Sunder below.
+
+Her pale eyes met his across the hall.
+
+*A dragon's life is vast,* she'd told him once, in the Ledger Hall, a lifetime ago. *Older than this Tower. Deeper than the Sunder.*
+
+*Thud,* said the Heart.
+
+*Thud,* said something far below.
+
+"Maren," said Emrys. "I think we're going to need a bigger watch."
+
+---
+
+*End of Book One*

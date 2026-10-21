@@ -1,0 +1,616 @@
+<title>The Heart-Thread Read-Aloud</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya+SC:wght@500;700&family=Alegreya:ital,wght@0,400;0,600;1,400&family=Alegreya+Sans:wght@400;500;700&display=swap">
+<style>
+/* Layout: one reading column; a fixed "player" bar at the bottom with big, wet-hand-friendly controls */
+:root {
+  --bg: #f1f2f6;
+  --surface: #ffffff;
+  --ink: #1b1f33;
+  --muted: #565d75;
+  --line: #d6d9e5;
+  --azure: #2b4a9a;
+  --azure-ink: #ffffff;
+  --gilt-wash: #f7e8c0;
+  --gilt: #8a6a1f;
+  --font-display: "Alegreya SC", Georgia, "Times New Roman", serif;
+  --font-read: "Alegreya", Georgia, "Times New Roman", serif;
+  --font-ui: "Alegreya Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --player-h: 8rem;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #11131c; --surface: #1a1d2a; --ink: #e6e8f2; --muted: #9ba1b9; --line: #2d3146;
+    --azure: #91a9f3; --azure-ink: #0f1530; --gilt-wash: #3b3320; --gilt: #dcb75c;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #11131c; --surface: #1a1d2a; --ink: #e6e8f2; --muted: #9ba1b9; --line: #2d3146;
+  --azure: #91a9f3; --azure-ink: #0f1530; --gilt-wash: #3b3320; --gilt: #dcb75c;
+  color-scheme: dark;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-ui);
+  font-size: 1rem;
+}
+.wrap {
+  max-width: 44rem;
+  margin: 0 auto;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+
+/* Header */
+header.top { padding-block: 1.5rem 0.5rem; display: grid; grid-template-columns: minmax(0, 1fr); gap: 0.75rem; }
+.eyebrow {
+  font: 600 0.78rem/1 var(--font-ui);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--gilt);
+}
+h1.brand {
+  font: 700 clamp(1.7rem, 5vw, 2.3rem)/1.1 var(--font-display);
+  margin: 0;
+  text-wrap: balance;
+}
+.note {
+  font-size: 0.98rem;
+  line-height: 1.5;
+  color: var(--muted);
+  margin: 0;
+}
+.chapter-row { display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center; }
+.chapter-row label { font-weight: 600; font-size: 0.9rem; }
+select {
+  font: 500 1rem var(--font-ui);
+  color: var(--ink);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 0.5rem;
+  padding: 0.55rem 0.6rem;
+  min-height: 2.75rem;
+  max-width: 100%;
+  min-width: 0;
+}
+#chapterSel { flex: 1 1 16rem; }
+details.tips { font-size: 0.95rem; line-height: 1.5; color: var(--muted); }
+details.tips summary { cursor: pointer; font-weight: 600; color: var(--azure); min-height: 2.75rem; display: flex; align-items: center; }
+details.tips ul { margin: 0.25rem 0 0.5rem; padding-left: 1.2rem; display: grid; gap: 0.35rem; }
+.alert {
+  border: 1px solid var(--gilt);
+  background: var(--gilt-wash);
+  color: var(--ink);
+  border-radius: 0.5rem;
+  padding: 0.75rem 0.9rem;
+  line-height: 1.45;
+}
+
+/* Reading text */
+article {
+  font-family: var(--font-read);
+  font-size: 1.16rem;
+  line-height: 1.6;
+  padding-block: 0.5rem calc(var(--player-h) + 2.5rem + env(safe-area-inset-bottom, 0px));
+}
+article h2.chapter-title {
+  font: 700 clamp(1.45rem, 4.2vw, 1.85rem)/1.2 var(--font-display);
+  margin: 1rem 0 0.75rem;
+  text-wrap: balance;
+}
+article h2, article h3, article h4 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  line-height: 1.25;
+  text-wrap: balance;
+}
+article h2 { font-size: 1.35rem; margin: 2rem 0 0.5rem; }
+article h3 { font-size: 1.15rem; margin: 1.5rem 0 0.4rem; }
+article p, article li { margin: 0.6rem 0; }
+article ul, article ol { padding-left: 1.4rem; }
+article blockquote {
+  margin: 1rem 0;
+  padding: 0.25rem 1rem;
+  background: var(--surface);
+  border-radius: 0.5rem;
+  border: 1px solid var(--line);
+}
+article hr { border: 0; border-top: 1px solid var(--line); margin: 2rem 0; }
+article a { color: var(--azure); }
+article code, article pre { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; font-size: 0.85rem; }
+article pre {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 0.5rem;
+  padding: 0.75rem;
+  overflow-x: auto;
+}
+.table-wrap { overflow-x: auto; margin: 1rem 0; border: 1px solid var(--line); border-radius: 0.5rem; background: var(--surface); }
+table { border-collapse: collapse; width: 100%; font-family: var(--font-ui); font-size: 0.95rem; line-height: 1.4; }
+th, td { text-align: left; vertical-align: top; padding: 0.55rem 0.7rem; border-bottom: 1px solid var(--line); }
+th { font-weight: 700; color: var(--muted); font-size: 0.85rem; letter-spacing: 0.03em; }
+tr:last-child td { border-bottom: 0; }
+
+/* The paragraph being read */
+.seg { cursor: pointer; border-radius: 0.35rem; transition: background-color 0.25s ease; }
+.seg:hover { background: color-mix(in srgb, var(--gilt-wash) 45%, transparent); }
+.seg.speaking { background: var(--gilt-wash); box-shadow: 0 0 0 0.3rem var(--gilt-wash); }
+tr.seg.speaking { box-shadow: none; }
+
+.next-chapter {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* Player bar */
+.player {
+  position: fixed;
+  left: 0; right: 0; bottom: 0;
+  z-index: 20;
+  background: var(--surface);
+  border-top: 1px solid var(--line);
+  box-shadow: 0 -0.5rem 1.5rem color-mix(in srgb, var(--ink) 10%, transparent);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+.player .wrap { padding-block: 0.75rem; display: grid; grid-template-columns: minmax(0, 1fr); gap: 0.6rem; }
+.now {
+  display: flex; justify-content: space-between; gap: 0.75rem;
+  font-size: 0.9rem; color: var(--muted);
+  min-width: 0;
+}
+.now .where { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; min-width: 0; }
+.now .count { font-variant-numeric: tabular-nums; white-space: nowrap; }
+.controls { display: flex; align-items: center; justify-content: center; gap: 1rem; }
+.btn {
+  appearance: none;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  color: var(--ink);
+  border-radius: 999px;
+  width: 3.5rem; height: 3.5rem;
+  display: grid; place-items: center;
+  cursor: pointer;
+}
+.btn svg { width: 1.5rem; height: 1.5rem; fill: currentColor; }
+.btn.play { width: 4.5rem; height: 4.5rem; background: var(--azure); color: var(--azure-ink); border-color: var(--azure); }
+.btn.play svg { width: 2rem; height: 2rem; }
+.btn:focus-visible, select:focus-visible, .text-btn:focus-visible, details.tips summary:focus-visible {
+  outline: 3px solid var(--gilt); outline-offset: 2px;
+}
+.btn:disabled { opacity: 0.45; cursor: not-allowed; }
+.settings { display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center; font-size: 0.95rem; }
+.settings label { font-weight: 600; font-size: 0.9rem; }
+.settings .check { font-weight: 500; color: var(--muted); }
+.settings select { min-height: 2.5rem; padding: 0.35rem 0.5rem; font-size: 0.95rem; }
+#voiceSel { flex: 1 1 12rem; }
+.check { display: inline-flex; align-items: center; gap: 0.35rem; min-height: 2.5rem; }
+.check input { width: 1.15rem; height: 1.15rem; accent-color: var(--azure); }
+.text-btn {
+  appearance: none; border: 1px solid var(--azure); background: transparent; color: var(--azure);
+  font: 600 1rem var(--font-ui); border-radius: 999px; padding: 0.6rem 1.1rem; cursor: pointer; min-height: 2.75rem;
+}
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+@media (max-width: 26rem) {
+  .controls { gap: 0.6rem; }
+  article { font-size: 1.1rem; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .seg { transition: none; }
+}
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <div class="eyebrow">Listen while you clean</div>
+    <h1 class="brand">The Heart-Thread</h1>
+    <p class="note"><em>The Bridgewatch · Book One</em>, by Luke Moreland: all 32 chapters, then your writing lessons. Press play and it keeps going, chapter after chapter.</p>
+    <div id="noSpeech" class="alert" hidden>This browser can't read text aloud. Open this page in Safari (iPhone or Mac), Chrome (Android), or Microsoft Edge (Windows).</div>
+    <div id="noVoices" class="alert" hidden>No reading voices were found on this device yet. See "Get a better voice" below to install one, then reload this page.</div>
+    <div class="chapter-row">
+      <label for="chapterSel">Chapter</label>
+      <select id="chapterSel"></select>
+    </div>
+    <div class="settings">
+      <label for="rateSel">Speed</label>
+      <select id="rateSel">
+        <option value="0.8">0.8×</option>
+        <option value="0.9">0.9×</option>
+        <option value="1" selected>1×</option>
+        <option value="1.1">1.1×</option>
+        <option value="1.25">1.25×</option>
+        <option value="1.5">1.5×</option>
+      </select>
+      <label for="voiceSel">Voice</label>
+      <select id="voiceSel"><option value="">Default voice</option></select>
+      <label class="check" for="contChk"><input type="checkbox" id="contChk" checked> Keep going to the next chapter</label>
+    </div>
+    <details class="tips">
+      <summary>Get a better voice, and other tips</summary>
+      <ul>
+        <li><strong>Keep the screen on.</strong> Most phones stop reading when the screen locks. This page asks your phone to stay awake while it reads.</li>
+        <li><strong>Tap any paragraph</strong> to start reading from there.</li>
+        <li><strong>iPhone or iPad:</strong> Settings → Accessibility → Spoken Content → Voices → English. Download a voice marked "Enhanced" or "Premium," then pick it in the Voice menu here.</li>
+        <li><strong>Android:</strong> search Settings for "Text-to-speech" and install Google's voice data.</li>
+        <li><strong>Windows:</strong> open this page in Microsoft Edge and pick a voice with "Natural" in its name. They sound the most human.</li>
+        <li>Menu names vary a little by device and version.</li>
+      </ul>
+    </details>
+  </header>
+
+  <article id="reader" aria-live="off"></article>
+</div>
+
+<div class="player" role="region" aria-label="Reading controls">
+  <div class="wrap">
+    <div class="now">
+      <span class="where" id="nowWhere">Ready</span>
+      <span class="count" id="nowCount"></span>
+    </div>
+    <div class="controls">
+      <button class="btn" id="prevBtn" type="button" aria-label="Previous paragraph">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 5h2v14H6zM20 5v14L9 12z"/></svg>
+      </button>
+      <button class="btn play" id="playBtn" type="button" aria-label="Play">
+        <svg viewBox="0 0 24 24" aria-hidden="true" id="playIcon"><path d="M7 4.5v15L19.5 12z"/></svg>
+      </button>
+      <button class="btn" id="nextBtn" type="button" aria-label="Next paragraph">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16 5h2v14h-2zM4 5v14l11-7z"/></svg>
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+const CHAPTERS = /*__CHAPTERS__*/[];
+
+const ICON_PLAY = '<path d="M7 4.5v15L19.5 12z"/>';
+const ICON_PAUSE = '<path d="M6 4.5h4.5v15H6zM13.5 4.5H18v15h-4.5z"/>';
+const STORE_KEY = 'wk-readaloud-v2';
+
+const $ = (id) => document.getElementById(id);
+const reader = $('reader');
+const synth = 'speechSynthesis' in window ? window.speechSynthesis : null;
+
+const state = { ch: 0, seg: 0, chunk: 0, playing: false, rate: 1, voiceURI: '', cont: true };
+let segments = [];
+let voices = [];
+let gen = 0;
+let wakeLock = null;
+
+function load() {
+  try {
+    const saved = JSON.parse(localStorage.getItem(STORE_KEY) || 'null');
+    if (saved && typeof saved === 'object') {
+      if (Number.isInteger(saved.ch) && saved.ch >= 0 && saved.ch < CHAPTERS.length) state.ch = saved.ch;
+      if (Number.isInteger(saved.seg) && saved.seg >= 0) state.seg = saved.seg;
+      if (typeof saved.rate === 'number') state.rate = saved.rate;
+      if (typeof saved.voiceURI === 'string') state.voiceURI = saved.voiceURI;
+      if (typeof saved.cont === 'boolean') state.cont = saved.cont;
+    }
+  } catch (e) { /* storage unavailable: start fresh */ }
+}
+function save() {
+  try {
+    localStorage.setItem(STORE_KEY, JSON.stringify({
+      ch: state.ch, seg: state.seg, rate: state.rate, voiceURI: state.voiceURI, cont: state.cont,
+    }));
+  } catch (e) { /* ignore */ }
+}
+
+/* ---------- Turning written text into speakable text ---------- */
+const KEEP_CAPS = new Set(['KDP', 'EFA', 'NPR', 'BYU', 'UTC', 'USD', 'PDF', 'KCD', 'ISBN', 'KENP', 'SFWA', 'ASIN', 'HEA', 'DIY', 'EPJ']);
+function speakable(t) {
+  return t
+    .replace(/\s*[☐☑]\s*/g, ', ')
+    .replace(/:\s*,\s*/g, ': ')
+    .replace(/^\s*,\s*/, '')
+    .replace(/[✅✕🟢🔵🟡]/gu, '')
+    .replace(/\s*(?:─+►|──►|►|→)\s*/g, ', then ')
+    .replace(/\$(\d[\d.,]*)\s*\/\s*MB/g, '$$$1 per megabyte')
+    .replace(/¢\s*\/\s*word/g, ' cents per word')
+    .replace(/\/word/g, ' per word')
+    .replace(/~\s*/g, 'about ')
+    .replace(/(\d[\d,.]*%?)\s*[–—-]\s*([$£€]?\d)/g, '$1 to $2')
+    .replace(/\be\.g\.,?/gi, 'for example,')
+    .replace(/\bvs\.?(?=\s)/gi, 'versus')
+    .replace(/#(\d)/g, 'number $1')
+    .replace(/\bYA\b/g, 'Y.A.')
+    .replace(/\bMG\b/g, 'middle grade')
+    .replace(/\bKU\b/g, 'Kindle Unlimited')
+    .replace(/\bPOV\b/g, 'point of view')
+    .replace(/\bPG-13\b/g, 'P.G. 13')
+    .replace(/\s+&\s+/g, ' and ')
+    .replace(/×/g, ' times ')
+    .replace(/−/g, ' minus ')
+    .replace(/\s+\/\s+/g, ' or ')
+    .replace(/(\w)\/(\w)/g, '$1, $2')
+    .replace(/\b[A-Z]{3,}\b/g, (w) => (KEEP_CAPS.has(w) ? w : w.toLowerCase()))
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+function chunk(text) {
+  // Split only where end punctuation is followed by a space and a new sentence,
+  // so prices ($2.99) and initials (Y.A.) stay whole.
+  const parts = text.split(/([.!?…]["”’)]*)\s+(?=[A-Z0-9"“'‘(])/);
+  const sentences = [];
+  for (let i = 0; i < parts.length; i += 2) sentences.push(`${parts[i]}${parts[i + 1] || ''} `);
+  const out = [];
+  let cur = '';
+  const push = (s) => { s = s.trim(); if (s) out.push(s); };
+  for (let s of sentences) {
+    while (s.length > 240) {
+      let cut = s.lastIndexOf(', ', 220);
+      if (cut < 60) cut = s.lastIndexOf(' ', 220);
+      if (cut < 60) cut = 220;
+      push(cur); cur = '';
+      push(s.slice(0, cut + 1));
+      s = s.slice(cut + 1);
+    }
+    if ((cur + s).length > 220) { push(cur); cur = s; } else { cur += s; }
+  }
+  push(cur);
+  return out;
+}
+
+/* ---------- Building a chapter ---------- */
+const BLOCKS = 'h2,h3,h4,p,li,tr,pre';
+function ownText(el) {
+  const copy = el.cloneNode(true);
+  copy.querySelectorAll('ul,ol,p,table,pre,h2,h3,h4,.table-wrap').forEach((n) => n.remove());
+  return copy.textContent;
+}
+function rowText(tr) {
+  // Skip "Source" columns; they're link lists, not something to listen to.
+  const heads = [...(tr.closest('table')?.querySelectorAll('thead th') || [])].map((h) => h.textContent.trim());
+  const cells = [...tr.children]
+    .filter((_, i) => !/^sources?$/i.test(heads[i] || ''))
+    .map((c) => c.textContent.trim().replace(/[.;:,]+$/, ''))
+    .filter(Boolean);
+  if (!cells.length) return '';
+  return cells.length === 1 ? `${cells[0]}.` : `${cells[0]}: ${cells.slice(1).join('. ')}.`;
+}
+function renderChapter(i) {
+  const c = CHAPTERS[i];
+  reader.innerHTML = `<h2 class="chapter-title">${c.title.replace(/&/g, '&amp;').replace(/</g, '&lt;')}</h2>${c.html}`;
+  segments = [];
+  reader.querySelectorAll(BLOCKS).forEach((el) => {
+    if (el.tagName === 'TR' && el.closest('thead')) return;
+    const raw = el.tagName === 'TR' ? rowText(el) : ownText(el);
+    const text = speakable(raw);
+    if (!text) return;
+    el.classList.add('seg');
+    el.dataset.seg = String(segments.length);
+    segments.push({ el, chunks: chunk(text) });
+  });
+  if (i < CHAPTERS.length - 1) {
+    const nav = document.createElement('div');
+    nav.className = 'next-chapter';
+    const b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'text-btn';
+    b.textContent = `Next: ${CHAPTERS[i + 1].title}`;
+    b.addEventListener('click', () => goChapter(i + 1, state.playing));
+    nav.appendChild(b);
+    reader.appendChild(nav);
+  }
+  $('chapterSel').value = String(i);
+  updateNow();
+}
+
+/* ---------- Speaking ---------- */
+function pickVoice() {
+  return voices.find((v) => v.voiceURI === state.voiceURI) || null;
+}
+function highlight() {
+  reader.querySelectorAll('.seg.speaking').forEach((n) => n.classList.remove('speaking'));
+  const s = segments[state.seg];
+  if (!s) return;
+  s.el.classList.add('speaking');
+  const r = s.el.getBoundingClientRect();
+  const playerTop = document.querySelector('.player').getBoundingClientRect().top;
+  if (r.top < 0 || r.bottom > playerTop - 16) {
+    const smooth = !window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    s.el.scrollIntoView({ block: 'center', behavior: smooth ? 'smooth' : 'auto' });
+  }
+}
+function updateNow() {
+  const c = CHAPTERS[state.ch];
+  $('nowWhere').textContent = state.playing ? `Reading: ${c.title}` : c.title;
+  $('nowCount').textContent = segments.length ? `${Math.min(state.seg + 1, segments.length)} / ${segments.length}` : '';
+}
+function setPlayUI() {
+  $('playIcon').innerHTML = state.playing ? ICON_PAUSE : ICON_PLAY;
+  $('playBtn').setAttribute('aria-label', state.playing ? 'Pause' : 'Play');
+  updateNow();
+}
+function speakCurrent() {
+  if (!synth || !state.playing) return;
+  const myGen = ++gen;
+  if (synth.speaking || synth.pending) synth.cancel();
+  let s = segments[state.seg];
+  while (s && state.chunk >= s.chunks.length) {
+    state.seg += 1; state.chunk = 0; s = segments[state.seg];
+  }
+  if (!s) { endOfChapter(); return; }
+  highlight(); updateNow(); save();
+  const u = new SpeechSynthesisUtterance(s.chunks[state.chunk]);
+  u.rate = state.rate;
+  const v = pickVoice();
+  if (v) { u.voice = v; u.lang = v.lang; } else { u.lang = 'en-US'; }
+  u.onend = () => {
+    if (myGen !== gen || !state.playing) return;
+    state.chunk += 1;
+    speakCurrent();
+  };
+  u.onerror = (e) => {
+    if (myGen !== gen) return;
+    if (e.error === 'interrupted' || e.error === 'canceled') return;
+    if (e.error === 'not-allowed') { stop(); return; }
+    state.chunk += 1;
+    speakCurrent();
+  };
+  synth.speak(u);
+}
+function endOfChapter() {
+  if (state.cont && state.ch < CHAPTERS.length - 1) {
+    goChapter(state.ch + 1, true);
+  } else {
+    stop();
+    state.seg = 0; state.chunk = 0; save(); updateNow();
+  }
+}
+async function keepAwake() {
+  try {
+    if ('wakeLock' in navigator && document.visibilityState === 'visible' && !wakeLock) {
+      wakeLock = await navigator.wakeLock.request('screen');
+      wakeLock.addEventListener('release', () => { wakeLock = null; });
+    }
+  } catch (e) { wakeLock = null; }
+}
+function letSleep() {
+  try { if (wakeLock) wakeLock.release(); } catch (e) { /* ignore */ }
+  wakeLock = null;
+}
+function play() {
+  if (!synth) return;
+  state.playing = true;
+  setPlayUI();
+  keepAwake();
+  speakCurrent();
+}
+function stop() {
+  state.playing = false;
+  gen += 1;
+  if (synth) synth.cancel();
+  letSleep();
+  setPlayUI();
+}
+function jumpTo(seg) {
+  state.seg = Math.max(0, Math.min(seg, segments.length - 1));
+  state.chunk = 0;
+  save();
+  if (state.playing) speakCurrent(); else { highlight(); updateNow(); }
+}
+function goChapter(i, keepPlaying) {
+  const wasPlaying = keepPlaying && state.playing;
+  if (state.playing) { gen += 1; if (synth) synth.cancel(); }
+  state.ch = i; state.seg = 0; state.chunk = 0;
+  renderChapter(i);
+  save();
+  window.scrollTo({ top: 0 });
+  if (wasPlaying) speakCurrent(); else if (state.playing) stop();
+}
+
+/* ---------- Voices ---------- */
+function voiceScore(v) {
+  let s = 0;
+  if (/natural|neural|premium|enhanced|siri/i.test(v.name)) s += 4;
+  if (/google/i.test(v.name)) s += 2;
+  if (/^en[-_]US/i.test(v.lang)) s += 1;
+  if (v.default) s += 1;
+  return s;
+}
+function loadVoices() {
+  if (!synth) return;
+  const all = synth.getVoices();
+  const english = all.filter((v) => /^en/i.test(v.lang));
+  voices = (english.length ? english : all).slice().sort((a, b) => voiceScore(b) - voiceScore(a) || a.name.localeCompare(b.name));
+  const sel = $('voiceSel');
+  sel.innerHTML = '';
+  if (!voices.length) {
+    sel.innerHTML = '<option value="">Default voice</option>';
+    return;
+  }
+  for (const v of voices) {
+    const o = document.createElement('option');
+    o.value = v.voiceURI;
+    o.textContent = `${v.name} (${v.lang})`;
+    sel.appendChild(o);
+  }
+  if (!voices.some((v) => v.voiceURI === state.voiceURI)) state.voiceURI = voices[0].voiceURI;
+  sel.value = state.voiceURI;
+  $('noVoices').hidden = true;
+}
+
+/* ---------- Wiring ---------- */
+function init() {
+  load();
+  const chapterSel = $('chapterSel');
+  let group = null;
+  let og = null;
+  CHAPTERS.forEach((c, i) => {
+    if (c.group !== group) {
+      group = c.group;
+      og = document.createElement('optgroup');
+      og.label = group;
+      chapterSel.appendChild(og);
+    }
+    const o = document.createElement('option');
+    o.value = String(i);
+    o.textContent = c.title;
+    og.appendChild(o);
+  });
+  $('rateSel').value = String(state.rate);
+  if (!$('rateSel').value) { state.rate = 1; $('rateSel').value = '1'; }
+  $('contChk').checked = state.cont;
+
+  const savedSeg = state.seg;
+  renderChapter(state.ch);
+  state.seg = Math.min(savedSeg, Math.max(0, segments.length - 1));
+  if (state.seg > 0) highlight();
+  updateNow();
+
+  if (!synth) {
+    $('noSpeech').hidden = false;
+    ['playBtn', 'prevBtn', 'nextBtn'].forEach((id) => { $(id).disabled = true; });
+    return;
+  }
+  const player = document.querySelector('.player');
+  const syncPad = () => { reader.style.paddingBottom = `${player.offsetHeight + 40}px`; };
+  syncPad();
+  if ('ResizeObserver' in window) new ResizeObserver(syncPad).observe(player);
+
+  loadVoices();
+  synth.onvoiceschanged = loadVoices;
+  setTimeout(() => { loadVoices(); if (!voices.length) $('noVoices').hidden = false; }, 1500);
+
+  $('playBtn').addEventListener('click', () => (state.playing ? stop() : play()));
+  $('prevBtn').addEventListener('click', () => jumpTo(state.seg - 1));
+  $('nextBtn').addEventListener('click', () => jumpTo(state.seg + 1));
+  chapterSel.addEventListener('change', () => goChapter(Number(chapterSel.value), true));
+  $('rateSel').addEventListener('change', (e) => {
+    state.rate = Number(e.target.value) || 1; save();
+    if (state.playing) speakCurrent();
+  });
+  $('voiceSel').addEventListener('change', (e) => {
+    state.voiceURI = e.target.value; save();
+    if (state.playing) speakCurrent();
+  });
+  $('contChk').addEventListener('change', (e) => { state.cont = e.target.checked; save(); });
+
+  reader.addEventListener('click', (e) => {
+    if (e.target.closest('a, button')) return;
+    const el = e.target.closest('.seg');
+    if (!el) return;
+    state.seg = Number(el.dataset.seg); state.chunk = 0; save();
+    if (!state.playing) play(); else speakCurrent();
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.target.closest('select, input, textarea, button')) return;
+    if (e.code === 'Space') { e.preventDefault(); state.playing ? stop() : play(); }
+    else if (e.key === 'ArrowRight') jumpTo(state.seg + 1);
+    else if (e.key === 'ArrowLeft') jumpTo(state.seg - 1);
+  });
+  document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState === 'visible' && state.playing) keepAwake();
+  });
+}
+init();
+</script>
