@@ -34,12 +34,12 @@ def split_h1(md: str):
 
 chapters = []
 
-# 0. The story itself (Season 1), if it exists.
+# 0. The story itself (Book One), if it exists.
 story_parts = [
-    ("part-1", "Season 1 · Part One: The Burned March"),
-    ("part-2", "Season 1 · Part Two: The Hollowwood"),
-    ("part-3", "Season 1 · Part Three: The Broken Oath"),
-    ("part-4", "Season 1 · Part Four: The Bridge of Dawn"),
+    ("part-1", "Book One · Part One: The Burned March"),
+    ("part-2", "Book One · Part Two: The Hollowwood"),
+    ("part-3", "Book One · Part Three: The Broken Oath"),
+    ("part-4", "Book One · Part Four: The Bridge of Dawn"),
 ]
 for folder, group in story_parts:
     for f in sorted((guide / "my-series" / "manuscript" / folder).glob("ch*.md")):
